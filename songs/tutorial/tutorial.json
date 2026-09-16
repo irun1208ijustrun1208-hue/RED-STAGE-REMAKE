@@ -1,0 +1,344 @@
+{
+  "format": 2,
+  "meta": {
+    "title": "첫 박자",
+    "artist": "RED REMAKE",
+    "charter": "auto",
+    "difficulty": "TUTORIAL",
+    "level": 1,
+    "color": "#8fd9ff"
+  },
+  "audio": {
+    "file": "audio.wav",
+    "offset_ms": 0.0,
+    "preview_ms": 24000
+  },
+  "timing": {
+    "bpm": [
+      {
+        "beat": 0.0,
+        "bpm": 100.0
+      }
+    ]
+  },
+  "scroll": [
+    {
+      "beat": 0.0,
+      "speed": 0.85
+    }
+  ],
+  "notes": [
+    {
+      "lane": 0,
+      "beat": 2.0,
+      "spin": true
+    },
+    {
+      "lane": 0,
+      "beat": 8.0
+    },
+    {
+      "lane": 0,
+      "beat": 10.0
+    },
+    {
+      "lane": 0,
+      "beat": 12.0
+    },
+    {
+      "lane": 0,
+      "beat": 14.0
+    },
+    {
+      "lane": 1,
+      "beat": 16.0
+    },
+    {
+      "lane": 1,
+      "beat": 18.0
+    },
+    {
+      "lane": 1,
+      "beat": 20.0
+    },
+    {
+      "lane": 1,
+      "beat": 22.0
+    },
+    {
+      "lane": 2,
+      "beat": 24.0
+    },
+    {
+      "lane": 2,
+      "beat": 26.0
+    },
+    {
+      "lane": 2,
+      "beat": 28.0
+    },
+    {
+      "lane": 2,
+      "beat": 30.0
+    },
+    {
+      "lane": 3,
+      "beat": 32.0
+    },
+    {
+      "lane": 3,
+      "beat": 34.0
+    },
+    {
+      "lane": 3,
+      "beat": 36.0
+    },
+    {
+      "lane": 3,
+      "beat": 38.0
+    },
+    {
+      "lane": 0,
+      "beat": 40.0
+    },
+    {
+      "lane": 1,
+      "beat": 41.0
+    },
+    {
+      "lane": 0,
+      "beat": 42.0
+    },
+    {
+      "lane": 1,
+      "beat": 43.0
+    },
+    {
+      "lane": 0,
+      "beat": 44.0
+    },
+    {
+      "lane": 1,
+      "beat": 45.0
+    },
+    {
+      "lane": 0,
+      "beat": 46.0
+    },
+    {
+      "lane": 1,
+      "beat": 47.0
+    },
+    {
+      "lane": 2,
+      "beat": 48.0
+    },
+    {
+      "lane": 3,
+      "beat": 49.0
+    },
+    {
+      "lane": 2,
+      "beat": 50.0
+    },
+    {
+      "lane": 3,
+      "beat": 51.0
+    },
+    {
+      "lane": 2,
+      "beat": 52.0
+    },
+    {
+      "lane": 3,
+      "beat": 53.0
+    },
+    {
+      "lane": 2,
+      "beat": 54.0
+    },
+    {
+      "lane": 3,
+      "beat": 55.0
+    },
+    {
+      "lane": 0,
+      "beat": 56.0
+    },
+    {
+      "lane": 1,
+      "beat": 57.0
+    },
+    {
+      "lane": 2,
+      "beat": 58.0
+    },
+    {
+      "lane": 3,
+      "beat": 59.0
+    },
+    {
+      "lane": 0,
+      "beat": 60.0
+    },
+    {
+      "lane": 1,
+      "beat": 61.0
+    },
+    {
+      "lane": 2,
+      "beat": 62.0
+    },
+    {
+      "lane": 3,
+      "beat": 63.0
+    },
+    {
+      "lane": 0,
+      "beat": 64.0,
+      "len": 1.8
+    },
+    {
+      "lane": 3,
+      "beat": 66.0,
+      "len": 1.8
+    },
+    {
+      "lane": 0,
+      "beat": 72.0
+    },
+    {
+      "lane": 3,
+      "beat": 72.0
+    },
+    {
+      "lane": 0,
+      "beat": 74.0
+    },
+    {
+      "lane": 3,
+      "beat": 74.0
+    },
+    {
+      "lane": 1,
+      "beat": 76.0
+    },
+    {
+      "lane": 2,
+      "beat": 76.0
+    },
+    {
+      "lane": 1,
+      "beat": 78.0
+    },
+    {
+      "lane": 2,
+      "beat": 78.0
+    },
+    {
+      "lane": 0,
+      "beat": 80.0
+    },
+    {
+      "lane": 1,
+      "beat": 80.5
+    },
+    {
+      "lane": 2,
+      "beat": 81.0
+    },
+    {
+      "lane": 3,
+      "beat": 81.5
+    },
+    {
+      "lane": 1,
+      "beat": 82.0
+    },
+    {
+      "lane": 2,
+      "beat": 82.5
+    },
+    {
+      "lane": 0,
+      "beat": 83.0
+    },
+    {
+      "lane": 3,
+      "beat": 83.5
+    },
+    {
+      "lane": 0,
+      "beat": 88.0
+    },
+    {
+      "lane": 1,
+      "beat": 88.0
+    },
+    {
+      "lane": 2,
+      "beat": 88.0
+    },
+    {
+      "lane": 3,
+      "beat": 88.0
+    }
+  ],
+  "events": [
+    {
+      "beat": 6.0,
+      "type": "flash",
+      "power": 0.3
+    },
+    {
+      "beat": 64.0,
+      "type": "flash",
+      "power": 0.5,
+      "color": [
+        0.6,
+        1.0,
+        0.9
+      ]
+    },
+    {
+      "beat": 72.0,
+      "type": "flash",
+      "power": 0.5,
+      "color": [
+        1.0,
+        0.9,
+        0.5
+      ]
+    },
+    {
+      "beat": 88.0,
+      "type": "flash",
+      "power": 0.8,
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "beat": 88.0,
+      "type": "shake",
+      "power": 0.5,
+      "duration": 0.3
+    }
+  ],
+  "flux": [
+    {
+      "points": [
+        {
+          "beat": 92.0,
+          "x": 0.0
+        },
+        {
+          "beat": 96.0,
+          "x": 1.0
+        }
+      ]
+    }
+  ]
+}

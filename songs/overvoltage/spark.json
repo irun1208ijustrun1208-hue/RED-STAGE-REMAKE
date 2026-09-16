@@ -1,0 +1,274 @@
+{
+  "format": 2,
+  "meta": {
+    "title": "OVERVOLTAGE",
+    "artist": "RED REMAKE",
+    "charter": "auto",
+    "difficulty": "SPARK",
+    "level": 2,
+    "color": "#4affa0"
+  },
+  "audio": {
+    "file": "audio.wav",
+    "offset_ms": 0.0,
+    "preview_ms": 68571
+  },
+  "timing": {
+    "bpm": [
+      {
+        "beat": 0.0,
+        "bpm": 168.0
+      }
+    ]
+  },
+  "scroll": [
+    {
+      "beat": 0,
+      "speed": 1.0
+    }
+  ],
+  "notes": [
+    {
+      "lane": 1,
+      "beat": 32.0
+    },
+    {
+      "lane": 2,
+      "beat": 36.0
+    },
+    {
+      "lane": 1,
+      "beat": 40.0
+    },
+    {
+      "lane": 2,
+      "beat": 44.0
+    },
+    {
+      "lane": 1,
+      "beat": 48.0
+    },
+    {
+      "lane": 2,
+      "beat": 52.0
+    },
+    {
+      "lane": 1,
+      "beat": 56.0
+    },
+    {
+      "lane": 2,
+      "beat": 60.0
+    },
+    {
+      "lane": 1,
+      "beat": 64.0
+    },
+    {
+      "lane": 2,
+      "beat": 68.0
+    },
+    {
+      "lane": 1,
+      "beat": 72.0
+    },
+    {
+      "lane": 2,
+      "beat": 76.0
+    },
+    {
+      "lane": 1,
+      "beat": 80.0
+    },
+    {
+      "lane": 2,
+      "beat": 84.0
+    },
+    {
+      "lane": 1,
+      "beat": 88.0
+    },
+    {
+      "lane": 2,
+      "beat": 92.0
+    },
+    {
+      "lane": 1,
+      "beat": 96.0
+    },
+    {
+      "lane": 2,
+      "beat": 100.0
+    },
+    {
+      "lane": 1,
+      "beat": 104.0
+    },
+    {
+      "lane": 2,
+      "beat": 108.0
+    },
+    {
+      "lane": 1,
+      "beat": 112.0
+    },
+    {
+      "lane": 2,
+      "beat": 116.0
+    },
+    {
+      "lane": 1,
+      "beat": 120.0
+    },
+    {
+      "lane": 2,
+      "beat": 124.0
+    },
+    {
+      "lane": 1,
+      "beat": 128.0
+    },
+    {
+      "lane": 2,
+      "beat": 132.0
+    },
+    {
+      "lane": 1,
+      "beat": 136.0
+    },
+    {
+      "lane": 2,
+      "beat": 140.0
+    },
+    {
+      "lane": 1,
+      "beat": 144.0
+    },
+    {
+      "lane": 2,
+      "beat": 148.0
+    },
+    {
+      "lane": 1,
+      "beat": 152.0
+    },
+    {
+      "lane": 2,
+      "beat": 156.0
+    },
+    {
+      "lane": 1,
+      "beat": 192.0
+    },
+    {
+      "lane": 2,
+      "beat": 196.0
+    },
+    {
+      "lane": 1,
+      "beat": 200.0
+    },
+    {
+      "lane": 2,
+      "beat": 204.0
+    },
+    {
+      "lane": 1,
+      "beat": 208.0
+    },
+    {
+      "lane": 2,
+      "beat": 212.0
+    },
+    {
+      "lane": 1,
+      "beat": 216.0
+    },
+    {
+      "lane": 2,
+      "beat": 220.0
+    },
+    {
+      "lane": 1,
+      "beat": 224.0
+    },
+    {
+      "lane": 2,
+      "beat": 228.0
+    },
+    {
+      "lane": 1,
+      "beat": 232.0
+    },
+    {
+      "lane": 2,
+      "beat": 236.0
+    },
+    {
+      "lane": 1,
+      "beat": 240.0
+    },
+    {
+      "lane": 2,
+      "beat": 244.0
+    },
+    {
+      "lane": 1,
+      "beat": 248.0
+    },
+    {
+      "lane": 2,
+      "beat": 252.0
+    },
+    {
+      "lane": 1,
+      "beat": 256.0
+    },
+    {
+      "lane": 2,
+      "beat": 260.0
+    },
+    {
+      "lane": 1,
+      "beat": 264.0
+    },
+    {
+      "lane": 2,
+      "beat": 268.0
+    },
+    {
+      "lane": 1,
+      "beat": 272.0
+    },
+    {
+      "lane": 2,
+      "beat": 276.0
+    },
+    {
+      "lane": 1,
+      "beat": 280.0
+    },
+    {
+      "lane": 2,
+      "beat": 284.0
+    },
+    {
+      "lane": 1,
+      "beat": 288.0
+    },
+    {
+      "lane": 2,
+      "beat": 292.0
+    },
+    {
+      "lane": 1,
+      "beat": 296.0
+    },
+    {
+      "lane": 2,
+      "beat": 300.0
+    }
+  ],
+  "events": [],
+  "flux": []
+}
