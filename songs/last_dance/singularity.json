@@ -5972,48 +5972,39 @@
       "points": [
         {
           "beat": 192.0,
-          "x": 0.0,
-          "curve": "linear"
+          "x": 0.0
         },
         {
           "beat": 196.0,
-          "x": 1.0,
-          "curve": "linear"
+          "x": 1.0
         },
         {
           "beat": 200.0,
-          "x": 0.0,
-          "curve": "linear"
+          "x": 0.0
         },
         {
           "beat": 204.0,
-          "x": 1.0,
-          "curve": "linear"
+          "x": 1.0
         },
         {
           "beat": 208.0,
-          "x": 0.0,
-          "curve": "linear"
+          "x": 0.0
         },
         {
           "beat": 212.0,
-          "x": 1.0,
-          "curve": "linear"
+          "x": 1.0
         },
         {
           "beat": 216.0,
-          "x": 0.0,
-          "curve": "linear"
+          "x": 0.0
         },
         {
           "beat": 220.0,
-          "x": 1.0,
-          "curve": "linear"
+          "x": 1.0
         },
         {
           "beat": 224.0,
-          "x": 0.0,
-          "curve": "linear"
+          "x": 0.0
         }
       ]
     }
