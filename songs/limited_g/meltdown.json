@@ -1,31 +1,31 @@
 {
-  "format": 2,
+  "format": 3,
   "meta": {
     "title": "Limited G",
     "artist": "RED REMAKE",
-    "charter": "auto",
+    "charter": "RED REMAKE (auto + director)",
     "difficulty": "MELTDOWN",
     "level": 15,
     "color": "#c86bff"
   },
   "audio": {
     "file": "audio.wav",
-    "offset_ms": 0.0,
+    "offset_ms": 0,
     "preview_ms": 68571
   },
   "timing": {
     "bpm": [
       {
-        "beat": 0.0,
-        "bpm": 140.0
+        "beat": 0,
+        "bpm": 140.0001
       },
       {
-        "beat": 224.0,
-        "bpm": 175.0
+        "beat": 224,
+        "bpm": 175.0001
       },
       {
-        "beat": 288.0,
-        "bpm": 140.0
+        "beat": 288,
+        "bpm": 140.0001
       }
     ]
   },
@@ -50,82 +50,88 @@
   "notes": [
     {
       "lane": 0,
-      "beat": 16.0
+      "beat": 16
     },
     {
       "lane": 3,
-      "beat": 16.75
+      "beat": 16.75,
+      "surge": true
     },
     {
-      "lane": 0,
-      "beat": 17.5
+      "lane": 1,
+      "beat": 17.5,
+      "surge": true
+    },
+    {
+      "lane": 2,
+      "beat": 18
     },
     {
       "lane": 3,
-      "beat": 18.0
-    },
-    {
-      "lane": 0,
       "beat": 18.75
     },
     {
-      "lane": 3,
+      "lane": 1,
       "beat": 19.5
     },
     {
-      "lane": 0,
-      "beat": 20.0
-    },
-    {
-      "lane": 3,
-      "beat": 20.75
+      "lane": 2,
+      "beat": 20
     },
     {
       "lane": 0,
-      "beat": 21.5
+      "beat": 20.75,
+      "surge": true
+    },
+    {
+      "lane": 1,
+      "beat": 21.5,
+      "surge": true
+    },
+    {
+      "lane": 2,
+      "beat": 22,
+      "surge": true
     },
     {
       "lane": 3,
-      "beat": 22.0
+      "beat": 22.75,
+      "surge": true
     },
     {
-      "lane": 0,
-      "beat": 22.75
-    },
-    {
-      "lane": 3,
+      "lane": 2,
       "beat": 23.5
     },
     {
-      "lane": 0,
-      "beat": 24.0
+      "lane": 3,
+      "beat": 24
     },
     {
-      "lane": 3,
+      "lane": 2,
       "beat": 24.75
     },
     {
-      "lane": 0,
+      "lane": 1,
       "beat": 25.5
     },
     {
-      "lane": 3,
-      "beat": 26.0
+      "lane": 0,
+      "beat": 26
     },
     {
-      "lane": 0,
+      "lane": 2,
       "beat": 26.75
     },
     {
-      "lane": 3,
+      "lane": 1,
       "beat": 27.5
     },
     {
       "lane": 0,
-      "beat": 28.0
+      "beat": 28
     },
     {
-      "lane": 3,
+      "lane": 1,
       "beat": 28.75
     },
     {
@@ -133,24 +139,25 @@
       "beat": 29.5
     },
     {
-      "lane": 3,
-      "beat": 30.0
+      "lane": 1,
+      "beat": 30
     },
     {
       "lane": 0,
       "beat": 30.75
     },
     {
-      "lane": 3,
-      "beat": 31.5
-    },
-    {
-      "lane": 0,
-      "beat": 32.0
-    },
-    {
       "lane": 1,
-      "beat": 32.75
+      "beat": 31.5,
+      "surge": true
+    },
+    {
+      "lane": 2,
+      "beat": 32
+    },
+    {
+      "lane": 4,
+      "beat": 32
     },
     {
       "lane": 3,
@@ -158,38 +165,30 @@
     },
     {
       "lane": 3,
-      "beat": 33.0
+      "beat": 33
     },
     {
-      "lane": 0,
+      "lane": 2,
       "beat": 33.5
     },
     {
-      "lane": 2,
+      "lane": 1,
       "beat": 33.75
     },
     {
+      "lane": 3,
+      "beat": 34
+    },
+    {
       "lane": 2,
-      "beat": 34.0
-    },
-    {
-      "lane": 3,
-      "beat": 34.0
-    },
-    {
-      "lane": 0,
       "beat": 34.75
     },
     {
       "lane": 1,
-      "beat": 34.75
+      "beat": 35
     },
     {
-      "lane": 1,
-      "beat": 35.0
-    },
-    {
-      "lane": 3,
+      "lane": 2,
       "beat": 35.5
     },
     {
@@ -198,43 +197,31 @@
     },
     {
       "lane": 2,
-      "beat": 35.75
-    },
-    {
-      "lane": 0,
-      "beat": 36.0
-    },
-    {
-      "lane": 1,
-      "beat": 36.0
-    },
-    {
-      "lane": 1,
-      "beat": 36.75
+      "beat": 36
     },
     {
       "lane": 3,
+      "beat": 36
+    },
+    {
+      "lane": 1,
       "beat": 36.75
     },
     {
       "lane": 0,
-      "beat": 37.0
+      "beat": 37
     },
     {
-      "lane": 0,
+      "lane": 1,
       "beat": 37.5
     },
     {
-      "lane": 2,
+      "lane": 0,
       "beat": 37.75
     },
     {
-      "lane": 3,
-      "beat": 38.0
-    },
-    {
       "lane": 0,
-      "beat": 38.75
+      "beat": 38
     },
     {
       "lane": 1,
@@ -242,10 +229,10 @@
     },
     {
       "lane": 2,
-      "beat": 39.0
+      "beat": 39
     },
     {
-      "lane": 3,
+      "lane": 0,
       "beat": 39.5
     },
     {
@@ -254,47 +241,27 @@
     },
     {
       "lane": 2,
-      "beat": 39.75
+      "beat": 40
     },
     {
       "lane": 0,
-      "beat": 40.0
-    },
-    {
-      "lane": 2,
-      "beat": 40.0
-    },
-    {
-      "lane": 1,
-      "beat": 40.75
-    },
-    {
-      "lane": 3,
       "beat": 40.75
     },
     {
       "lane": 1,
-      "beat": 41.0
+      "beat": 41
     },
     {
       "lane": 0,
       "beat": 41.5
     },
     {
-      "lane": 2,
+      "lane": 1,
       "beat": 41.75
     },
     {
-      "lane": 0,
-      "beat": 42.0
-    },
-    {
       "lane": 3,
-      "beat": 42.0
-    },
-    {
-      "lane": 0,
-      "beat": 42.75
+      "beat": 42
     },
     {
       "lane": 1,
@@ -302,10 +269,10 @@
     },
     {
       "lane": 3,
-      "beat": 43.0
+      "beat": 43
     },
     {
-      "lane": 3,
+      "lane": 0,
       "beat": 43.5
     },
     {
@@ -313,56 +280,40 @@
       "beat": 43.75
     },
     {
-      "lane": 2,
-      "beat": 43.75
-    },
-    {
       "lane": 0,
-      "beat": 44.0
+      "beat": 44
     },
     {
       "lane": 3,
-      "beat": 44.0
+      "beat": 44
+    },
+    {
+      "lane": 2,
+      "beat": 44.75
     },
     {
       "lane": 1,
-      "beat": 44.75
-    },
-    {
-      "lane": 3,
-      "beat": 44.75
+      "beat": 45
     },
     {
       "lane": 2,
-      "beat": 45.0
-    },
-    {
-      "lane": 0,
       "beat": 45.5
     },
     {
-      "lane": 2,
+      "lane": 3,
       "beat": 45.75
     },
     {
-      "lane": 1,
-      "beat": 46.0
-    },
-    {
       "lane": 3,
-      "beat": 46.0
+      "beat": 46
     },
     {
-      "lane": 0,
+      "lane": 2,
       "beat": 46.75
     },
     {
-      "lane": 1,
-      "beat": 46.75
-    },
-    {
-      "lane": 0,
-      "beat": 47.0
+      "lane": 2,
+      "beat": 47
     },
     {
       "lane": 3,
@@ -374,11 +325,11 @@
     },
     {
       "lane": 2,
-      "beat": 47.75
+      "beat": 48
     },
     {
-      "lane": 0,
-      "beat": 48.0
+      "lane": 5,
+      "beat": 48
     },
     {
       "lane": 1,
@@ -386,330 +337,257 @@
     },
     {
       "lane": 3,
-      "beat": 48.75
+      "beat": 49
     },
     {
-      "lane": 3,
-      "beat": 49.0
-    },
-    {
-      "lane": 0,
+      "lane": 1,
       "beat": 49.5
     },
     {
-      "lane": 2,
+      "lane": 1,
       "beat": 49.75
     },
     {
-      "lane": 2,
-      "beat": 50.0
-    },
-    {
-      "lane": 3,
-      "beat": 50.0
-    },
-    {
       "lane": 0,
-      "beat": 50.75
+      "beat": 50
     },
     {
       "lane": 1,
       "beat": 50.75
     },
     {
-      "lane": 1,
-      "beat": 51.0
+      "lane": 2,
+      "beat": 51
     },
     {
-      "lane": 3,
+      "lane": 1,
       "beat": 51.5
     },
     {
-      "lane": 1,
-      "beat": 51.75
-    },
-    {
       "lane": 2,
       "beat": 51.75
     },
     {
       "lane": 0,
-      "beat": 52.0
+      "beat": 52
     },
     {
       "lane": 1,
-      "beat": 52.0
+      "beat": 52
+    },
+    {
+      "lane": 2,
+      "beat": 52.75
     },
     {
       "lane": 1,
-      "beat": 52.75
-    },
-    {
-      "lane": 3,
-      "beat": 52.75
-    },
-    {
-      "lane": 0,
-      "beat": 53.0
+      "beat": 53
     },
     {
       "lane": 0,
       "beat": 53.5
     },
     {
-      "lane": 2,
+      "lane": 3,
       "beat": 53.75
     },
     {
-      "lane": 3,
-      "beat": 54.0
-    },
-    {
-      "lane": 0,
-      "beat": 54.75
-    },
-    {
       "lane": 1,
-      "beat": 54.75
+      "beat": 54
     },
     {
       "lane": 2,
-      "beat": 55.0
+      "beat": 54.75
     },
     {
-      "lane": 3,
+      "lane": 0,
+      "beat": 55
+    },
+    {
+      "lane": 1,
       "beat": 55.5
     },
     {
-      "lane": 1,
-      "beat": 55.75
-    },
-    {
-      "lane": 2,
-      "beat": 55.75
-    },
-    {
       "lane": 0,
-      "beat": 56.0
-    },
-    {
-      "lane": 2,
-      "beat": 56.0
+      "beat": 55.75
     },
     {
       "lane": 1,
+      "beat": 56
+    },
+    {
+      "lane": 2,
       "beat": 56.75
+    },
+    {
+      "lane": 2,
+      "beat": 57
     },
     {
       "lane": 3,
-      "beat": 56.75
-    },
-    {
-      "lane": 1,
-      "beat": 57.0
-    },
-    {
-      "lane": 0,
       "beat": 57.5
     },
     {
-      "lane": 2,
+      "lane": 1,
       "beat": 57.75
     },
     {
       "lane": 0,
-      "beat": 58.0
+      "beat": 58
+    },
+    {
+      "lane": 2,
+      "beat": 58
     },
     {
       "lane": 3,
-      "beat": 58.0
+      "beat": 58.75
     },
     {
-      "lane": 0,
-      "beat": 58.75
+      "lane": 2,
+      "beat": 59
     },
     {
       "lane": 1,
-      "beat": 58.75
-    },
-    {
-      "lane": 3,
-      "beat": 59.0
-    },
-    {
-      "lane": 3,
       "beat": 59.5
     },
     {
-      "lane": 1,
-      "beat": 59.75
-    },
-    {
       "lane": 2,
       "beat": 59.75
     },
     {
-      "lane": 0,
-      "beat": 60.0
-    },
-    {
-      "lane": 3,
-      "beat": 60.0
-    },
-    {
       "lane": 1,
-      "beat": 60.75
-    },
-    {
-      "lane": 3,
-      "beat": 60.75
+      "beat": 60
     },
     {
       "lane": 2,
-      "beat": 61.0
+      "beat": 60.75
     },
     {
       "lane": 0,
+      "beat": 61
+    },
+    {
+      "lane": 1,
       "beat": 61.5
     },
     {
-      "lane": 2,
+      "lane": 0,
       "beat": 61.75
     },
     {
       "lane": 1,
-      "beat": 62.0
+      "beat": 62
     },
     {
-      "lane": 3,
-      "beat": 62.0
-    },
-    {
-      "lane": 0,
+      "lane": 2,
       "beat": 62.75
     },
     {
       "lane": 1,
-      "beat": 62.75
-    },
-    {
-      "lane": 0,
-      "beat": 63.0
+      "beat": 63
     },
     {
       "lane": 3,
       "beat": 63.5
     },
     {
-      "lane": 1,
+      "lane": 0,
       "beat": 63.75
     },
     {
       "lane": 2,
-      "beat": 63.75
+      "beat": 64
     },
     {
-      "lane": 0,
-      "beat": 64.0
+      "lane": 3,
+      "beat": 64
+    },
+    {
+      "lane": 4,
+      "beat": 64
     },
     {
       "lane": 1,
       "beat": 64.75
     },
     {
-      "lane": 3,
-      "beat": 64.75
-    },
-    {
-      "lane": 3,
-      "beat": 65.0
-    },
-    {
       "lane": 0,
+      "beat": 65,
+      "shift": 2
+    },
+    {
+      "lane": 1,
       "beat": 65.5
     },
     {
-      "lane": 2,
+      "lane": 3,
       "beat": 65.75
     },
     {
       "lane": 2,
-      "beat": 66.0
-    },
-    {
-      "lane": 3,
-      "beat": 66.0
-    },
-    {
-      "lane": 0,
-      "beat": 66.75
+      "beat": 66
     },
     {
       "lane": 1,
       "beat": 66.75
     },
     {
-      "lane": 1,
-      "beat": 67.0
-    },
-    {
-      "lane": 3,
-      "beat": 67.5
-    },
-    {
-      "lane": 1,
-      "beat": 67.75
+      "lane": 0,
+      "beat": 67,
+      "shift": 2
     },
     {
       "lane": 2,
-      "beat": 67.75
-    },
-    {
-      "lane": 0,
-      "beat": 68.0
+      "beat": 67.5,
+      "shift": 3
     },
     {
       "lane": 1,
-      "beat": 68.0
+      "beat": 67.75,
+      "shift": 3
+    },
+    {
+      "lane": 2,
+      "beat": 68
     },
     {
       "lane": 1,
       "beat": 68.75
     },
     {
+      "lane": 1,
+      "beat": 69,
+      "shift": 3
+    },
+    {
       "lane": 3,
-      "beat": 68.75
+      "beat": 69.5,
+      "shift": 1
     },
     {
-      "lane": 0,
-      "beat": 69.0
-    },
-    {
-      "lane": 0,
-      "beat": 69.5
-    },
-    {
-      "lane": 2,
+      "lane": 3,
       "beat": 69.75
     },
     {
-      "lane": 3,
-      "beat": 70.0
-    },
-    {
-      "lane": 0,
-      "beat": 70.75
-    },
-    {
       "lane": 1,
-      "beat": 70.75
+      "beat": 70
     },
     {
       "lane": 2,
-      "beat": 71.0
+      "beat": 70
+    },
+    {
+      "lane": 2,
+      "beat": 70.75,
+      "shift": 0
     },
     {
       "lane": 3,
+      "beat": 71
+    },
+    {
+      "lane": 1,
       "beat": 71.5
     },
     {
@@ -717,80 +595,53 @@
       "beat": 71.75
     },
     {
-      "lane": 2,
-      "beat": 71.75
-    },
-    {
       "lane": 0,
-      "beat": 72.0
+      "beat": 72,
+      "shift": 2
+    },
+    {
+      "lane": 1,
+      "beat": 72.75
     },
     {
       "lane": 2,
-      "beat": 72.0
-    },
-    {
-      "lane": 1,
-      "beat": 72.75
-    },
-    {
-      "lane": 3,
-      "beat": 72.75
-    },
-    {
-      "lane": 1,
-      "beat": 73.0
+      "beat": 73,
+      "shift": 3
     },
     {
       "lane": 0,
       "beat": 73.5
     },
     {
-      "lane": 2,
+      "lane": 1,
       "beat": 73.75
     },
     {
       "lane": 0,
-      "beat": 74.0
+      "beat": 74,
+      "shift": 2
     },
     {
-      "lane": 3,
-      "beat": 74.0
-    },
-    {
-      "lane": 0,
+      "lane": 2,
       "beat": 74.75
     },
     {
-      "lane": 1,
-      "beat": 74.75
-    },
-    {
-      "lane": 3,
-      "beat": 75.0
+      "lane": 2,
+      "beat": 75,
+      "shift": 3
     },
     {
       "lane": 3,
       "beat": 75.5
     },
     {
-      "lane": 1,
-      "beat": 75.75
+      "lane": 2,
+      "beat": 75.75,
+      "shift": 0
     },
     {
       "lane": 2,
-      "beat": 75.75
-    },
-    {
-      "lane": 0,
-      "beat": 76.0
-    },
-    {
-      "lane": 3,
-      "beat": 76.0
-    },
-    {
-      "lane": 1,
-      "beat": 76.75
+      "beat": 76
     },
     {
       "lane": 3,
@@ -798,563 +649,501 @@
     },
     {
       "lane": 2,
-      "beat": 77.0
+      "beat": 77
     },
     {
-      "lane": 0,
+      "lane": 1,
       "beat": 77.5
     },
     {
-      "lane": 2,
+      "lane": 3,
       "beat": 77.75
     },
     {
       "lane": 1,
-      "beat": 78.0
+      "beat": 78
+    },
+    {
+      "lane": 2,
+      "beat": 78
     },
     {
       "lane": 3,
-      "beat": 78.0
+      "beat": 78.75,
+      "shift": 1
     },
     {
-      "lane": 0,
-      "beat": 78.75
-    },
-    {
-      "lane": 1,
-      "beat": 78.75
-    },
-    {
-      "lane": 0,
-      "beat": 79.0
+      "lane": 2,
+      "beat": 79
     },
     {
       "lane": 3,
       "beat": 79.5
     },
     {
-      "lane": 1,
+      "lane": 0,
       "beat": 79.75
     },
     {
       "lane": 2,
-      "beat": 79.75
+      "beat": 80
+    },
+    {
+      "lane": 5,
+      "beat": 80
     },
     {
       "lane": 0,
-      "beat": 80.0
-    },
-    {
-      "lane": 1,
-      "beat": 80.75
+      "beat": 80.75,
+      "stealth": true
     },
     {
       "lane": 3,
-      "beat": 80.75
-    },
-    {
-      "lane": 3,
-      "beat": 81.0
-    },
-    {
-      "lane": 0,
-      "beat": 81.5
+      "beat": 81,
+      "stealth": true
     },
     {
       "lane": 2,
-      "beat": 81.75
+      "beat": 81.5,
+      "stealth": true
+    },
+    {
+      "lane": 1,
+      "beat": 81.75,
+      "stealth": true
+    },
+    {
+      "lane": 0,
+      "beat": 82,
+      "stealth": true
     },
     {
       "lane": 2,
-      "beat": 82.0
-    },
-    {
-      "lane": 3,
-      "beat": 82.0
+      "beat": 82.75,
+      "stealth": true
     },
     {
       "lane": 0,
-      "beat": 82.75
-    },
-    {
-      "lane": 1,
-      "beat": 82.75
-    },
-    {
-      "lane": 1,
-      "beat": 83.0
-    },
-    {
-      "lane": 3,
-      "beat": 83.5
-    },
-    {
-      "lane": 1,
-      "beat": 83.75
+      "beat": 83,
+      "stealth": true
     },
     {
       "lane": 2,
-      "beat": 83.75
-    },
-    {
-      "lane": 0,
-      "beat": 84.0
-    },
-    {
-      "lane": 1,
-      "beat": 84.0
-    },
-    {
-      "lane": 1,
-      "beat": 84.75
-    },
-    {
-      "lane": 3,
-      "beat": 84.75
-    },
-    {
-      "lane": 0,
-      "beat": 85.0
-    },
-    {
-      "lane": 0,
-      "beat": 85.5
+      "beat": 83.5,
+      "stealth": true
     },
     {
       "lane": 2,
-      "beat": 85.75
-    },
-    {
-      "lane": 3,
-      "beat": 86.0
+      "beat": 83.75,
+      "stealth": true
     },
     {
       "lane": 0,
-      "beat": 86.75
+      "beat": 84
     },
     {
-      "lane": 1,
-      "beat": 86.75
+      "lane": 3,
+      "beat": 84
     },
     {
       "lane": 2,
-      "beat": 87.0
-    },
-    {
-      "lane": 3,
-      "beat": 87.5
+      "beat": 84.75,
+      "stealth": true
     },
     {
       "lane": 1,
-      "beat": 87.75
+      "beat": 85,
+      "stealth": true
+    },
+    {
+      "lane": 3,
+      "beat": 85.5,
+      "stealth": true
+    },
+    {
+      "lane": 3,
+      "beat": 85.75,
+      "stealth": true
     },
     {
       "lane": 2,
-      "beat": 87.75
+      "beat": 86,
+      "stealth": true
+    },
+    {
+      "lane": 3,
+      "beat": 86.75,
+      "stealth": true
+    },
+    {
+      "lane": 1,
+      "beat": 87,
+      "stealth": true
     },
     {
       "lane": 0,
-      "beat": 88.0
+      "beat": 87.5,
+      "stealth": true
+    },
+    {
+      "lane": 1,
+      "beat": 87.75,
+      "stealth": true
+    },
+    {
+      "lane": 0,
+      "beat": 88,
+      "stealth": true
     },
     {
       "lane": 2,
-      "beat": 88.0
-    },
-    {
-      "lane": 1,
-      "beat": 88.75
-    },
-    {
-      "lane": 3,
-      "beat": 88.75
-    },
-    {
-      "lane": 1,
-      "beat": 89.0
-    },
-    {
-      "lane": 0,
-      "beat": 89.5
+      "beat": 88.75,
+      "stealth": true
     },
     {
       "lane": 2,
-      "beat": 89.75
-    },
-    {
-      "lane": 0,
-      "beat": 90.0
+      "beat": 89,
+      "stealth": true
     },
     {
       "lane": 3,
-      "beat": 90.0
-    },
-    {
-      "lane": 0,
-      "beat": 90.75
-    },
-    {
-      "lane": 1,
-      "beat": 90.75
-    },
-    {
-      "lane": 3,
-      "beat": 91.0
-    },
-    {
-      "lane": 3,
-      "beat": 91.5
-    },
-    {
-      "lane": 1,
-      "beat": 91.75
+      "beat": 89.5,
+      "stealth": true
     },
     {
       "lane": 2,
-      "beat": 91.75
+      "beat": 89.75,
+      "stealth": true
     },
     {
       "lane": 0,
-      "beat": 92.0
-    },
-    {
-      "lane": 3,
-      "beat": 92.0
+      "beat": 90
     },
     {
       "lane": 1,
-      "beat": 92.75
+      "beat": 90
     },
     {
-      "lane": 3,
-      "beat": 92.75
+      "lane": 1,
+      "beat": 90.75,
+      "stealth": true
     },
     {
       "lane": 2,
-      "beat": 93.0
+      "beat": 91,
+      "stealth": true
     },
     {
-      "lane": 0,
-      "beat": 93.5
+      "lane": 1,
+      "beat": 91.5,
+      "stealth": true
+    },
+    {
+      "lane": 3,
+      "beat": 91.75,
+      "stealth": true
+    },
+    {
+      "lane": 3,
+      "beat": 92,
+      "stealth": true
     },
     {
       "lane": 2,
-      "beat": 93.75
-    },
-    {
-      "lane": 1,
-      "beat": 94.0
-    },
-    {
-      "lane": 3,
-      "beat": 94.0
+      "beat": 92.75,
+      "stealth": true
     },
     {
       "lane": 0,
-      "beat": 94.75
+      "beat": 93,
+      "stealth": true
     },
     {
       "lane": 1,
-      "beat": 94.75
+      "beat": 93.5,
+      "stealth": true
     },
     {
       "lane": 0,
-      "beat": 95.0
-    },
-    {
-      "lane": 3,
-      "beat": 95.5
-    },
-    {
-      "lane": 1,
-      "beat": 95.75
+      "beat": 93.75,
+      "stealth": true
     },
     {
       "lane": 2,
-      "beat": 95.75
-    },
-    {
-      "lane": 0,
-      "beat": 96.0
-    },
-    {
-      "lane": 1,
-      "beat": 96.75
+      "beat": 94,
+      "stealth": true
     },
     {
       "lane": 3,
-      "beat": 96.75
-    },
-    {
-      "lane": 3,
-      "beat": 97.0
-    },
-    {
-      "lane": 0,
-      "beat": 97.5
+      "beat": 94.75,
+      "stealth": true
     },
     {
       "lane": 2,
-      "beat": 97.75
+      "beat": 95,
+      "stealth": true
+    },
+    {
+      "lane": 0,
+      "beat": 95.5,
+      "stealth": true
+    },
+    {
+      "lane": 1,
+      "beat": 95.75,
+      "stealth": true
     },
     {
       "lane": 2,
-      "beat": 98.0
+      "beat": 96
     },
     {
-      "lane": 3,
-      "beat": 98.0
-    },
-    {
-      "lane": 0,
-      "beat": 98.75
+      "lane": 4,
+      "beat": 96
     },
     {
       "lane": 1,
-      "beat": 98.75
-    },
-    {
-      "lane": 1,
-      "beat": 99.0
-    },
-    {
-      "lane": 3,
-      "beat": 99.5
-    },
-    {
-      "lane": 1,
-      "beat": 99.75
+      "beat": 96.75,
+      "phase": true
     },
     {
       "lane": 2,
-      "beat": 99.75
-    },
-    {
-      "lane": 0,
-      "beat": 100.0
+      "beat": 97,
+      "phase": true
     },
     {
       "lane": 1,
-      "beat": 100.0
-    },
-    {
-      "lane": 1,
-      "beat": 100.75
-    },
-    {
-      "lane": 3,
-      "beat": 100.75
-    },
-    {
-      "lane": 0,
-      "beat": 101.0
-    },
-    {
-      "lane": 0,
-      "beat": 101.5
+      "beat": 97.5,
+      "phase": true
     },
     {
       "lane": 2,
-      "beat": 101.75
-    },
-    {
-      "lane": 3,
-      "beat": 102.0
-    },
-    {
-      "lane": 0,
-      "beat": 102.75
+      "beat": 97.75,
+      "phase": true
     },
     {
       "lane": 1,
-      "beat": 102.75
+      "beat": 98
+    },
+    {
+      "lane": 3,
+      "beat": 98
     },
     {
       "lane": 2,
-      "beat": 103.0
+      "beat": 98.75,
+      "phase": true
     },
     {
-      "lane": 3,
-      "beat": 103.5
+      "lane": 0,
+      "beat": 99,
+      "phase": true
     },
     {
       "lane": 1,
-      "beat": 103.75
+      "beat": 99.5,
+      "phase": true
+    },
+    {
+      "lane": 1,
+      "beat": 99.75,
+      "phase": true
+    },
+    {
+      "lane": 0,
+      "beat": 100,
+      "phase": true
+    },
+    {
+      "lane": 1,
+      "beat": 100.75,
+      "phase": true
+    },
+    {
+      "lane": 3,
+      "beat": 101,
+      "phase": true
     },
     {
       "lane": 2,
-      "beat": 103.75
+      "beat": 101.5,
+      "phase": true
     },
     {
-      "lane": 0,
-      "beat": 104.0
+      "lane": 1,
+      "beat": 101.75,
+      "phase": true
     },
     {
       "lane": 2,
-      "beat": 104.0
-    },
-    {
-      "lane": 1,
-      "beat": 104.75
-    },
-    {
-      "lane": 3,
-      "beat": 104.75
-    },
-    {
-      "lane": 1,
-      "beat": 105.0
+      "beat": 102,
+      "phase": true
     },
     {
       "lane": 0,
-      "beat": 105.5
+      "beat": 102.75,
+      "phase": true
+    },
+    {
+      "lane": 1,
+      "beat": 103,
+      "phase": true
+    },
+    {
+      "lane": 3,
+      "beat": 103.5,
+      "phase": true
     },
     {
       "lane": 2,
-      "beat": 105.75
+      "beat": 103.75,
+      "phase": true
     },
     {
       "lane": 0,
-      "beat": 106.0
+      "beat": 104
     },
     {
       "lane": 3,
-      "beat": 106.0
+      "beat": 104
+    },
+    {
+      "lane": 1,
+      "beat": 104.75,
+      "phase": true
     },
     {
       "lane": 0,
-      "beat": 106.75
+      "beat": 105,
+      "phase": true
     },
     {
       "lane": 1,
-      "beat": 106.75
+      "beat": 105.5,
+      "phase": true
     },
     {
       "lane": 3,
-      "beat": 107.0
-    },
-    {
-      "lane": 3,
-      "beat": 107.5
-    },
-    {
-      "lane": 1,
-      "beat": 107.75
+      "beat": 105.75,
+      "phase": true
     },
     {
       "lane": 2,
-      "beat": 107.75
+      "beat": 106,
+      "phase": true
     },
     {
       "lane": 0,
-      "beat": 108.0
+      "beat": 106.75,
+      "phase": true
     },
     {
       "lane": 3,
-      "beat": 108.0
-    },
-    {
-      "lane": 1,
-      "beat": 108.75
-    },
-    {
-      "lane": 3,
-      "beat": 108.75
+      "beat": 107,
+      "phase": true
     },
     {
       "lane": 2,
-      "beat": 109.0
+      "beat": 107.5,
+      "phase": true
     },
     {
       "lane": 0,
-      "beat": 109.5
+      "beat": 107.75,
+      "phase": true
     },
     {
       "lane": 2,
-      "beat": 109.75
+      "beat": 108,
+      "phase": true
     },
     {
       "lane": 1,
-      "beat": 110.0
-    },
-    {
-      "lane": 3,
-      "beat": 110.0
-    },
-    {
-      "lane": 0,
-      "beat": 110.75
+      "beat": 108.75,
+      "phase": true
     },
     {
       "lane": 1,
-      "beat": 110.75
-    },
-    {
-      "lane": 0,
-      "beat": 111.0
-    },
-    {
-      "lane": 3,
-      "beat": 111.5
-    },
-    {
-      "lane": 1,
-      "beat": 111.75
+      "beat": 109,
+      "phase": true
     },
     {
       "lane": 2,
-      "beat": 111.75
-    },
-    {
-      "lane": 0,
-      "beat": 112.0
+      "beat": 109.5,
+      "phase": true
     },
     {
       "lane": 1,
-      "beat": 112.75
+      "beat": 109.75,
+      "phase": true
+    },
+    {
+      "lane": 0,
+      "beat": 110
+    },
+    {
+      "lane": 2,
+      "beat": 110
+    },
+    {
+      "lane": 1,
+      "beat": 110.75,
+      "phase": true
+    },
+    {
+      "lane": 2,
+      "beat": 111,
+      "phase": true
+    },
+    {
+      "lane": 1,
+      "beat": 111.5,
+      "phase": true
+    },
+    {
+      "lane": 0,
+      "beat": 111.75,
+      "phase": true
+    },
+    {
+      "lane": 2,
+      "beat": 112
+    },
+    {
+      "lane": 5,
+      "beat": 112
     },
     {
       "lane": 3,
       "beat": 112.75
     },
     {
-      "lane": 3,
-      "beat": 113.0
+      "lane": 1,
+      "beat": 113
     },
     {
-      "lane": 0,
+      "lane": 2,
       "beat": 113.5
     },
     {
-      "lane": 2,
+      "lane": 0,
       "beat": 113.75
     },
     {
       "lane": 2,
-      "beat": 114.0
+      "beat": 114
     },
     {
       "lane": 3,
-      "beat": 114.0
-    },
-    {
-      "lane": 0,
       "beat": 114.75
     },
     {
       "lane": 1,
-      "beat": 114.75
+      "beat": 115
     },
     {
-      "lane": 1,
-      "beat": 115.0
-    },
-    {
-      "lane": 3,
+      "lane": 2,
       "beat": 115.5
-    },
-    {
-      "lane": 1,
-      "beat": 115.75
     },
     {
       "lane": 2,
@@ -1362,26 +1151,22 @@
     },
     {
       "lane": 0,
-      "beat": 116.0
+      "beat": 116
     },
     {
       "lane": 1,
-      "beat": 116.0
-    },
-    {
-      "lane": 1,
-      "beat": 116.75
+      "beat": 116
     },
     {
       "lane": 3,
       "beat": 116.75
     },
     {
-      "lane": 0,
-      "beat": 117.0
+      "lane": 2,
+      "beat": 117
     },
     {
-      "lane": 0,
+      "lane": 3,
       "beat": 117.5
     },
     {
@@ -1390,39 +1175,27 @@
     },
     {
       "lane": 3,
-      "beat": 118.0
+      "beat": 118
     },
     {
-      "lane": 0,
+      "lane": 2,
       "beat": 118.75
     },
     {
       "lane": 1,
-      "beat": 118.75
+      "beat": 119
     },
     {
       "lane": 2,
-      "beat": 119.0
-    },
-    {
-      "lane": 3,
       "beat": 119.5
     },
     {
-      "lane": 1,
+      "lane": 3,
       "beat": 119.75
     },
     {
       "lane": 2,
-      "beat": 119.75
-    },
-    {
-      "lane": 0,
-      "beat": 120.0
-    },
-    {
-      "lane": 2,
-      "beat": 120.0
+      "beat": 120
     },
     {
       "lane": 1,
@@ -1430,14 +1203,10 @@
     },
     {
       "lane": 3,
-      "beat": 120.75
+      "beat": 121
     },
     {
       "lane": 1,
-      "beat": 121.0
-    },
-    {
-      "lane": 0,
       "beat": 121.5
     },
     {
@@ -1446,114 +1215,90 @@
     },
     {
       "lane": 0,
-      "beat": 122.0
+      "beat": 122
+    },
+    {
+      "lane": 1,
+      "beat": 122
     },
     {
       "lane": 3,
-      "beat": 122.0
-    },
-    {
-      "lane": 0,
       "beat": 122.75
     },
     {
       "lane": 1,
-      "beat": 122.75
-    },
-    {
-      "lane": 3,
-      "beat": 123.0
+      "beat": 123
     },
     {
       "lane": 3,
       "beat": 123.5
     },
     {
-      "lane": 1,
+      "lane": 0,
       "beat": 123.75
     },
     {
-      "lane": 2,
-      "beat": 123.75
+      "lane": 1,
+      "beat": 124
     },
     {
       "lane": 0,
-      "beat": 124.0
-    },
-    {
-      "lane": 3,
-      "beat": 124.0
-    },
-    {
-      "lane": 1,
-      "beat": 124.75
-    },
-    {
-      "lane": 3,
       "beat": 124.75
     },
     {
       "lane": 2,
-      "beat": 125.0
+      "beat": 125
     },
     {
       "lane": 0,
       "beat": 125.5
     },
     {
-      "lane": 2,
+      "lane": 1,
       "beat": 125.75
     },
     {
-      "lane": 1,
-      "beat": 126.0
-    },
-    {
-      "lane": 3,
-      "beat": 126.0
-    },
-    {
       "lane": 0,
-      "beat": 126.75
+      "beat": 126
     },
     {
       "lane": 1,
       "beat": 126.75
     },
     {
-      "lane": 0,
-      "beat": 127.0
+      "lane": 2,
+      "beat": 127
     },
     {
       "lane": 3,
       "beat": 127.5
     },
     {
-      "lane": 1,
-      "beat": 127.75
-    },
-    {
       "lane": 2,
       "beat": 127.75
     },
     {
       "lane": 0,
-      "beat": 128.0
+      "beat": 128
+    },
+    {
+      "lane": 3,
+      "beat": 128
+    },
+    {
+      "lane": 4,
+      "beat": 128
     },
     {
       "lane": 1,
       "beat": 128.75
     },
     {
-      "lane": 3,
-      "beat": 128.75
+      "lane": 2,
+      "beat": 129
     },
     {
       "lane": 3,
-      "beat": 129.0
-    },
-    {
-      "lane": 0,
       "beat": 129.5
     },
     {
@@ -1561,115 +1306,91 @@
       "beat": 129.75
     },
     {
+      "lane": 1,
+      "beat": 130,
+      "surge": true
+    },
+    {
       "lane": 2,
-      "beat": 130.0
+      "beat": 130.75,
+      "surge": true
+    },
+    {
+      "lane": 1,
+      "beat": 131
     },
     {
       "lane": 3,
-      "beat": 130.0
-    },
-    {
-      "lane": 0,
-      "beat": 130.75
-    },
-    {
-      "lane": 1,
-      "beat": 130.75
-    },
-    {
-      "lane": 1,
-      "beat": 131.0
-    },
-    {
-      "lane": 3,
-      "beat": 131.5
-    },
-    {
-      "lane": 1,
-      "beat": 131.75
+      "beat": 131.5,
+      "surge": true
     },
     {
       "lane": 2,
       "beat": 131.75
     },
     {
+      "lane": 1,
+      "beat": 132
+    },
+    {
       "lane": 0,
-      "beat": 132.0
-    },
-    {
-      "lane": 1,
-      "beat": 132.0
-    },
-    {
-      "lane": 1,
-      "beat": 132.75
+      "beat": 132.75,
+      "surge": true
     },
     {
       "lane": 3,
-      "beat": 132.75
+      "beat": 133
+    },
+    {
+      "lane": 1,
+      "beat": 133.5,
+      "surge": true
     },
     {
       "lane": 0,
-      "beat": 133.0
-    },
-    {
-      "lane": 0,
-      "beat": 133.5
-    },
-    {
-      "lane": 2,
       "beat": 133.75
     },
     {
-      "lane": 3,
-      "beat": 134.0
-    },
-    {
-      "lane": 0,
-      "beat": 134.75
-    },
-    {
       "lane": 1,
+      "beat": 134
+    },
+    {
+      "lane": 2,
+      "beat": 134
+    },
+    {
+      "lane": 3,
       "beat": 134.75
     },
     {
       "lane": 2,
-      "beat": 135.0
+      "beat": 135
     },
     {
-      "lane": 3,
+      "lane": 1,
       "beat": 135.5
     },
     {
-      "lane": 1,
-      "beat": 135.75
-    },
-    {
-      "lane": 2,
-      "beat": 135.75
-    },
-    {
       "lane": 0,
-      "beat": 136.0
-    },
-    {
-      "lane": 2,
-      "beat": 136.0
+      "beat": 135.75,
+      "surge": true
     },
     {
       "lane": 1,
-      "beat": 136.75
+      "beat": 136,
+      "surge": true
     },
     {
       "lane": 3,
-      "beat": 136.75
+      "beat": 136.75,
+      "surge": true
+    },
+    {
+      "lane": 2,
+      "beat": 137
     },
     {
       "lane": 1,
-      "beat": 137.0
-    },
-    {
-      "lane": 0,
       "beat": 137.5
     },
     {
@@ -1677,60 +1398,47 @@
       "beat": 137.75
     },
     {
-      "lane": 0,
-      "beat": 138.0
+      "lane": 3,
+      "beat": 138,
+      "surge": true
+    },
+    {
+      "lane": 2,
+      "beat": 138.75
     },
     {
       "lane": 3,
-      "beat": 138.0
-    },
-    {
-      "lane": 0,
-      "beat": 138.75
+      "beat": 139,
+      "surge": true
     },
     {
       "lane": 1,
-      "beat": 138.75
-    },
-    {
-      "lane": 3,
-      "beat": 139.0
-    },
-    {
-      "lane": 3,
       "beat": 139.5
     },
     {
-      "lane": 1,
-      "beat": 139.75
-    },
-    {
-      "lane": 2,
+      "lane": 3,
       "beat": 139.75
     },
     {
       "lane": 0,
-      "beat": 140.0
-    },
-    {
-      "lane": 3,
-      "beat": 140.0
+      "beat": 140
     },
     {
       "lane": 1,
-      "beat": 140.75
+      "beat": 140
     },
     {
       "lane": 3,
       "beat": 140.75
     },
     {
-      "lane": 2,
-      "beat": 141.0
+      "lane": 1,
+      "beat": 141
     },
     {
       "lane": 0,
-      "beat": 141.5
+      "beat": 141.5,
+      "surge": true
     },
     {
       "lane": 2,
@@ -1738,54 +1446,43 @@
     },
     {
       "lane": 1,
-      "beat": 142.0
+      "beat": 142
     },
     {
       "lane": 3,
-      "beat": 142.0
-    },
-    {
-      "lane": 0,
       "beat": 142.75
     },
     {
       "lane": 1,
-      "beat": 142.75
+      "beat": 143
     },
     {
       "lane": 0,
-      "beat": 143.0
-    },
-    {
-      "lane": 3,
-      "beat": 143.5
+      "beat": 143.5,
+      "surge": true
     },
     {
       "lane": 1,
       "beat": 143.75
     },
     {
-      "lane": 2,
-      "beat": 143.75
+      "lane": 0,
+      "beat": 144
     },
     {
-      "lane": 0,
-      "beat": 144.0
+      "lane": 5,
+      "beat": 144
     },
     {
       "lane": 1,
       "beat": 144.75
     },
     {
-      "lane": 3,
-      "beat": 144.75
-    },
-    {
-      "lane": 3,
-      "beat": 145.0
-    },
-    {
       "lane": 0,
+      "beat": 145
+    },
+    {
+      "lane": 3,
       "beat": 145.5
     },
     {
@@ -1794,82 +1491,62 @@
     },
     {
       "lane": 2,
-      "beat": 146.0
+      "beat": 146
     },
     {
       "lane": 3,
-      "beat": 146.0
-    },
-    {
-      "lane": 0,
       "beat": 146.75
     },
     {
-      "lane": 1,
-      "beat": 146.75
+      "lane": 2,
+      "beat": 147
     },
     {
       "lane": 1,
-      "beat": 147.0
-    },
-    {
-      "lane": 3,
       "beat": 147.5
     },
     {
-      "lane": 1,
+      "lane": 3,
       "beat": 147.75
+    },
+    {
+      "lane": 0,
+      "beat": 148
+    },
+    {
+      "lane": 1,
+      "beat": 148
     },
     {
       "lane": 2,
-      "beat": 147.75
-    },
-    {
-      "lane": 0,
-      "beat": 148.0
-    },
-    {
-      "lane": 1,
-      "beat": 148.0
-    },
-    {
-      "lane": 1,
       "beat": 148.75
     },
     {
-      "lane": 3,
-      "beat": 148.75
+      "lane": 1,
+      "beat": 149
     },
     {
-      "lane": 0,
-      "beat": 149.0
-    },
-    {
-      "lane": 0,
+      "lane": 2,
       "beat": 149.5
     },
     {
-      "lane": 2,
+      "lane": 3,
       "beat": 149.75
     },
     {
       "lane": 3,
-      "beat": 150.0
+      "beat": 150
     },
     {
-      "lane": 0,
+      "lane": 2,
       "beat": 150.75
     },
     {
       "lane": 1,
-      "beat": 150.75
+      "beat": 151
     },
     {
       "lane": 2,
-      "beat": 151.0
-    },
-    {
-      "lane": 3,
       "beat": 151.5
     },
     {
@@ -1877,31 +1554,19 @@
       "beat": 151.75
     },
     {
-      "lane": 2,
-      "beat": 151.75
-    },
-    {
       "lane": 0,
-      "beat": 152.0
-    },
-    {
-      "lane": 2,
-      "beat": 152.0
-    },
-    {
-      "lane": 1,
-      "beat": 152.75
+      "beat": 152
     },
     {
       "lane": 3,
       "beat": 152.75
     },
     {
-      "lane": 1,
-      "beat": 153.0
+      "lane": 2,
+      "beat": 153
     },
     {
-      "lane": 0,
+      "lane": 1,
       "beat": 153.5
     },
     {
@@ -1909,72 +1574,52 @@
       "beat": 153.75
     },
     {
-      "lane": 0,
-      "beat": 154.0
-    },
-    {
-      "lane": 3,
-      "beat": 154.0
-    },
-    {
-      "lane": 0,
-      "beat": 154.75
-    },
-    {
       "lane": 1,
+      "beat": 154
+    },
+    {
+      "lane": 3,
       "beat": 154.75
     },
     {
       "lane": 3,
-      "beat": 155.0
+      "beat": 155
     },
     {
-      "lane": 3,
+      "lane": 2,
       "beat": 155.5
     },
     {
-      "lane": 1,
-      "beat": 155.75
-    },
-    {
-      "lane": 2,
-      "beat": 155.75
-    },
-    {
       "lane": 0,
-      "beat": 156.0
-    },
-    {
-      "lane": 3,
-      "beat": 156.0
+      "beat": 155.75
     },
     {
       "lane": 1,
-      "beat": 156.75
+      "beat": 156
     },
     {
       "lane": 3,
-      "beat": 156.75
+      "beat": 156
     },
     {
       "lane": 2,
-      "beat": 157.0
+      "beat": 156.75
+    },
+    {
+      "lane": 1,
+      "beat": 157
     },
     {
       "lane": 0,
       "beat": 157.5
     },
     {
-      "lane": 2,
+      "lane": 0,
       "beat": 157.75
     },
     {
       "lane": 1,
-      "beat": 158.0
-    },
-    {
-      "lane": 3,
-      "beat": 158.0
+      "beat": 158
     },
     {
       "lane": 0,
@@ -1982,99 +1627,67 @@
     },
     {
       "lane": 1,
-      "beat": 158.75
+      "beat": 159
     },
     {
       "lane": 0,
-      "beat": 159.0
-    },
-    {
-      "lane": 3,
       "beat": 159.5
     },
     {
-      "lane": 1,
-      "beat": 159.75
-    },
-    {
       "lane": 2,
       "beat": 159.75
     },
     {
       "lane": 0,
-      "beat": 160.0
+      "beat": 160
     },
     {
-      "lane": 1,
-      "beat": 160.0
+      "lane": 4,
+      "beat": 160
     },
     {
-      "lane": 3,
+      "lane": 2,
       "beat": 160.5
     },
     {
+      "lane": 0,
+      "beat": 160.75
+    },
+    {
       "lane": 1,
       "beat": 160.75
     },
     {
       "lane": 2,
-      "beat": 160.75
+      "beat": 161
     },
     {
       "lane": 3,
-      "beat": 160.75
-    },
-    {
-      "lane": 2,
-      "beat": 161.0
-    },
-    {
-      "lane": 0,
       "beat": 161.5
     },
     {
       "lane": 1,
-      "beat": 161.5
-    },
-    {
-      "lane": 2,
       "beat": 161.75
     },
     {
-      "lane": 0,
-      "beat": 162.0
-    },
-    {
       "lane": 2,
-      "beat": 162.0
-    },
-    {
-      "lane": 3,
-      "beat": 162.0
+      "beat": 162
     },
     {
       "lane": 3,
       "beat": 162.5
     },
     {
-      "lane": 0,
-      "beat": 162.75
-    },
-    {
       "lane": 1,
       "beat": 162.75
     },
     {
       "lane": 2,
-      "beat": 163.0
-    },
-    {
-      "lane": 1,
-      "beat": 163.5
+      "beat": 162.75
     },
     {
       "lane": 2,
-      "beat": 163.5
+      "beat": 163
     },
     {
       "lane": 3,
@@ -2085,44 +1698,24 @@
       "beat": 163.75
     },
     {
-      "lane": 2,
-      "beat": 163.75
-    },
-    {
       "lane": 0,
-      "beat": 164.0
+      "beat": 164
     },
     {
       "lane": 1,
-      "beat": 164.0
-    },
-    {
-      "lane": 0,
       "beat": 164.5
     },
     {
-      "lane": 1,
-      "beat": 164.75
-    },
-    {
-      "lane": 2,
-      "beat": 164.75
-    },
-    {
-      "lane": 3,
-      "beat": 164.75
-    },
-    {
-      "lane": 3,
-      "beat": 165.0
-    },
-    {
       "lane": 0,
-      "beat": 165.5
+      "beat": 164.75
+    },
+    {
+      "lane": 3,
+      "beat": 164.75
     },
     {
       "lane": 1,
-      "beat": 165.5
+      "beat": 165
     },
     {
       "lane": 2,
@@ -2133,63 +1726,39 @@
       "beat": 165.75
     },
     {
-      "lane": 1,
-      "beat": 166.0
+      "lane": 3,
+      "beat": 166
     },
     {
       "lane": 2,
-      "beat": 166.0
-    },
-    {
-      "lane": 3,
-      "beat": 166.0
-    },
-    {
-      "lane": 0,
       "beat": 166.5
     },
     {
-      "lane": 0,
-      "beat": 166.75
-    },
-    {
       "lane": 1,
       "beat": 166.75
     },
     {
       "lane": 3,
-      "beat": 167.0
+      "beat": 166.75
     },
     {
       "lane": 2,
-      "beat": 167.5
+      "beat": 167
     },
     {
       "lane": 3,
       "beat": 167.5
     },
     {
-      "lane": 1,
-      "beat": 167.75
-    },
-    {
-      "lane": 2,
-      "beat": 167.75
-    },
-    {
       "lane": 0,
-      "beat": 168.0
+      "beat": 167.75
     },
     {
       "lane": 1,
-      "beat": 168.0
+      "beat": 168
     },
     {
       "lane": 2,
-      "beat": 168.0
-    },
-    {
-      "lane": 1,
       "beat": 168.5
     },
     {
@@ -2197,127 +1766,83 @@
       "beat": 168.75
     },
     {
-      "lane": 2,
-      "beat": 168.75
-    },
-    {
       "lane": 3,
       "beat": 168.75
-    },
-    {
-      "lane": 0,
-      "beat": 169.0
-    },
-    {
-      "lane": 0,
-      "beat": 169.5
     },
     {
       "lane": 1,
+      "beat": 169
+    },
+    {
+      "lane": 2,
       "beat": 169.5
     },
     {
       "lane": 3,
-      "beat": 169.5
-    },
-    {
-      "lane": 2,
       "beat": 169.75
     },
     {
       "lane": 2,
-      "beat": 170.0
+      "beat": 170
     },
     {
-      "lane": 3,
-      "beat": 170.0
-    },
-    {
-      "lane": 1,
+      "lane": 0,
       "beat": 170.5
     },
     {
-      "lane": 0,
-      "beat": 170.75
-    },
-    {
       "lane": 1,
       "beat": 170.75
     },
     {
-      "lane": 0,
-      "beat": 171.0
+      "lane": 3,
+      "beat": 170.75
     },
     {
       "lane": 2,
-      "beat": 171.5
-    },
-    {
-      "lane": 3,
-      "beat": 171.5
+      "beat": 171
     },
     {
       "lane": 1,
-      "beat": 171.75
-    },
-    {
-      "lane": 2,
-      "beat": 171.75
+      "beat": 171.5
     },
     {
       "lane": 0,
-      "beat": 172.0
+      "beat": 171.75
     },
     {
       "lane": 1,
-      "beat": 172.0
-    },
-    {
-      "lane": 3,
-      "beat": 172.0
+      "beat": 172
     },
     {
       "lane": 2,
       "beat": 172.5
     },
     {
-      "lane": 1,
+      "lane": 0,
       "beat": 172.75
     },
     {
-      "lane": 2,
+      "lane": 1,
       "beat": 172.75
     },
     {
       "lane": 3,
-      "beat": 172.75
-    },
-    {
-      "lane": 1,
-      "beat": 173.0
-    },
-    {
-      "lane": 0,
-      "beat": 173.5
-    },
-    {
-      "lane": 1,
-      "beat": 173.5
+      "beat": 173
     },
     {
       "lane": 2,
+      "beat": 173.5
+    },
+    {
+      "lane": 1,
       "beat": 173.75
     },
     {
       "lane": 2,
-      "beat": 174.0
+      "beat": 174
     },
     {
       "lane": 3,
-      "beat": 174.0
-    },
-    {
-      "lane": 2,
       "beat": 174.5
     },
     {
@@ -2329,175 +1854,111 @@
       "beat": 174.75
     },
     {
-      "lane": 1,
-      "beat": 175.0
-    },
-    {
-      "lane": 0,
-      "beat": 175.5
-    },
-    {
-      "lane": 2,
-      "beat": 175.5
-    },
-    {
       "lane": 3,
-      "beat": 175.5
+      "beat": 175
     },
     {
       "lane": 1,
-      "beat": 175.75
+      "beat": 175.5
     },
     {
       "lane": 2,
       "beat": 175.75
     },
     {
-      "lane": 0,
-      "beat": 176.0
-    },
-    {
-      "lane": 1,
-      "beat": 176.0
-    },
-    {
       "lane": 3,
+      "beat": 176
+    },
+    {
+      "lane": 5,
+      "beat": 176
+    },
+    {
+      "lane": 2,
       "beat": 176.5
     },
     {
+      "lane": 0,
+      "beat": 176.75
+    },
+    {
       "lane": 1,
       "beat": 176.75
     },
     {
       "lane": 2,
-      "beat": 176.75
+      "beat": 177
     },
     {
       "lane": 3,
-      "beat": 176.75
-    },
-    {
-      "lane": 2,
-      "beat": 177.0
+      "beat": 177.5
     },
     {
       "lane": 0,
-      "beat": 177.5
-    },
-    {
-      "lane": 1,
-      "beat": 177.5
-    },
-    {
-      "lane": 2,
       "beat": 177.75
     },
     {
-      "lane": 0,
-      "beat": 178.0
-    },
-    {
       "lane": 2,
-      "beat": 178.0
-    },
-    {
-      "lane": 3,
-      "beat": 178.0
+      "beat": 178
     },
     {
       "lane": 3,
       "beat": 178.5
     },
     {
+      "lane": 1,
+      "beat": 178.75
+    },
+    {
+      "lane": 2,
+      "beat": 178.75
+    },
+    {
       "lane": 0,
-      "beat": 178.75
-    },
-    {
-      "lane": 1,
-      "beat": 178.75
-    },
-    {
-      "lane": 2,
-      "beat": 179.0
+      "beat": 179
     },
     {
       "lane": 1,
       "beat": 179.5
     },
     {
-      "lane": 2,
-      "beat": 179.5
+      "lane": 0,
+      "beat": 179.75
     },
     {
       "lane": 3,
-      "beat": 179.5
-    },
-    {
-      "lane": 1,
-      "beat": 179.75
-    },
-    {
-      "lane": 2,
-      "beat": 179.75
-    },
-    {
-      "lane": 0,
-      "beat": 180.0
-    },
-    {
-      "lane": 1,
-      "beat": 180.0
+      "beat": 180
     },
     {
       "lane": 0,
       "beat": 180.5
     },
     {
-      "lane": 1,
+      "lane": 0,
       "beat": 180.75
     },
     {
       "lane": 2,
-      "beat": 180.75
-    },
-    {
-      "lane": 3,
-      "beat": 180.75
-    },
-    {
-      "lane": 3,
-      "beat": 181.0
+      "beat": 181
     },
     {
       "lane": 0,
       "beat": 181.5
     },
     {
+      "lane": 3,
+      "beat": 181.5
+    },
+    {
       "lane": 1,
-      "beat": 181.5
-    },
-    {
-      "lane": 2,
-      "beat": 181.5
-    },
-    {
-      "lane": 2,
       "beat": 181.75
     },
     {
-      "lane": 1,
-      "beat": 182.0
-    },
-    {
       "lane": 2,
-      "beat": 182.0
+      "beat": 182
     },
     {
-      "lane": 3,
-      "beat": 182.0
-    },
-    {
-      "lane": 0,
+      "lane": 1,
       "beat": 182.5
     },
     {
@@ -2505,40 +1966,24 @@
       "beat": 182.75
     },
     {
-      "lane": 1,
-      "beat": 182.75
-    },
-    {
       "lane": 3,
-      "beat": 183.0
-    },
-    {
-      "lane": 2,
-      "beat": 183.5
-    },
-    {
-      "lane": 3,
-      "beat": 183.5
-    },
-    {
-      "lane": 1,
-      "beat": 183.75
-    },
-    {
-      "lane": 2,
-      "beat": 183.75
+      "beat": 183
     },
     {
       "lane": 0,
-      "beat": 184.0
-    },
-    {
-      "lane": 1,
-      "beat": 184.0
+      "beat": 183.5
     },
     {
       "lane": 2,
-      "beat": 184.0
+      "beat": 183.5
+    },
+    {
+      "lane": 0,
+      "beat": 183.75
+    },
+    {
+      "lane": 3,
+      "beat": 184
     },
     {
       "lane": 1,
@@ -2550,15 +1995,7 @@
     },
     {
       "lane": 2,
-      "beat": 184.75
-    },
-    {
-      "lane": 3,
-      "beat": 184.75
-    },
-    {
-      "lane": 0,
-      "beat": 185.0
+      "beat": 185
     },
     {
       "lane": 0,
@@ -2566,43 +2003,27 @@
     },
     {
       "lane": 1,
-      "beat": 185.5
-    },
-    {
-      "lane": 3,
-      "beat": 185.5
-    },
-    {
-      "lane": 2,
       "beat": 185.75
     },
     {
       "lane": 2,
-      "beat": 186.0
+      "beat": 186
     },
     {
       "lane": 3,
-      "beat": 186.0
+      "beat": 186
     },
     {
-      "lane": 1,
+      "lane": 0,
       "beat": 186.5
     },
     {
-      "lane": 0,
-      "beat": 186.75
-    },
-    {
       "lane": 1,
       "beat": 186.75
     },
     {
-      "lane": 0,
-      "beat": 187.0
-    },
-    {
       "lane": 2,
-      "beat": 187.5
+      "beat": 187
     },
     {
       "lane": 3,
@@ -2614,62 +2035,38 @@
     },
     {
       "lane": 2,
-      "beat": 187.75
-    },
-    {
-      "lane": 0,
-      "beat": 188.0
-    },
-    {
-      "lane": 1,
-      "beat": 188.0
+      "beat": 188
     },
     {
       "lane": 3,
-      "beat": 188.0
+      "beat": 188
     },
     {
-      "lane": 2,
+      "lane": 0,
       "beat": 188.5
     },
     {
-      "lane": 1,
+      "lane": 0,
       "beat": 188.75
     },
     {
       "lane": 2,
-      "beat": 188.75
+      "beat": 189
+    },
+    {
+      "lane": 1,
+      "beat": 189.5
     },
     {
       "lane": 3,
-      "beat": 188.75
-    },
-    {
-      "lane": 1,
-      "beat": 189.0
-    },
-    {
-      "lane": 0,
-      "beat": 189.5
-    },
-    {
-      "lane": 1,
-      "beat": 189.5
-    },
-    {
-      "lane": 2,
       "beat": 189.75
     },
     {
       "lane": 2,
-      "beat": 190.0
+      "beat": 190
     },
     {
       "lane": 3,
-      "beat": 190.0
-    },
-    {
-      "lane": 2,
       "beat": 190.5
     },
     {
@@ -2677,16 +2074,12 @@
       "beat": 190.75
     },
     {
-      "lane": 1,
+      "lane": 2,
       "beat": 190.75
     },
     {
-      "lane": 1,
-      "beat": 191.0
-    },
-    {
-      "lane": 0,
-      "beat": 191.5
+      "lane": 3,
+      "beat": 191
     },
     {
       "lane": 2,
@@ -2694,43 +2087,31 @@
     },
     {
       "lane": 3,
-      "beat": 191.5
-    },
-    {
-      "lane": 1,
       "beat": 191.75
     },
     {
       "lane": 2,
-      "beat": 191.75
+      "beat": 192
     },
     {
-      "lane": 0,
-      "beat": 192.0
-    },
-    {
-      "lane": 1,
-      "beat": 192.0
+      "lane": 4,
+      "beat": 192
     },
     {
       "lane": 3,
       "beat": 192.5
     },
     {
+      "lane": 0,
+      "beat": 192.75
+    },
+    {
       "lane": 1,
       "beat": 192.75
     },
     {
-      "lane": 2,
-      "beat": 192.75
-    },
-    {
-      "lane": 3,
-      "beat": 192.75
-    },
-    {
-      "lane": 2,
-      "beat": 193.0
+      "lane": 1,
+      "beat": 193
     },
     {
       "lane": 0,
@@ -2738,26 +2119,14 @@
     },
     {
       "lane": 1,
-      "beat": 193.5
-    },
-    {
-      "lane": 2,
       "beat": 193.75
     },
     {
-      "lane": 0,
-      "beat": 194.0
+      "lane": 3,
+      "beat": 194
     },
     {
       "lane": 2,
-      "beat": 194.0
-    },
-    {
-      "lane": 3,
-      "beat": 194.0
-    },
-    {
-      "lane": 3,
       "beat": 194.5
     },
     {
@@ -2770,7 +2139,7 @@
     },
     {
       "lane": 2,
-      "beat": 195.0
+      "beat": 195
     },
     {
       "lane": 1,
@@ -2778,27 +2147,11 @@
     },
     {
       "lane": 2,
-      "beat": 195.5
-    },
-    {
-      "lane": 3,
-      "beat": 195.5
-    },
-    {
-      "lane": 1,
       "beat": 195.75
     },
     {
-      "lane": 2,
-      "beat": 195.75
-    },
-    {
-      "lane": 0,
-      "beat": 196.0
-    },
-    {
       "lane": 1,
-      "beat": 196.0
+      "beat": 196
     },
     {
       "lane": 0,
@@ -2809,63 +2162,39 @@
       "beat": 196.75
     },
     {
-      "lane": 2,
-      "beat": 196.75
-    },
-    {
       "lane": 3,
       "beat": 196.75
-    },
-    {
-      "lane": 3,
-      "beat": 197.0
-    },
-    {
-      "lane": 0,
-      "beat": 197.5
     },
     {
       "lane": 1,
-      "beat": 197.5
+      "beat": 197
     },
     {
       "lane": 2,
       "beat": 197.5
     },
     {
-      "lane": 2,
+      "lane": 3,
       "beat": 197.75
     },
     {
-      "lane": 1,
-      "beat": 198.0
+      "lane": 3,
+      "beat": 198
     },
     {
       "lane": 2,
-      "beat": 198.0
-    },
-    {
-      "lane": 3,
-      "beat": 198.0
-    },
-    {
-      "lane": 0,
       "beat": 198.5
     },
     {
-      "lane": 0,
-      "beat": 198.75
-    },
-    {
       "lane": 1,
       "beat": 198.75
     },
     {
-      "lane": 3,
-      "beat": 199.0
+      "lane": 2,
+      "beat": 199
     },
     {
-      "lane": 2,
+      "lane": 0,
       "beat": 199.5
     },
     {
@@ -2873,51 +2202,27 @@
       "beat": 199.5
     },
     {
-      "lane": 1,
-      "beat": 199.75
-    },
-    {
       "lane": 2,
       "beat": 199.75
     },
     {
       "lane": 0,
-      "beat": 200.0
+      "beat": 200
     },
     {
-      "lane": 1,
-      "beat": 200.0
-    },
-    {
-      "lane": 2,
-      "beat": 200.0
-    },
-    {
-      "lane": 1,
+      "lane": 3,
       "beat": 200.5
     },
     {
-      "lane": 1,
-      "beat": 200.75
-    },
-    {
-      "lane": 2,
-      "beat": 200.75
-    },
-    {
-      "lane": 3,
-      "beat": 200.75
-    },
-    {
       "lane": 0,
-      "beat": 201.0
-    },
-    {
-      "lane": 0,
-      "beat": 201.5
+      "beat": 200.75
     },
     {
       "lane": 1,
+      "beat": 201
+    },
+    {
+      "lane": 0,
       "beat": 201.5
     },
     {
@@ -2929,28 +2234,20 @@
       "beat": 201.75
     },
     {
-      "lane": 2,
-      "beat": 202.0
-    },
-    {
-      "lane": 3,
-      "beat": 202.0
-    },
-    {
       "lane": 1,
+      "beat": 202
+    },
+    {
+      "lane": 0,
       "beat": 202.5
     },
     {
-      "lane": 0,
-      "beat": 202.75
-    },
-    {
       "lane": 1,
       "beat": 202.75
     },
     {
       "lane": 0,
-      "beat": 203.0
+      "beat": 203
     },
     {
       "lane": 2,
@@ -2961,27 +2258,15 @@
       "beat": 203.5
     },
     {
-      "lane": 1,
+      "lane": 3,
       "beat": 203.75
     },
     {
       "lane": 2,
-      "beat": 203.75
-    },
-    {
-      "lane": 0,
-      "beat": 204.0
-    },
-    {
-      "lane": 1,
-      "beat": 204.0
+      "beat": 204
     },
     {
       "lane": 3,
-      "beat": 204.0
-    },
-    {
-      "lane": 2,
       "beat": 204.5
     },
     {
@@ -2990,22 +2275,14 @@
     },
     {
       "lane": 2,
-      "beat": 204.75
-    },
-    {
-      "lane": 3,
-      "beat": 204.75
-    },
-    {
-      "lane": 1,
-      "beat": 205.0
+      "beat": 205
     },
     {
       "lane": 0,
       "beat": 205.5
     },
     {
-      "lane": 1,
+      "lane": 3,
       "beat": 205.5
     },
     {
@@ -3013,39 +2290,27 @@
       "beat": 205.75
     },
     {
-      "lane": 2,
-      "beat": 206.0
-    },
-    {
-      "lane": 3,
-      "beat": 206.0
+      "lane": 1,
+      "beat": 206
     },
     {
       "lane": 2,
       "beat": 206.5
     },
     {
-      "lane": 0,
+      "lane": 3,
       "beat": 206.75
-    },
-    {
-      "lane": 1,
-      "beat": 206.75
-    },
-    {
-      "lane": 1,
-      "beat": 207.0
-    },
-    {
-      "lane": 0,
-      "beat": 207.5
     },
     {
       "lane": 2,
+      "beat": 207
+    },
+    {
+      "lane": 0,
       "beat": 207.5
     },
     {
-      "lane": 3,
+      "lane": 1,
       "beat": 207.5
     },
     {
@@ -3053,43 +2318,31 @@
       "beat": 207.75
     },
     {
-      "lane": 2,
-      "beat": 207.75
-    },
-    {
       "lane": 0,
-      "beat": 208.0
+      "beat": 208
     },
     {
-      "lane": 1,
-      "beat": 208.0
+      "lane": 5,
+      "beat": 208
     },
     {
-      "lane": 3,
+      "lane": 2,
       "beat": 208.5
     },
     {
-      "lane": 1,
-      "beat": 208.75
-    },
-    {
-      "lane": 2,
-      "beat": 208.75
-    },
-    {
       "lane": 3,
       "beat": 208.75
     },
     {
       "lane": 2,
-      "beat": 209.0
+      "beat": 209
     },
     {
       "lane": 0,
       "beat": 209.5
     },
     {
-      "lane": 1,
+      "lane": 3,
       "beat": 209.5
     },
     {
@@ -3097,43 +2350,27 @@
       "beat": 209.75
     },
     {
+      "lane": 3,
+      "beat": 210
+    },
+    {
       "lane": 0,
-      "beat": 210.0
-    },
-    {
-      "lane": 2,
-      "beat": 210.0
-    },
-    {
-      "lane": 3,
-      "beat": 210.0
-    },
-    {
-      "lane": 3,
       "beat": 210.5
     },
     {
-      "lane": 0,
-      "beat": 210.75
-    },
-    {
-      "lane": 1,
-      "beat": 210.75
-    },
-    {
       "lane": 2,
-      "beat": 211.0
-    },
-    {
-      "lane": 1,
-      "beat": 211.5
-    },
-    {
-      "lane": 2,
-      "beat": 211.5
+      "beat": 210.75
     },
     {
       "lane": 3,
+      "beat": 211
+    },
+    {
+      "lane": 0,
+      "beat": 211.5
+    },
+    {
+      "lane": 2,
       "beat": 211.5
     },
     {
@@ -3141,19 +2378,11 @@
       "beat": 211.75
     },
     {
-      "lane": 2,
-      "beat": 211.75
-    },
-    {
-      "lane": 0,
-      "beat": 212.0
-    },
-    {
       "lane": 1,
-      "beat": 212.0
+      "beat": 212
     },
     {
-      "lane": 0,
+      "lane": 2,
       "beat": 212.5
     },
     {
@@ -3161,16 +2390,8 @@
       "beat": 212.75
     },
     {
-      "lane": 2,
-      "beat": 212.75
-    },
-    {
-      "lane": 3,
-      "beat": 212.75
-    },
-    {
-      "lane": 3,
-      "beat": 213.0
+      "lane": 1,
+      "beat": 213
     },
     {
       "lane": 0,
@@ -3178,91 +2399,55 @@
     },
     {
       "lane": 1,
-      "beat": 213.5
-    },
-    {
-      "lane": 2,
-      "beat": 213.5
-    },
-    {
-      "lane": 2,
       "beat": 213.75
     },
     {
-      "lane": 1,
-      "beat": 214.0
-    },
-    {
-      "lane": 2,
-      "beat": 214.0
+      "lane": 0,
+      "beat": 214
     },
     {
       "lane": 3,
-      "beat": 214.0
+      "beat": 214
     },
     {
-      "lane": 0,
+      "lane": 1,
       "beat": 214.5
     },
     {
-      "lane": 0,
-      "beat": 214.75
-    },
-    {
-      "lane": 1,
-      "beat": 214.75
-    },
-    {
-      "lane": 3,
-      "beat": 215.0
-    },
-    {
       "lane": 2,
-      "beat": 215.5
+      "beat": 214.75
     },
     {
-      "lane": 3,
-      "beat": 215.5
+      "lane": 0,
+      "beat": 215
     },
     {
       "lane": 1,
-      "beat": 215.75
+      "beat": 215.5
     },
     {
       "lane": 2,
       "beat": 215.75
     },
     {
+      "lane": 1,
+      "beat": 216
+    },
+    {
+      "lane": 3,
+      "beat": 216
+    },
+    {
       "lane": 0,
-      "beat": 216.0
-    },
-    {
-      "lane": 1,
-      "beat": 216.0
-    },
-    {
-      "lane": 2,
-      "beat": 216.0
-    },
-    {
-      "lane": 1,
       "beat": 216.5
     },
     {
-      "lane": 1,
-      "beat": 216.75
-    },
-    {
-      "lane": 2,
-      "beat": 216.75
-    },
-    {
       "lane": 3,
       "beat": 216.75
     },
     {
-      "lane": 0,
-      "beat": 217.0
+      "lane": 2,
+      "beat": 217
     },
     {
       "lane": 0,
@@ -3270,46 +2455,30 @@
     },
     {
       "lane": 1,
-      "beat": 217.5
-    },
-    {
-      "lane": 3,
-      "beat": 217.5
-    },
-    {
-      "lane": 2,
       "beat": 217.75
     },
     {
-      "lane": 2,
-      "beat": 218.0
+      "lane": 0,
+      "beat": 218
     },
     {
       "lane": 3,
-      "beat": 218.0
+      "beat": 218
     },
     {
       "lane": 1,
       "beat": 218.5
     },
     {
-      "lane": 0,
+      "lane": 3,
       "beat": 218.75
-    },
-    {
-      "lane": 1,
-      "beat": 218.75
-    },
-    {
-      "lane": 0,
-      "beat": 219.0
     },
     {
       "lane": 2,
-      "beat": 219.5
+      "beat": 219
     },
     {
-      "lane": 3,
+      "lane": 0,
       "beat": 219.5
     },
     {
@@ -3317,44 +2486,24 @@
       "beat": 219.75
     },
     {
-      "lane": 2,
-      "beat": 219.75
+      "lane": 0,
+      "beat": 220
     },
     {
-      "lane": 0,
-      "beat": 220.0
+      "lane": 2,
+      "beat": 220
     },
     {
       "lane": 1,
-      "beat": 220.0
-    },
-    {
-      "lane": 3,
-      "beat": 220.0
-    },
-    {
-      "lane": 2,
       "beat": 220.5
     },
     {
-      "lane": 1,
-      "beat": 220.75
-    },
-    {
-      "lane": 2,
-      "beat": 220.75
-    },
-    {
       "lane": 3,
       "beat": 220.75
     },
     {
-      "lane": 1,
-      "beat": 221.0
-    },
-    {
-      "lane": 0,
-      "beat": 221.5
+      "lane": 2,
+      "beat": 221
     },
     {
       "lane": 1,
@@ -3365,28 +2514,24 @@
       "beat": 221.75
     },
     {
-      "lane": 2,
-      "beat": 222.0
+      "lane": 0,
+      "beat": 222
     },
     {
-      "lane": 3,
-      "beat": 222.0
+      "lane": 1,
+      "beat": 222
     },
     {
       "lane": 2,
       "beat": 222.5
     },
     {
-      "lane": 0,
+      "lane": 3,
       "beat": 222.75
     },
     {
       "lane": 1,
-      "beat": 222.75
-    },
-    {
-      "lane": 1,
-      "beat": 223.0
+      "beat": 223
     },
     {
       "lane": 0,
@@ -3394,135 +2539,87 @@
     },
     {
       "lane": 2,
-      "beat": 223.5
+      "beat": 223.75
+    },
+    {
+      "lane": 1,
+      "beat": 224
     },
     {
       "lane": 3,
-      "beat": 223.5
+      "beat": 224
     },
     {
-      "lane": 1,
-      "beat": 223.75
-    },
-    {
-      "lane": 2,
-      "beat": 223.75
-    },
-    {
-      "lane": 0,
-      "beat": 224.0
-    },
-    {
-      "lane": 1,
-      "beat": 224.0
+      "lane": 4,
+      "beat": 224
     },
     {
       "lane": 3,
       "beat": 224.5
     },
     {
-      "lane": 1,
-      "beat": 224.75
-    },
-    {
       "lane": 2,
       "beat": 224.75
-    },
-    {
-      "lane": 3,
-      "beat": 224.75
-    },
-    {
-      "lane": 2,
-      "beat": 225.0
     },
     {
       "lane": 0,
-      "beat": 225.5
-    },
-    {
-      "lane": 1,
-      "beat": 225.5
+      "beat": 225
     },
     {
       "lane": 2,
+      "beat": 225.5
+    },
+    {
+      "lane": 0,
       "beat": 225.75
     },
     {
-      "lane": 0,
-      "beat": 226.0
+      "lane": 1,
+      "beat": 226
     },
     {
       "lane": 2,
-      "beat": 226.0
+      "beat": 226
     },
     {
-      "lane": 3,
-      "beat": 226.0
-    },
-    {
-      "lane": 3,
+      "lane": 1,
       "beat": 226.5
     },
     {
+      "lane": 2,
+      "beat": 226.75
+    },
+    {
+      "lane": 1,
+      "beat": 227
+    },
+    {
       "lane": 0,
-      "beat": 226.75
-    },
-    {
-      "lane": 1,
-      "beat": 226.75
-    },
-    {
-      "lane": 2,
-      "beat": 227.0
-    },
-    {
-      "lane": 1,
       "beat": 227.5
     },
     {
+      "lane": 1,
+      "beat": 227.75
+    },
+    {
       "lane": 2,
-      "beat": 227.5
+      "beat": 228
     },
     {
       "lane": 3,
-      "beat": 227.5
-    },
-    {
-      "lane": 1,
-      "beat": 227.75
+      "beat": 228
     },
     {
       "lane": 2,
-      "beat": 227.75
-    },
-    {
-      "lane": 0,
-      "beat": 228.0
-    },
-    {
-      "lane": 1,
-      "beat": 228.0
-    },
-    {
-      "lane": 0,
       "beat": 228.5
     },
     {
-      "lane": 1,
+      "lane": 3,
       "beat": 228.75
     },
     {
       "lane": 2,
-      "beat": 228.75
-    },
-    {
-      "lane": 3,
-      "beat": 228.75
-    },
-    {
-      "lane": 3,
-      "beat": 229.0
+      "beat": 229
     },
     {
       "lane": 0,
@@ -3530,47 +2627,27 @@
     },
     {
       "lane": 1,
-      "beat": 229.5
-    },
-    {
-      "lane": 2,
-      "beat": 229.5
-    },
-    {
-      "lane": 2,
       "beat": 229.75
     },
     {
-      "lane": 1,
-      "beat": 230.0
-    },
-    {
       "lane": 2,
-      "beat": 230.0
+      "beat": 230
     },
     {
       "lane": 3,
-      "beat": 230.0
+      "beat": 230
     },
     {
       "lane": 0,
       "beat": 230.5
     },
     {
-      "lane": 0,
-      "beat": 230.75
-    },
-    {
       "lane": 1,
       "beat": 230.75
     },
     {
-      "lane": 3,
-      "beat": 231.0
-    },
-    {
       "lane": 2,
-      "beat": 231.5
+      "beat": 231
     },
     {
       "lane": 3,
@@ -3581,48 +2658,24 @@
       "beat": 231.75
     },
     {
-      "lane": 2,
-      "beat": 231.75
-    },
-    {
       "lane": 0,
-      "beat": 232.0
+      "beat": 232
     },
     {
-      "lane": 1,
-      "beat": 232.0
+      "lane": 3,
+      "beat": 232
     },
     {
-      "lane": 2,
-      "beat": 232.0
-    },
-    {
-      "lane": 1,
+      "lane": 3,
       "beat": 232.5
     },
     {
-      "lane": 1,
-      "beat": 232.75
-    },
-    {
       "lane": 2,
       "beat": 232.75
     },
     {
-      "lane": 3,
-      "beat": 232.75
-    },
-    {
-      "lane": 0,
-      "beat": 233.0
-    },
-    {
-      "lane": 0,
-      "beat": 233.5
-    },
-    {
       "lane": 1,
-      "beat": 233.5
+      "beat": 233
     },
     {
       "lane": 3,
@@ -3633,56 +2686,40 @@
       "beat": 233.75
     },
     {
-      "lane": 2,
-      "beat": 234.0
+      "lane": 1,
+      "beat": 234
     },
     {
       "lane": 3,
-      "beat": 234.0
+      "beat": 234
     },
     {
-      "lane": 1,
+      "lane": 2,
       "beat": 234.5
     },
     {
-      "lane": 0,
-      "beat": 234.75
-    },
-    {
-      "lane": 1,
+      "lane": 3,
       "beat": 234.75
     },
     {
       "lane": 0,
-      "beat": 235.0
-    },
-    {
-      "lane": 2,
-      "beat": 235.5
+      "beat": 235
     },
     {
       "lane": 3,
       "beat": 235.5
     },
     {
-      "lane": 1,
-      "beat": 235.75
-    },
-    {
-      "lane": 2,
-      "beat": 235.75
-    },
-    {
       "lane": 0,
-      "beat": 236.0
+      "beat": 235.75
     },
     {
       "lane": 1,
-      "beat": 236.0
+      "beat": 236
     },
     {
       "lane": 3,
-      "beat": 236.0
+      "beat": 236
     },
     {
       "lane": 2,
@@ -3694,38 +2731,26 @@
     },
     {
       "lane": 2,
-      "beat": 236.75
+      "beat": 237
+    },
+    {
+      "lane": 1,
+      "beat": 237.5
     },
     {
       "lane": 3,
-      "beat": 236.75
-    },
-    {
-      "lane": 1,
-      "beat": 237.0
-    },
-    {
-      "lane": 0,
-      "beat": 237.5
-    },
-    {
-      "lane": 1,
-      "beat": 237.5
-    },
-    {
-      "lane": 2,
       "beat": 237.75
     },
     {
-      "lane": 2,
-      "beat": 238.0
+      "lane": 0,
+      "beat": 238
+    },
+    {
+      "lane": 1,
+      "beat": 238
     },
     {
       "lane": 3,
-      "beat": 238.0
-    },
-    {
-      "lane": 2,
       "beat": 238.5
     },
     {
@@ -3734,42 +2759,30 @@
     },
     {
       "lane": 1,
-      "beat": 238.75
-    },
-    {
-      "lane": 1,
-      "beat": 239.0
-    },
-    {
-      "lane": 0,
-      "beat": 239.5
-    },
-    {
-      "lane": 2,
-      "beat": 239.5
+      "beat": 239
     },
     {
       "lane": 3,
       "beat": 239.5
     },
     {
-      "lane": 1,
-      "beat": 239.75
-    },
-    {
       "lane": 2,
       "beat": 239.75
     },
     {
-      "lane": 0,
-      "beat": 240.0
-    },
-    {
       "lane": 1,
-      "beat": 240.0
+      "beat": 240
     },
     {
       "lane": 3,
+      "beat": 240
+    },
+    {
+      "lane": 5,
+      "beat": 240
+    },
+    {
+      "lane": 1,
       "beat": 240.5
     },
     {
@@ -3777,20 +2790,8 @@
       "beat": 240.75
     },
     {
-      "lane": 2,
-      "beat": 240.75
-    },
-    {
-      "lane": 3,
-      "beat": 240.75
-    },
-    {
-      "lane": 2,
-      "beat": 241.0
-    },
-    {
       "lane": 0,
-      "beat": 241.5
+      "beat": 241
     },
     {
       "lane": 1,
@@ -3801,19 +2802,11 @@
       "beat": 241.75
     },
     {
-      "lane": 0,
-      "beat": 242.0
+      "lane": 3,
+      "beat": 242
     },
     {
       "lane": 2,
-      "beat": 242.0
-    },
-    {
-      "lane": 3,
-      "beat": 242.0
-    },
-    {
-      "lane": 3,
       "beat": 242.5
     },
     {
@@ -3826,38 +2819,22 @@
     },
     {
       "lane": 2,
-      "beat": 243.0
+      "beat": 243
+    },
+    {
+      "lane": 0,
+      "beat": 243.5
     },
     {
       "lane": 1,
-      "beat": 243.5
+      "beat": 243.75
     },
     {
       "lane": 2,
-      "beat": 243.5
+      "beat": 244
     },
     {
       "lane": 3,
-      "beat": 243.5
-    },
-    {
-      "lane": 1,
-      "beat": 243.75
-    },
-    {
-      "lane": 2,
-      "beat": 243.75
-    },
-    {
-      "lane": 0,
-      "beat": 244.0
-    },
-    {
-      "lane": 1,
-      "beat": 244.0
-    },
-    {
-      "lane": 0,
       "beat": 244.5
     },
     {
@@ -3870,42 +2847,22 @@
     },
     {
       "lane": 3,
-      "beat": 244.75
-    },
-    {
-      "lane": 3,
-      "beat": 245.0
-    },
-    {
-      "lane": 0,
-      "beat": 245.5
+      "beat": 245
     },
     {
       "lane": 1,
       "beat": 245.5
     },
     {
-      "lane": 2,
-      "beat": 245.5
-    },
-    {
-      "lane": 2,
+      "lane": 0,
       "beat": 245.75
     },
     {
       "lane": 1,
-      "beat": 246.0
-    },
-    {
-      "lane": 2,
-      "beat": 246.0
+      "beat": 246
     },
     {
       "lane": 3,
-      "beat": 246.0
-    },
-    {
-      "lane": 0,
       "beat": 246.5
     },
     {
@@ -3913,87 +2870,55 @@
       "beat": 246.75
     },
     {
-      "lane": 1,
+      "lane": 2,
       "beat": 246.75
     },
     {
-      "lane": 3,
-      "beat": 247.0
-    },
-    {
-      "lane": 2,
-      "beat": 247.5
-    },
-    {
-      "lane": 3,
-      "beat": 247.5
-    },
-    {
       "lane": 1,
-      "beat": 247.75
-    },
-    {
-      "lane": 2,
-      "beat": 247.75
+      "beat": 247
     },
     {
       "lane": 0,
-      "beat": 248.0
-    },
-    {
-      "lane": 1,
-      "beat": 248.0
+      "beat": 247.5
     },
     {
       "lane": 2,
-      "beat": 248.0
+      "beat": 247.75
     },
     {
-      "lane": 1,
+      "lane": 2,
+      "beat": 248
+    },
+    {
+      "lane": 3,
       "beat": 248.5
     },
     {
-      "lane": 1,
-      "beat": 248.75
-    },
-    {
       "lane": 2,
       "beat": 248.75
     },
     {
       "lane": 3,
-      "beat": 248.75
-    },
-    {
-      "lane": 0,
-      "beat": 249.0
-    },
-    {
-      "lane": 0,
-      "beat": 249.5
+      "beat": 249
     },
     {
       "lane": 1,
       "beat": 249.5
     },
     {
-      "lane": 3,
+      "lane": 2,
       "beat": 249.5
     },
     {
-      "lane": 2,
+      "lane": 0,
       "beat": 249.75
     },
     {
-      "lane": 2,
-      "beat": 250.0
-    },
-    {
       "lane": 3,
-      "beat": 250.0
+      "beat": 250
     },
     {
-      "lane": 1,
+      "lane": 2,
       "beat": 250.5
     },
     {
@@ -4002,18 +2927,14 @@
     },
     {
       "lane": 1,
-      "beat": 250.75
+      "beat": 251
     },
     {
       "lane": 0,
-      "beat": 251.0
-    },
-    {
-      "lane": 2,
       "beat": 251.5
     },
     {
-      "lane": 3,
+      "lane": 2,
       "beat": 251.5
     },
     {
@@ -4021,20 +2942,8 @@
       "beat": 251.75
     },
     {
-      "lane": 2,
-      "beat": 251.75
-    },
-    {
-      "lane": 0,
-      "beat": 252.0
-    },
-    {
-      "lane": 1,
-      "beat": 252.0
-    },
-    {
       "lane": 3,
-      "beat": 252.0
+      "beat": 252
     },
     {
       "lane": 2,
@@ -4045,36 +2954,24 @@
       "beat": 252.75
     },
     {
+      "lane": 0,
+      "beat": 253
+    },
+    {
+      "lane": 1,
+      "beat": 253.5
+    },
+    {
       "lane": 2,
-      "beat": 252.75
+      "beat": 253.5
     },
     {
       "lane": 3,
-      "beat": 252.75
-    },
-    {
-      "lane": 1,
-      "beat": 253.0
-    },
-    {
-      "lane": 0,
-      "beat": 253.5
-    },
-    {
-      "lane": 1,
-      "beat": 253.5
-    },
-    {
-      "lane": 2,
       "beat": 253.75
     },
     {
-      "lane": 2,
-      "beat": 254.0
-    },
-    {
-      "lane": 3,
-      "beat": 254.0
+      "lane": 1,
+      "beat": 254
     },
     {
       "lane": 2,
@@ -4085,199 +2982,139 @@
       "beat": 254.75
     },
     {
-      "lane": 1,
-      "beat": 254.75
-    },
-    {
-      "lane": 1,
-      "beat": 255.0
+      "lane": 2,
+      "beat": 255
     },
     {
       "lane": 0,
       "beat": 255.5
     },
     {
-      "lane": 2,
-      "beat": 255.5
-    },
-    {
-      "lane": 3,
-      "beat": 255.5
-    },
-    {
       "lane": 1,
-      "beat": 255.75
-    },
-    {
-      "lane": 2,
-      "beat": 255.75
+      "beat": 255.5
     },
     {
       "lane": 0,
-      "beat": 256.0
+      "beat": 255.75
     },
     {
       "lane": 1,
-      "beat": 256.0
+      "beat": 256
     },
     {
-      "lane": 3,
+      "lane": 4,
+      "beat": 256
+    },
+    {
+      "lane": 2,
       "beat": 256.5
     },
     {
-      "lane": 1,
-      "beat": 256.75
-    },
-    {
-      "lane": 2,
-      "beat": 256.75
-    },
-    {
       "lane": 3,
-      "beat": 256.75
+      "beat": 256.75,
+      "shift": 1
     },
     {
       "lane": 2,
-      "beat": 257.0
+      "beat": 257,
+      "shift": 0
     },
     {
       "lane": 0,
       "beat": 257.5
     },
     {
-      "lane": 1,
+      "lane": 3,
       "beat": 257.5
     },
     {
-      "lane": 2,
-      "beat": 257.75
+      "lane": 1,
+      "beat": 257.75,
+      "shift": 2
     },
     {
       "lane": 0,
-      "beat": 258.0
+      "beat": 258
     },
     {
       "lane": 2,
-      "beat": 258.0
-    },
-    {
-      "lane": 3,
-      "beat": 258.0
-    },
-    {
-      "lane": 3,
       "beat": 258.5
     },
     {
-      "lane": 0,
-      "beat": 258.75
-    },
-    {
       "lane": 1,
       "beat": 258.75
     },
     {
       "lane": 2,
-      "beat": 259.0
+      "beat": 259,
+      "shift": 3
     },
     {
-      "lane": 1,
+      "lane": 0,
       "beat": 259.5
     },
     {
-      "lane": 2,
+      "lane": 1,
       "beat": 259.5
     },
     {
       "lane": 3,
-      "beat": 259.5
-    },
-    {
-      "lane": 1,
       "beat": 259.75
     },
     {
       "lane": 2,
-      "beat": 259.75
-    },
-    {
-      "lane": 0,
-      "beat": 260.0
-    },
-    {
-      "lane": 1,
-      "beat": 260.0
+      "beat": 260,
+      "shift": 0
     },
     {
       "lane": 0,
       "beat": 260.5
     },
     {
-      "lane": 1,
-      "beat": 260.75
-    },
-    {
       "lane": 2,
-      "beat": 260.75
+      "beat": 260.75,
+      "shift": 3
     },
     {
-      "lane": 3,
-      "beat": 260.75
-    },
-    {
-      "lane": 3,
-      "beat": 261.0
+      "lane": 1,
+      "beat": 261
     },
     {
       "lane": 0,
       "beat": 261.5
     },
     {
-      "lane": 1,
-      "beat": 261.5
-    },
-    {
       "lane": 2,
       "beat": 261.5
     },
     {
-      "lane": 2,
+      "lane": 3,
       "beat": 261.75
     },
     {
       "lane": 1,
-      "beat": 262.0
-    },
-    {
-      "lane": 2,
-      "beat": 262.0
+      "beat": 262
     },
     {
       "lane": 3,
-      "beat": 262.0
-    },
-    {
-      "lane": 0,
-      "beat": 262.5
-    },
-    {
-      "lane": 0,
-      "beat": 262.75
-    },
-    {
-      "lane": 1,
-      "beat": 262.75
-    },
-    {
-      "lane": 3,
-      "beat": 263.0
+      "beat": 262.5,
+      "shift": 1
     },
     {
       "lane": 2,
+      "beat": 262.75,
+      "shift": 0
+    },
+    {
+      "lane": 3,
+      "beat": 263
+    },
+    {
+      "lane": 0,
       "beat": 263.5
     },
     {
-      "lane": 3,
+      "lane": 2,
       "beat": 263.5
     },
     {
@@ -4285,48 +3122,22 @@
       "beat": 263.75
     },
     {
-      "lane": 2,
-      "beat": 263.75
+      "lane": 1,
+      "beat": 264
     },
     {
       "lane": 0,
-      "beat": 264.0
-    },
-    {
-      "lane": 1,
-      "beat": 264.0
-    },
-    {
-      "lane": 2,
-      "beat": 264.0
-    },
-    {
-      "lane": 1,
-      "beat": 264.5
-    },
-    {
-      "lane": 1,
-      "beat": 264.75
-    },
-    {
-      "lane": 2,
-      "beat": 264.75
+      "beat": 264.5,
+      "shift": 1
     },
     {
       "lane": 3,
       "beat": 264.75
     },
     {
-      "lane": 0,
-      "beat": 265.0
-    },
-    {
-      "lane": 0,
-      "beat": 265.5
-    },
-    {
-      "lane": 1,
-      "beat": 265.5
+      "lane": 2,
+      "beat": 265,
+      "shift": 1
     },
     {
       "lane": 3,
@@ -4337,143 +3148,103 @@
       "beat": 265.75
     },
     {
-      "lane": 2,
-      "beat": 266.0
-    },
-    {
-      "lane": 3,
-      "beat": 266.0
+      "lane": 0,
+      "beat": 266
     },
     {
       "lane": 1,
-      "beat": 266.5
-    },
-    {
-      "lane": 0,
-      "beat": 266.75
+      "beat": 266
     },
     {
       "lane": 1,
-      "beat": 266.75
-    },
-    {
-      "lane": 0,
-      "beat": 267.0
-    },
-    {
-      "lane": 2,
-      "beat": 267.5
+      "beat": 266.5,
+      "shift": 0
     },
     {
       "lane": 3,
+      "beat": 266.75
+    },
+    {
+      "lane": 2,
+      "beat": 267
+    },
+    {
+      "lane": 0,
       "beat": 267.5
     },
     {
       "lane": 1,
-      "beat": 267.75
-    },
-    {
-      "lane": 2,
-      "beat": 267.75
+      "beat": 267.75,
+      "shift": 3
     },
     {
       "lane": 0,
-      "beat": 268.0
+      "beat": 268
     },
     {
-      "lane": 1,
-      "beat": 268.0
-    },
-    {
-      "lane": 3,
-      "beat": 268.0
+      "lane": 2,
+      "beat": 268
     },
     {
       "lane": 2,
       "beat": 268.5
     },
     {
-      "lane": 1,
-      "beat": 268.75
-    },
-    {
-      "lane": 2,
-      "beat": 268.75
-    },
-    {
       "lane": 3,
       "beat": 268.75
     },
     {
+      "lane": 3,
+      "beat": 269
+    },
+    {
       "lane": 1,
-      "beat": 269.0
+      "beat": 269.5,
+      "shift": 2
     },
     {
       "lane": 0,
-      "beat": 269.5
-    },
-    {
-      "lane": 1,
-      "beat": 269.5
-    },
-    {
-      "lane": 2,
       "beat": 269.75
     },
     {
-      "lane": 2,
-      "beat": 270.0
+      "lane": 0,
+      "beat": 270
     },
     {
       "lane": 3,
-      "beat": 270.0
-    },
-    {
-      "lane": 2,
       "beat": 270.5
     },
     {
-      "lane": 0,
-      "beat": 270.75
-    },
-    {
       "lane": 1,
       "beat": 270.75
     },
     {
-      "lane": 1,
-      "beat": 271.0
+      "lane": 2,
+      "beat": 270.75
     },
     {
       "lane": 0,
-      "beat": 271.5
+      "beat": 271
     },
     {
       "lane": 2,
-      "beat": 271.5
+      "beat": 271.5,
+      "shift": 1
     },
     {
       "lane": 3,
-      "beat": 271.5
+      "beat": 271.75
     },
     {
       "lane": 1,
-      "beat": 271.75
+      "beat": 272
     },
     {
-      "lane": 2,
-      "beat": 271.75
+      "lane": 5,
+      "beat": 272
     },
     {
       "lane": 0,
-      "beat": 272.0
-    },
-    {
-      "lane": 1,
-      "beat": 272.0
-    },
-    {
-      "lane": 3,
       "beat": 272.5
     },
     {
@@ -4486,38 +3257,22 @@
     },
     {
       "lane": 3,
-      "beat": 272.75
+      "beat": 273
     },
     {
       "lane": 2,
-      "beat": 273.0
-    },
-    {
-      "lane": 0,
       "beat": 273.5
     },
     {
       "lane": 1,
-      "beat": 273.5
-    },
-    {
-      "lane": 2,
       "beat": 273.75
     },
     {
       "lane": 0,
-      "beat": 274.0
+      "beat": 274
     },
     {
-      "lane": 2,
-      "beat": 274.0
-    },
-    {
-      "lane": 3,
-      "beat": 274.0
-    },
-    {
-      "lane": 3,
+      "lane": 1,
       "beat": 274.5
     },
     {
@@ -4525,40 +3280,24 @@
       "beat": 274.75
     },
     {
-      "lane": 1,
+      "lane": 2,
       "beat": 274.75
     },
     {
-      "lane": 2,
-      "beat": 275.0
-    },
-    {
-      "lane": 1,
-      "beat": 275.5
+      "lane": 0,
+      "beat": 275
     },
     {
       "lane": 2,
       "beat": 275.5
-    },
-    {
-      "lane": 3,
-      "beat": 275.5
-    },
-    {
-      "lane": 1,
-      "beat": 275.75
-    },
-    {
-      "lane": 2,
-      "beat": 275.75
     },
     {
       "lane": 0,
-      "beat": 276.0
+      "beat": 275.75
     },
     {
-      "lane": 1,
-      "beat": 276.0
+      "lane": 3,
+      "beat": 276
     },
     {
       "lane": 0,
@@ -4573,95 +3312,55 @@
       "beat": 276.75
     },
     {
-      "lane": 3,
-      "beat": 276.75
+      "lane": 2,
+      "beat": 277
     },
     {
       "lane": 3,
-      "beat": 277.0
+      "beat": 277.5
     },
     {
       "lane": 0,
-      "beat": 277.5
-    },
-    {
-      "lane": 1,
-      "beat": 277.5
-    },
-    {
-      "lane": 2,
-      "beat": 277.5
-    },
-    {
-      "lane": 2,
       "beat": 277.75
     },
     {
-      "lane": 1,
-      "beat": 278.0
-    },
-    {
-      "lane": 2,
-      "beat": 278.0
-    },
-    {
       "lane": 3,
-      "beat": 278.0
+      "beat": 278
     },
     {
-      "lane": 0,
+      "lane": 1,
       "beat": 278.5
     },
     {
-      "lane": 0,
-      "beat": 278.75
-    },
-    {
-      "lane": 1,
+      "lane": 2,
       "beat": 278.75
     },
     {
       "lane": 3,
-      "beat": 279.0
+      "beat": 278.75
     },
     {
       "lane": 2,
-      "beat": 279.5
-    },
-    {
-      "lane": 3,
-      "beat": 279.5
+      "beat": 279
     },
     {
       "lane": 1,
-      "beat": 279.75
+      "beat": 279.5
     },
     {
       "lane": 2,
       "beat": 279.75
     },
     {
-      "lane": 0,
-      "beat": 280.0
-    },
-    {
-      "lane": 1,
-      "beat": 280.0
+      "lane": 3,
+      "beat": 280
     },
     {
       "lane": 2,
-      "beat": 280.0
-    },
-    {
-      "lane": 1,
       "beat": 280.5
     },
     {
-      "lane": 1,
-      "beat": 280.75
-    },
-    {
-      "lane": 2,
+      "lane": 0,
       "beat": 280.75
     },
     {
@@ -4669,8 +3368,8 @@
       "beat": 280.75
     },
     {
-      "lane": 0,
-      "beat": 281.0
+      "lane": 1,
+      "beat": 281
     },
     {
       "lane": 0,
@@ -4678,94 +3377,54 @@
     },
     {
       "lane": 1,
-      "beat": 281.5
-    },
-    {
-      "lane": 3,
-      "beat": 281.5
-    },
-    {
-      "lane": 2,
       "beat": 281.75
     },
     {
       "lane": 2,
-      "beat": 282.0
+      "beat": 282
     },
     {
       "lane": 3,
-      "beat": 282.0
-    },
-    {
-      "lane": 1,
       "beat": 282.5
     },
     {
-      "lane": 0,
+      "lane": 3,
       "beat": 282.75
+    },
+    {
+      "lane": 0,
+      "beat": 283
     },
     {
       "lane": 1,
-      "beat": 282.75
-    },
-    {
-      "lane": 0,
-      "beat": 283.0
+      "beat": 283.5
     },
     {
       "lane": 2,
       "beat": 283.5
     },
     {
-      "lane": 3,
-      "beat": 283.5
-    },
-    {
-      "lane": 1,
-      "beat": 283.75
-    },
-    {
-      "lane": 2,
+      "lane": 0,
       "beat": 283.75
     },
     {
       "lane": 0,
-      "beat": 284.0
+      "beat": 284
     },
     {
       "lane": 1,
-      "beat": 284.0
-    },
-    {
-      "lane": 3,
-      "beat": 284.0
-    },
-    {
-      "lane": 2,
       "beat": 284.5
     },
     {
-      "lane": 1,
+      "lane": 0,
       "beat": 284.75
     },
     {
-      "lane": 2,
-      "beat": 284.75
+      "lane": 1,
+      "beat": 285
     },
     {
       "lane": 3,
-      "beat": 284.75
-    },
-    {
-      "lane": 1,
-      "beat": 285.0
-    },
-    {
-      "lane": 0,
-      "beat": 285.5
-    },
-    {
-      "lane": 1,
       "beat": 285.5
     },
     {
@@ -4773,15 +3432,15 @@
       "beat": 285.75
     },
     {
-      "lane": 2,
-      "beat": 286.0
+      "lane": 0,
+      "beat": 286
     },
     {
-      "lane": 3,
-      "beat": 286.0
+      "lane": 1,
+      "beat": 286
     },
     {
-      "lane": 2,
+      "lane": 0,
       "beat": 286.5
     },
     {
@@ -4790,22 +3449,10 @@
     },
     {
       "lane": 1,
-      "beat": 286.75
-    },
-    {
-      "lane": 1,
-      "beat": 287.0
+      "beat": 287
     },
     {
       "lane": 0,
-      "beat": 287.5
-    },
-    {
-      "lane": 2,
-      "beat": 287.5
-    },
-    {
-      "lane": 3,
       "beat": 287.5
     },
     {
@@ -4814,39 +3461,35 @@
     },
     {
       "lane": 2,
-      "beat": 287.75
+      "beat": 288
     },
     {
-      "lane": 0,
-      "beat": 288.0
+      "lane": 4,
+      "beat": 288
     },
     {
       "lane": 1,
       "beat": 288.75
     },
     {
-      "lane": 3,
-      "beat": 288.75
+      "lane": 2,
+      "beat": 289
     },
     {
-      "lane": 3,
-      "beat": 289.0
-    },
-    {
-      "lane": 0,
+      "lane": 1,
       "beat": 289.5
     },
     {
-      "lane": 2,
+      "lane": 0,
       "beat": 289.75
     },
     {
-      "lane": 2,
-      "beat": 290.0
+      "lane": 1,
+      "beat": 290
     },
     {
-      "lane": 3,
-      "beat": 290.0
+      "lane": 2,
+      "beat": 290
     },
     {
       "lane": 0,
@@ -4854,14 +3497,10 @@
     },
     {
       "lane": 1,
-      "beat": 290.75
+      "beat": 291
     },
     {
-      "lane": 1,
-      "beat": 291.0
-    },
-    {
-      "lane": 3,
+      "lane": 2,
       "beat": 291.5
     },
     {
@@ -4870,15 +3509,7 @@
     },
     {
       "lane": 2,
-      "beat": 291.75
-    },
-    {
-      "lane": 0,
-      "beat": 292.0
-    },
-    {
-      "lane": 1,
-      "beat": 292.0
+      "beat": 292
     },
     {
       "lane": 1,
@@ -4886,23 +3517,19 @@
     },
     {
       "lane": 3,
-      "beat": 292.75
+      "beat": 293
     },
     {
-      "lane": 0,
-      "beat": 293.0
-    },
-    {
-      "lane": 0,
+      "lane": 2,
       "beat": 293.5
     },
     {
-      "lane": 2,
+      "lane": 0,
       "beat": 293.75
     },
     {
-      "lane": 3,
-      "beat": 294.0
+      "lane": 1,
+      "beat": 294
     },
     {
       "lane": 0,
@@ -4910,14 +3537,10 @@
     },
     {
       "lane": 1,
-      "beat": 294.75
+      "beat": 295
     },
     {
-      "lane": 2,
-      "beat": 295.0
-    },
-    {
-      "lane": 3,
+      "lane": 0,
       "beat": 295.5
     },
     {
@@ -4925,91 +3548,63 @@
       "beat": 295.75
     },
     {
-      "lane": 2,
-      "beat": 295.75
-    },
-    {
       "lane": 0,
-      "beat": 296.0
-    },
-    {
-      "lane": 2,
-      "beat": 296.0
-    },
-    {
-      "lane": 1,
-      "beat": 296.75
+      "beat": 296
     },
     {
       "lane": 3,
+      "beat": 296
+    },
+    {
+      "lane": 2,
       "beat": 296.75
     },
     {
-      "lane": 1,
-      "beat": 297.0
+      "lane": 0,
+      "beat": 297
     },
     {
-      "lane": 0,
+      "lane": 2,
       "beat": 297.5
     },
     {
-      "lane": 2,
+      "lane": 0,
       "beat": 297.75
     },
     {
-      "lane": 0,
-      "beat": 298.0
+      "lane": 1,
+      "beat": 298
     },
     {
-      "lane": 3,
-      "beat": 298.0
-    },
-    {
-      "lane": 0,
+      "lane": 2,
       "beat": 298.75
     },
     {
       "lane": 1,
-      "beat": 298.75
-    },
-    {
-      "lane": 3,
-      "beat": 299.0
+      "beat": 299
     },
     {
       "lane": 3,
       "beat": 299.5
     },
     {
-      "lane": 1,
+      "lane": 0,
       "beat": 299.75
     },
     {
+      "lane": 1,
+      "beat": 300
+    },
+    {
       "lane": 2,
-      "beat": 299.75
-    },
-    {
-      "lane": 0,
-      "beat": 300.0
-    },
-    {
-      "lane": 3,
-      "beat": 300.0
+      "beat": 300.75
     },
     {
       "lane": 1,
-      "beat": 300.75
+      "beat": 301
     },
     {
       "lane": 3,
-      "beat": 300.75
-    },
-    {
-      "lane": 2,
-      "beat": 301.0
-    },
-    {
-      "lane": 0,
       "beat": 301.5
     },
     {
@@ -5017,124 +3612,100 @@
       "beat": 301.75
     },
     {
-      "lane": 1,
-      "beat": 302.0
-    },
-    {
-      "lane": 3,
-      "beat": 302.0
-    },
-    {
       "lane": 0,
+      "beat": 302
+    },
+    {
+      "lane": 1,
+      "beat": 302
+    },
+    {
+      "lane": 2,
       "beat": 302.75
     },
     {
       "lane": 1,
-      "beat": 302.75
-    },
-    {
-      "lane": 0,
-      "beat": 303.0
+      "beat": 303
     },
     {
       "lane": 3,
       "beat": 303.5
     },
     {
-      "lane": 1,
+      "lane": 0,
       "beat": 303.75
     },
     {
-      "lane": 2,
-      "beat": 303.75
+      "lane": 3,
+      "beat": 304
+    },
+    {
+      "lane": 5,
+      "beat": 304
     },
     {
       "lane": 0,
-      "beat": 304.0
+      "beat": 304.75
+    },
+    {
+      "lane": 0,
+      "beat": 305
     },
     {
       "lane": 1,
-      "beat": 304.75
-    },
-    {
-      "lane": 3,
-      "beat": 304.75
-    },
-    {
-      "lane": 3,
-      "beat": 305.0
-    },
-    {
-      "lane": 0,
       "beat": 305.5
     },
     {
-      "lane": 2,
+      "lane": 1,
       "beat": 305.75
     },
     {
-      "lane": 2,
-      "beat": 306.0
-    },
-    {
-      "lane": 3,
-      "beat": 306.0
-    },
-    {
       "lane": 0,
-      "beat": 306.75
+      "beat": 306
     },
     {
-      "lane": 1,
+      "lane": 2,
       "beat": 306.75
-    },
-    {
-      "lane": 1,
-      "beat": 307.0
     },
     {
       "lane": 3,
+      "beat": 307
+    },
+    {
+      "lane": 2,
       "beat": 307.5
     },
     {
-      "lane": 1,
-      "beat": 307.75
-    },
-    {
-      "lane": 2,
+      "lane": 3,
       "beat": 307.75
     },
     {
       "lane": 0,
-      "beat": 308.0
+      "beat": 308
     },
     {
       "lane": 1,
-      "beat": 308.0
-    },
-    {
-      "lane": 1,
-      "beat": 308.75
+      "beat": 308
     },
     {
       "lane": 3,
       "beat": 308.75
     },
     {
-      "lane": 0,
-      "beat": 309.0
+      "lane": 2,
+      "beat": 309
     },
     {
-      "lane": 0,
+      "lane": 1,
       "beat": 309.5
     },
     {
-      "lane": 2,
+      "lane": 0,
       "beat": 309.75
     },
     {
-      "lane": 3,
-      "beat": 310.0
+      "lane": 1,
+      "beat": 310
     },
     {
       "lane": 0,
@@ -5142,106 +3713,74 @@
     },
     {
       "lane": 1,
-      "beat": 310.75
+      "beat": 311
     },
     {
-      "lane": 2,
-      "beat": 311.0
-    },
-    {
-      "lane": 3,
+      "lane": 0,
       "beat": 311.5
     },
     {
-      "lane": 1,
-      "beat": 311.75
-    },
-    {
-      "lane": 2,
-      "beat": 311.75
-    },
-    {
       "lane": 0,
-      "beat": 312.0
-    },
-    {
-      "lane": 2,
-      "beat": 312.0
-    },
-    {
-      "lane": 1,
-      "beat": 312.75
+      "beat": 311.75
     },
     {
       "lane": 3,
-      "beat": 312.75
+      "beat": 312
     },
     {
       "lane": 1,
-      "beat": 313.0
+      "beat": 312.75
+    },
+    {
+      "lane": 2,
+      "beat": 313
     },
     {
       "lane": 0,
       "beat": 313.5
     },
     {
-      "lane": 2,
+      "lane": 3,
       "beat": 313.75
     },
     {
-      "lane": 0,
-      "beat": 314.0
-    },
-    {
-      "lane": 3,
-      "beat": 314.0
-    },
-    {
-      "lane": 0,
-      "beat": 314.75
-    },
-    {
       "lane": 1,
+      "beat": 314
+    },
+    {
+      "lane": 2,
+      "beat": 314
+    },
+    {
+      "lane": 0,
       "beat": 314.75
     },
     {
-      "lane": 3,
-      "beat": 315.0
+      "lane": 2,
+      "beat": 315
     },
     {
-      "lane": 3,
+      "lane": 0,
       "beat": 315.5
     },
     {
-      "lane": 1,
+      "lane": 3,
       "beat": 315.75
+    },
+    {
+      "lane": 1,
+      "beat": 316
     },
     {
       "lane": 2,
-      "beat": 315.75
-    },
-    {
-      "lane": 0,
-      "beat": 316.0
-    },
-    {
-      "lane": 3,
-      "beat": 316.0
-    },
-    {
-      "lane": 1,
       "beat": 316.75
     },
     {
       "lane": 3,
-      "beat": 316.75
+      "beat": 317
     },
     {
-      "lane": 2,
-      "beat": 317.0
-    },
-    {
-      "lane": 0,
+      "lane": 1,
       "beat": 317.5
     },
     {
@@ -5249,47 +3788,39 @@
       "beat": 317.75
     },
     {
-      "lane": 1,
-      "beat": 318.0
-    },
-    {
-      "lane": 3,
-      "beat": 318.0
-    },
-    {
       "lane": 0,
-      "beat": 318.75
+      "beat": 318
     },
     {
       "lane": 1,
       "beat": 318.75
-    },
-    {
-      "lane": 0,
-      "beat": 319.0
-    },
-    {
-      "lane": 3,
-      "beat": 319.5
-    },
-    {
-      "lane": 1,
-      "beat": 319.75
     },
     {
       "lane": 2,
-      "beat": 319.75
-    },
-    {
-      "lane": 0,
-      "beat": 320.0
+      "beat": 319
     },
     {
       "lane": 1,
-      "beat": 320.0
+      "beat": 319.5
+    },
+    {
+      "lane": 0,
+      "beat": 319.75
+    },
+    {
+      "lane": 1,
+      "beat": 320
     },
     {
       "lane": 3,
+      "beat": 320
+    },
+    {
+      "lane": 4,
+      "beat": 320
+    },
+    {
+      "lane": 0,
       "beat": 320.5
     },
     {
@@ -5298,63 +3829,35 @@
     },
     {
       "lane": 2,
-      "beat": 320.75
-    },
-    {
-      "lane": 3,
-      "beat": 320.75
-    },
-    {
-      "lane": 2,
-      "beat": 321.0
+      "beat": 321
     },
     {
       "lane": 0,
       "beat": 321.5
     },
     {
-      "lane": 1,
-      "beat": 321.5
-    },
-    {
-      "lane": 2,
+      "lane": 3,
       "beat": 321.75
     },
     {
       "lane": 0,
-      "beat": 322.0
+      "beat": 322
     },
     {
-      "lane": 2,
-      "beat": 322.0
-    },
-    {
-      "lane": 3,
-      "beat": 322.0
+      "lane": 1,
+      "beat": 322
     },
     {
       "lane": 3,
       "beat": 322.5
     },
     {
-      "lane": 0,
-      "beat": 322.75
-    },
-    {
-      "lane": 1,
+      "lane": 2,
       "beat": 322.75
     },
     {
       "lane": 2,
-      "beat": 323.0
-    },
-    {
-      "lane": 1,
-      "beat": 323.5
-    },
-    {
-      "lane": 2,
-      "beat": 323.5
+      "beat": 323
     },
     {
       "lane": 3,
@@ -5365,36 +3868,24 @@
       "beat": 323.75
     },
     {
-      "lane": 2,
-      "beat": 323.75
+      "lane": 0,
+      "beat": 324
     },
     {
-      "lane": 0,
-      "beat": 324.0
+      "lane": 2,
+      "beat": 324
     },
     {
       "lane": 1,
-      "beat": 324.0
-    },
-    {
-      "lane": 0,
       "beat": 324.5
     },
     {
+      "lane": 3,
+      "beat": 324.75
+    },
+    {
       "lane": 1,
-      "beat": 324.75
-    },
-    {
-      "lane": 2,
-      "beat": 324.75
-    },
-    {
-      "lane": 3,
-      "beat": 324.75
-    },
-    {
-      "lane": 3,
-      "beat": 325.0
+      "beat": 325
     },
     {
       "lane": 0,
@@ -5402,199 +3893,123 @@
     },
     {
       "lane": 1,
-      "beat": 325.5
-    },
-    {
-      "lane": 2,
-      "beat": 325.5
-    },
-    {
-      "lane": 2,
       "beat": 325.75
     },
     {
-      "lane": 1,
-      "beat": 326.0
+      "lane": 0,
+      "beat": 326
     },
     {
       "lane": 2,
-      "beat": 326.0
+      "beat": 326
     },
     {
-      "lane": 3,
-      "beat": 326.0
-    },
-    {
-      "lane": 0,
+      "lane": 1,
       "beat": 326.5
     },
     {
-      "lane": 0,
-      "beat": 326.75
-    },
-    {
-      "lane": 1,
+      "lane": 2,
       "beat": 326.75
     },
     {
       "lane": 3,
-      "beat": 327.0
+      "beat": 327
     },
     {
       "lane": 2,
       "beat": 327.5
     },
     {
-      "lane": 3,
-      "beat": 327.5
-    },
-    {
-      "lane": 1,
-      "beat": 327.75
-    },
-    {
-      "lane": 2,
-      "beat": 327.75
-    },
-    {
       "lane": 0,
-      "beat": 328.0
+      "beat": 327.75
     },
     {
       "lane": 1,
-      "beat": 328.0
+      "beat": 328
+    },
+    {
+      "lane": 3,
+      "beat": 328
     },
     {
       "lane": 2,
-      "beat": 328.0
-    },
-    {
-      "lane": 1,
       "beat": 328.5
     },
     {
-      "lane": 1,
-      "beat": 328.75
-    },
-    {
-      "lane": 2,
-      "beat": 328.75
-    },
-    {
       "lane": 3,
       "beat": 328.75
     },
     {
-      "lane": 0,
-      "beat": 329.0
+      "lane": 1,
+      "beat": 329
     },
     {
       "lane": 0,
       "beat": 329.5
     },
     {
-      "lane": 1,
-      "beat": 329.5
-    },
-    {
       "lane": 3,
-      "beat": 329.5
-    },
-    {
-      "lane": 2,
       "beat": 329.75
     },
     {
-      "lane": 2,
-      "beat": 330.0
-    },
-    {
-      "lane": 3,
-      "beat": 330.0
+      "lane": 0,
+      "beat": 330
     },
     {
       "lane": 1,
+      "beat": 330
+    },
+    {
+      "lane": 0,
       "beat": 330.5
     },
     {
-      "lane": 0,
-      "beat": 330.75
-    },
-    {
-      "lane": 1,
-      "beat": 330.75
-    },
-    {
-      "lane": 0,
-      "beat": 331.0
-    },
-    {
       "lane": 2,
-      "beat": 331.5
+      "beat": 330.75
     },
     {
       "lane": 3,
-      "beat": 331.5
+      "beat": 331
     },
     {
       "lane": 1,
+      "beat": 331.5
+    },
+    {
+      "lane": 0,
       "beat": 331.75
     },
     {
       "lane": 2,
-      "beat": 331.75
-    },
-    {
-      "lane": 0,
-      "beat": 332.0
-    },
-    {
-      "lane": 1,
-      "beat": 332.0
+      "beat": 332
     },
     {
       "lane": 3,
-      "beat": 332.0
+      "beat": 332
     },
     {
       "lane": 2,
       "beat": 332.5
     },
     {
-      "lane": 1,
-      "beat": 332.75
-    },
-    {
       "lane": 2,
       "beat": 332.75
     },
     {
-      "lane": 3,
-      "beat": 332.75
+      "lane": 1,
+      "beat": 333
     },
     {
-      "lane": 1,
-      "beat": 333.0
+      "lane": 2,
+      "beat": 333.5
     },
     {
       "lane": 0,
-      "beat": 333.5
-    },
-    {
-      "lane": 1,
-      "beat": 333.5
-    },
-    {
-      "lane": 2,
       "beat": 333.75
     },
     {
-      "lane": 2,
-      "beat": 334.0
-    },
-    {
-      "lane": 3,
-      "beat": 334.0
+      "lane": 1,
+      "beat": 334
     },
     {
       "lane": 2,
@@ -5605,23 +4020,15 @@
       "beat": 334.75
     },
     {
-      "lane": 1,
+      "lane": 3,
       "beat": 334.75
     },
     {
-      "lane": 1,
-      "beat": 335.0
+      "lane": 2,
+      "beat": 335
     },
     {
       "lane": 0,
-      "beat": 335.5
-    },
-    {
-      "lane": 2,
-      "beat": 335.5
-    },
-    {
-      "lane": 3,
       "beat": 335.5
     },
     {
@@ -5629,19 +4036,15 @@
       "beat": 335.75
     },
     {
-      "lane": 2,
-      "beat": 335.75
+      "lane": 1,
+      "beat": 336
+    },
+    {
+      "lane": 5,
+      "beat": 336
     },
     {
       "lane": 0,
-      "beat": 336.0
-    },
-    {
-      "lane": 1,
-      "beat": 336.0
-    },
-    {
-      "lane": 3,
       "beat": 336.5
     },
     {
@@ -5649,56 +4052,36 @@
       "beat": 336.75
     },
     {
-      "lane": 2,
-      "beat": 336.75
-    },
-    {
-      "lane": 3,
-      "beat": 336.75
-    },
-    {
-      "lane": 2,
-      "beat": 337.0
-    },
-    {
       "lane": 0,
-      "beat": 337.5
+      "beat": 337
     },
     {
       "lane": 1,
       "beat": 337.5
     },
     {
-      "lane": 2,
+      "lane": 3,
+      "beat": 337.5
+    },
+    {
+      "lane": 3,
       "beat": 337.75
     },
     {
-      "lane": 0,
-      "beat": 338.0
-    },
-    {
       "lane": 2,
-      "beat": 338.0
+      "beat": 338
     },
     {
-      "lane": 3,
-      "beat": 338.0
-    },
-    {
-      "lane": 3,
+      "lane": 0,
       "beat": 338.5
     },
     {
+      "lane": 1,
+      "beat": 338.75
+    },
+    {
       "lane": 0,
-      "beat": 338.75
-    },
-    {
-      "lane": 1,
-      "beat": 338.75
-    },
-    {
-      "lane": 2,
-      "beat": 339.0
+      "beat": 339
     },
     {
       "lane": 1,
@@ -5707,46 +4090,26 @@
     {
       "lane": 2,
       "beat": 339.5
+    },
+    {
+      "lane": 2,
+      "beat": 339.75
     },
     {
       "lane": 3,
-      "beat": 339.5
+      "beat": 340
     },
     {
       "lane": 1,
-      "beat": 339.75
-    },
-    {
-      "lane": 2,
-      "beat": 339.75
-    },
-    {
-      "lane": 0,
-      "beat": 340.0
-    },
-    {
-      "lane": 1,
-      "beat": 340.0
-    },
-    {
-      "lane": 0,
       "beat": 340.5
     },
     {
-      "lane": 1,
-      "beat": 340.75
-    },
-    {
       "lane": 2,
       "beat": 340.75
     },
     {
       "lane": 3,
-      "beat": 340.75
-    },
-    {
-      "lane": 3,
-      "beat": 341.0
+      "beat": 341
     },
     {
       "lane": 0,
@@ -5754,10 +4117,6 @@
     },
     {
       "lane": 1,
-      "beat": 341.5
-    },
-    {
-      "lane": 2,
       "beat": 341.5
     },
     {
@@ -5765,35 +4124,23 @@
       "beat": 341.75
     },
     {
-      "lane": 1,
-      "beat": 342.0
+      "lane": 3,
+      "beat": 342
     },
     {
       "lane": 2,
-      "beat": 342.0
-    },
-    {
-      "lane": 3,
-      "beat": 342.0
-    },
-    {
-      "lane": 0,
       "beat": 342.5
     },
     {
-      "lane": 0,
-      "beat": 342.75
-    },
-    {
       "lane": 1,
       "beat": 342.75
     },
     {
-      "lane": 3,
-      "beat": 343.0
+      "lane": 2,
+      "beat": 343
     },
     {
-      "lane": 2,
+      "lane": 0,
       "beat": 343.5
     },
     {
@@ -5801,27 +4148,15 @@
       "beat": 343.5
     },
     {
-      "lane": 1,
-      "beat": 343.75
-    },
-    {
       "lane": 2,
       "beat": 343.75
     },
     {
       "lane": 0,
-      "beat": 344.0
-    },
-    {
-      "lane": 1,
-      "beat": 344.0
+      "beat": 344
     },
     {
       "lane": 2,
-      "beat": 344.0
-    },
-    {
-      "lane": 1,
       "beat": 344.5
     },
     {
@@ -5829,43 +4164,27 @@
       "beat": 344.75
     },
     {
-      "lane": 2,
-      "beat": 344.75
-    },
-    {
       "lane": 3,
-      "beat": 344.75
+      "beat": 345
     },
     {
       "lane": 0,
-      "beat": 345.0
+      "beat": 345.5
     },
     {
-      "lane": 0,
+      "lane": 2,
       "beat": 345.5
     },
     {
       "lane": 1,
-      "beat": 345.5
-    },
-    {
-      "lane": 3,
-      "beat": 345.5
-    },
-    {
-      "lane": 2,
       "beat": 345.75
     },
     {
-      "lane": 2,
-      "beat": 346.0
-    },
-    {
-      "lane": 3,
-      "beat": 346.0
-    },
-    {
       "lane": 1,
+      "beat": 346
+    },
+    {
+      "lane": 2,
       "beat": 346.5
     },
     {
@@ -5873,67 +4192,39 @@
       "beat": 346.75
     },
     {
-      "lane": 1,
-      "beat": 346.75
-    },
-    {
-      "lane": 0,
-      "beat": 347.0
-    },
-    {
       "lane": 2,
+      "beat": 347
+    },
+    {
+      "lane": 1,
       "beat": 347.5
     },
     {
       "lane": 3,
-      "beat": 347.5
-    },
-    {
-      "lane": 1,
       "beat": 347.75
     },
     {
-      "lane": 2,
-      "beat": 347.75
+      "lane": 1,
+      "beat": 348
     },
     {
-      "lane": 0,
-      "beat": 348.0
+      "lane": 2,
+      "beat": 348
     },
     {
       "lane": 1,
-      "beat": 348.0
-    },
-    {
-      "lane": 3,
-      "beat": 348.0
-    },
-    {
-      "lane": 2,
       "beat": 348.5
     },
     {
-      "lane": 1,
-      "beat": 348.75
-    },
-    {
       "lane": 2,
       "beat": 348.75
     },
     {
+      "lane": 1,
+      "beat": 349
+    },
+    {
       "lane": 3,
-      "beat": 348.75
-    },
-    {
-      "lane": 1,
-      "beat": 349.0
-    },
-    {
-      "lane": 0,
-      "beat": 349.5
-    },
-    {
-      "lane": 1,
       "beat": 349.5
     },
     {
@@ -5941,64 +4232,45 @@
       "beat": 349.75
     },
     {
-      "lane": 2,
-      "beat": 350.0
+      "lane": 0,
+      "beat": 350
     },
     {
-      "lane": 3,
-      "beat": 350.0
+      "lane": 1,
+      "beat": 350
     },
     {
-      "lane": 2,
+      "lane": 1,
       "beat": 350.5
     },
     {
-      "lane": 0,
-      "beat": 350.75
-    },
-    {
       "lane": 1,
       "beat": 350.75
     },
     {
-      "lane": 1,
-      "beat": 351.0
+      "lane": 2,
+      "beat": 351
     },
     {
       "lane": 0,
       "beat": 351.5
     },
     {
-      "lane": 2,
-      "beat": 351.5
-    },
-    {
       "lane": 3,
-      "beat": 351.5
-    },
-    {
-      "lane": 1,
       "beat": 351.75
     },
     {
       "lane": 2,
-      "beat": 351.75
+      "beat": 352
+    },
+    {
+      "lane": 4,
+      "beat": 352
     },
     {
       "lane": 0,
-      "beat": 352.0
-    },
-    {
-      "lane": 1,
-      "beat": 352.0
-    },
-    {
-      "lane": 3,
-      "beat": 352.5
-    },
-    {
-      "lane": 1,
-      "beat": 352.75
+      "beat": 352.5,
+      "stealth": true
     },
     {
       "lane": 2,
@@ -6009,55 +4281,42 @@
       "beat": 352.75
     },
     {
-      "lane": 2,
-      "beat": 353.0
-    },
-    {
       "lane": 0,
-      "beat": 353.5
+      "beat": 353,
+      "stealth": true
     },
     {
       "lane": 1,
-      "beat": 353.5
-    },
-    {
-      "lane": 2,
-      "beat": 353.75
+      "beat": 353.5,
+      "stealth": true
     },
     {
       "lane": 0,
-      "beat": 354.0
+      "beat": 353.75,
+      "stealth": true
+    },
+    {
+      "lane": 1,
+      "beat": 354,
+      "stealth": true
     },
     {
       "lane": 2,
-      "beat": 354.0
+      "beat": 354.5,
+      "stealth": true
     },
     {
-      "lane": 3,
-      "beat": 354.0
-    },
-    {
-      "lane": 3,
-      "beat": 354.5
+      "lane": 2,
+      "beat": 354.75,
+      "stealth": true
     },
     {
       "lane": 0,
-      "beat": 354.75
+      "beat": 355,
+      "stealth": true
     },
     {
       "lane": 1,
-      "beat": 354.75
-    },
-    {
-      "lane": 2,
-      "beat": 355.0
-    },
-    {
-      "lane": 1,
-      "beat": 355.5
-    },
-    {
-      "lane": 2,
       "beat": 355.5
     },
     {
@@ -6065,84 +4324,66 @@
       "beat": 355.5
     },
     {
-      "lane": 1,
-      "beat": 355.75
-    },
-    {
       "lane": 2,
-      "beat": 355.75
+      "beat": 355.75,
+      "stealth": true
     },
     {
       "lane": 0,
-      "beat": 356.0
+      "beat": 356,
+      "stealth": true
     },
     {
       "lane": 1,
-      "beat": 356.0
-    },
-    {
-      "lane": 0,
-      "beat": 356.5
-    },
-    {
-      "lane": 1,
-      "beat": 356.75
-    },
-    {
-      "lane": 2,
-      "beat": 356.75
+      "beat": 356.5,
+      "stealth": true
     },
     {
       "lane": 3,
-      "beat": 356.75
+      "beat": 356.75,
+      "stealth": true
     },
     {
-      "lane": 3,
-      "beat": 357.0
-    },
-    {
-      "lane": 0,
-      "beat": 357.5
+      "lane": 2,
+      "beat": 357,
+      "stealth": true
     },
     {
       "lane": 1,
       "beat": 357.5
     },
     {
-      "lane": 2,
+      "lane": 3,
       "beat": 357.5
     },
     {
-      "lane": 2,
-      "beat": 357.75
-    },
-    {
       "lane": 1,
-      "beat": 358.0
-    },
-    {
-      "lane": 2,
-      "beat": 358.0
-    },
-    {
-      "lane": 3,
-      "beat": 358.0
+      "beat": 357.75,
+      "stealth": true
     },
     {
       "lane": 0,
-      "beat": 358.5
-    },
-    {
-      "lane": 0,
-      "beat": 358.75
+      "beat": 358,
+      "stealth": true
     },
     {
       "lane": 1,
-      "beat": 358.75
+      "beat": 358.5,
+      "stealth": true
     },
     {
-      "lane": 3,
-      "beat": 359.0
+      "lane": 2,
+      "beat": 358.75,
+      "stealth": true
+    },
+    {
+      "lane": 0,
+      "beat": 359,
+      "stealth": true
+    },
+    {
+      "lane": 1,
+      "beat": 359.5
     },
     {
       "lane": 2,
@@ -6150,390 +4391,286 @@
     },
     {
       "lane": 3,
-      "beat": 359.5
-    },
-    {
-      "lane": 1,
-      "beat": 359.75
-    },
-    {
-      "lane": 2,
-      "beat": 359.75
-    },
-    {
-      "lane": 0,
-      "beat": 360.0
-    },
-    {
-      "lane": 1,
-      "beat": 360.0
-    },
-    {
-      "lane": 2,
-      "beat": 360.0
-    },
-    {
-      "lane": 1,
-      "beat": 360.5
-    },
-    {
-      "lane": 1,
-      "beat": 360.75
-    },
-    {
-      "lane": 2,
-      "beat": 360.75
+      "beat": 359.75,
+      "stealth": true
     },
     {
       "lane": 3,
-      "beat": 360.75
+      "beat": 360,
+      "stealth": true
     },
     {
-      "lane": 0,
-      "beat": 361.0
-    },
-    {
-      "lane": 0,
-      "beat": 361.5
-    },
-    {
-      "lane": 1,
-      "beat": 361.5
+      "lane": 2,
+      "beat": 360.5,
+      "stealth": true
     },
     {
       "lane": 3,
-      "beat": 361.5
-    },
-    {
-      "lane": 2,
-      "beat": 361.75
-    },
-    {
-      "lane": 2,
-      "beat": 362.0
+      "beat": 360.75,
+      "stealth": true
     },
     {
       "lane": 3,
-      "beat": 362.0
+      "beat": 361,
+      "stealth": true
     },
     {
       "lane": 1,
-      "beat": 362.5
+      "beat": 361.5,
+      "stealth": true
     },
     {
       "lane": 0,
-      "beat": 362.75
+      "beat": 361.75,
+      "stealth": true
     },
     {
       "lane": 1,
-      "beat": 362.75
-    },
-    {
-      "lane": 0,
-      "beat": 363.0
-    },
-    {
-      "lane": 2,
-      "beat": 363.5
+      "beat": 362
     },
     {
       "lane": 3,
-      "beat": 363.5
-    },
-    {
-      "lane": 1,
-      "beat": 363.75
-    },
-    {
-      "lane": 2,
-      "beat": 363.75
+      "beat": 362
     },
     {
       "lane": 0,
-      "beat": 364.0
+      "beat": 362.5,
+      "stealth": true
     },
     {
       "lane": 1,
-      "beat": 364.0
-    },
-    {
-      "lane": 3,
-      "beat": 364.0
+      "beat": 362.75,
+      "stealth": true
     },
     {
       "lane": 2,
-      "beat": 364.5
-    },
-    {
-      "lane": 1,
-      "beat": 364.75
-    },
-    {
-      "lane": 2,
-      "beat": 364.75
+      "beat": 363,
+      "stealth": true
     },
     {
       "lane": 3,
-      "beat": 364.75
+      "beat": 363.5,
+      "stealth": true
+    },
+    {
+      "lane": 2,
+      "beat": 363.75,
+      "stealth": true
     },
     {
       "lane": 1,
-      "beat": 365.0
+      "beat": 364
+    },
+    {
+      "lane": 3,
+      "beat": 364
+    },
+    {
+      "lane": 3,
+      "beat": 364.5,
+      "stealth": true
+    },
+    {
+      "lane": 1,
+      "beat": 364.75,
+      "stealth": true
     },
     {
       "lane": 0,
-      "beat": 365.5
+      "beat": 365,
+      "stealth": true
+    },
+    {
+      "lane": 2,
+      "beat": 365.5,
+      "stealth": true
     },
     {
       "lane": 1,
-      "beat": 365.5
+      "beat": 365.75,
+      "stealth": true
     },
     {
       "lane": 2,
-      "beat": 365.75
-    },
-    {
-      "lane": 2,
-      "beat": 366.0
+      "beat": 366
     },
     {
       "lane": 3,
-      "beat": 366.0
-    },
-    {
-      "lane": 2,
-      "beat": 366.5
-    },
-    {
-      "lane": 0,
-      "beat": 366.75
-    },
-    {
-      "lane": 1,
-      "beat": 366.75
-    },
-    {
-      "lane": 1,
-      "beat": 367.0
-    },
-    {
-      "lane": 0,
-      "beat": 367.5
-    },
-    {
-      "lane": 2,
-      "beat": 367.5
+      "beat": 366
     },
     {
       "lane": 3,
-      "beat": 367.5
-    },
-    {
-      "lane": 1,
-      "beat": 367.75
+      "beat": 366.5,
+      "stealth": true
     },
     {
       "lane": 2,
-      "beat": 367.75
+      "beat": 366.75,
+      "stealth": true
+    },
+    {
+      "lane": 2,
+      "beat": 367,
+      "stealth": true
     },
     {
       "lane": 0,
-      "beat": 368.0
-    },
-    {
-      "lane": 1,
-      "beat": 368.0
+      "beat": 367.5,
+      "stealth": true
     },
     {
       "lane": 3,
-      "beat": 368.5
+      "beat": 367.75,
+      "stealth": true
     },
     {
       "lane": 1,
-      "beat": 368.75
+      "beat": 368
     },
     {
       "lane": 2,
-      "beat": 368.75
+      "beat": 368
     },
     {
-      "lane": 3,
-      "beat": 368.75
-    },
-    {
-      "lane": 2,
-      "beat": 369.0
+      "lane": 5,
+      "beat": 368
     },
     {
       "lane": 0,
-      "beat": 369.5
-    },
-    {
-      "lane": 1,
-      "beat": 369.5
+      "beat": 368.5,
+      "phase": true
     },
     {
       "lane": 2,
-      "beat": 369.75
-    },
-    {
-      "lane": 0,
-      "beat": 370.0
-    },
-    {
-      "lane": 2,
-      "beat": 370.0
+      "beat": 368.75,
+      "phase": true
     },
     {
       "lane": 3,
-      "beat": 370.0
+      "beat": 369,
+      "phase": true
     },
     {
-      "lane": 3,
-      "beat": 370.5
+      "lane": 1,
+      "beat": 369.5,
+      "phase": true
+    },
+    {
+      "lane": 1,
+      "beat": 369.75,
+      "phase": true
     },
     {
       "lane": 0,
-      "beat": 370.75
-    },
-    {
-      "lane": 1,
-      "beat": 370.75
+      "beat": 370
     },
     {
       "lane": 2,
-      "beat": 371.0
-    },
-    {
-      "lane": 1,
-      "beat": 371.5
-    },
-    {
-      "lane": 2,
-      "beat": 371.5
+      "beat": 370
     },
     {
       "lane": 3,
-      "beat": 371.5
-    },
-    {
-      "lane": 1,
-      "beat": 371.75
+      "beat": 370.5,
+      "phase": true
     },
     {
       "lane": 2,
-      "beat": 371.75
-    },
-    {
-      "lane": 0,
-      "beat": 372.0
-    },
-    {
-      "lane": 1,
-      "beat": 372.0
-    },
-    {
-      "lane": 0,
-      "beat": 372.5
-    },
-    {
-      "lane": 1,
-      "beat": 372.75
-    },
-    {
-      "lane": 2,
-      "beat": 372.75
+      "beat": 370.75,
+      "phase": true
     },
     {
       "lane": 3,
-      "beat": 372.75
+      "beat": 371,
+      "phase": true
     },
     {
-      "lane": 3,
-      "beat": 373.0
+      "lane": 2,
+      "beat": 371.5,
+      "phase": true
+    },
+    {
+      "lane": 1,
+      "beat": 371.75,
+      "phase": true
     },
     {
       "lane": 0,
-      "beat": 373.5
+      "beat": 372
+    },
+    {
+      "lane": 2,
+      "beat": 372
+    },
+    {
+      "lane": 2,
+      "beat": 372.5,
+      "phase": true
     },
     {
       "lane": 1,
-      "beat": 373.5
+      "beat": 372.75,
+      "phase": true
     },
     {
       "lane": 2,
-      "beat": 373.5
-    },
-    {
-      "lane": 2,
-      "beat": 373.75
-    },
-    {
-      "lane": 1,
-      "beat": 374.0
-    },
-    {
-      "lane": 2,
-      "beat": 374.0
+      "beat": 373,
+      "phase": true
     },
     {
       "lane": 3,
-      "beat": 374.0
+      "beat": 373.5,
+      "phase": true
     },
     {
-      "lane": 0,
-      "beat": 374.5
-    },
-    {
-      "lane": 0,
-      "beat": 374.75
+      "lane": 2,
+      "beat": 373.75,
+      "phase": true
     },
     {
       "lane": 1,
-      "beat": 374.75
+      "beat": 374
     },
     {
       "lane": 3,
-      "beat": 375.0
+      "beat": 374
     },
     {
       "lane": 2,
-      "beat": 375.5
+      "beat": 374.5,
+      "phase": true
+    },
+    {
+      "lane": 1,
+      "beat": 374.75,
+      "phase": true
+    },
+    {
+      "lane": 2,
+      "beat": 375,
+      "phase": true
     },
     {
       "lane": 3,
-      "beat": 375.5
-    },
-    {
-      "lane": 1,
-      "beat": 375.75
-    },
-    {
-      "lane": 2,
-      "beat": 375.75
+      "beat": 375.5,
+      "phase": true
     },
     {
       "lane": 0,
-      "beat": 376.0
+      "beat": 375.75,
+      "phase": true
     },
     {
-      "lane": 1,
-      "beat": 376.0
-    },
-    {
-      "lane": 2,
-      "beat": 376.0
-    },
-    {
-      "lane": 1,
-      "beat": 376.5
-    },
-    {
-      "lane": 1,
-      "beat": 376.75
+      "lane": 0,
+      "beat": 376,
+      "phase": true
     },
     {
       "lane": 2,
+      "beat": 376.5,
+      "phase": true
+    },
+    {
+      "lane": 0,
       "beat": 376.75
     },
     {
@@ -6541,83 +4678,65 @@
       "beat": 376.75
     },
     {
-      "lane": 0,
-      "beat": 377.0
-    },
-    {
-      "lane": 0,
-      "beat": 377.5
-    },
-    {
-      "lane": 1,
-      "beat": 377.5
+      "lane": 2,
+      "beat": 377,
+      "phase": true
     },
     {
       "lane": 3,
-      "beat": 377.5
-    },
-    {
-      "lane": 2,
-      "beat": 377.75
-    },
-    {
-      "lane": 2,
-      "beat": 378.0
+      "beat": 377.5,
+      "phase": true
     },
     {
       "lane": 3,
-      "beat": 378.0
+      "beat": 377.75,
+      "phase": true
+    },
+    {
+      "lane": 2,
+      "beat": 378,
+      "phase": true
     },
     {
       "lane": 1,
-      "beat": 378.5
+      "beat": 378.5,
+      "phase": true
     },
     {
       "lane": 0,
       "beat": 378.75
     },
     {
-      "lane": 1,
+      "lane": 3,
       "beat": 378.75
     },
     {
-      "lane": 0,
-      "beat": 379.0
+      "lane": 1,
+      "beat": 379,
+      "phase": true
     },
     {
       "lane": 2,
-      "beat": 379.5
+      "beat": 379.5,
+      "phase": true
+    },
+    {
+      "lane": 2,
+      "beat": 379.75,
+      "phase": true
     },
     {
       "lane": 3,
-      "beat": 379.5
+      "beat": 380,
+      "phase": true
     },
     {
       "lane": 1,
-      "beat": 379.75
-    },
-    {
-      "lane": 2,
-      "beat": 379.75
+      "beat": 380.5,
+      "phase": true
     },
     {
       "lane": 0,
-      "beat": 380.0
-    },
-    {
-      "lane": 1,
-      "beat": 380.0
-    },
-    {
-      "lane": 3,
-      "beat": 380.0
-    },
-    {
-      "lane": 2,
-      "beat": 380.5
-    },
-    {
-      "lane": 1,
       "beat": 380.75
     },
     {
@@ -6626,85 +4745,65 @@
     },
     {
       "lane": 3,
-      "beat": 380.75
-    },
-    {
-      "lane": 1,
-      "beat": 381.0
+      "beat": 381,
+      "phase": true
     },
     {
       "lane": 0,
-      "beat": 381.5
-    },
-    {
-      "lane": 1,
-      "beat": 381.5
-    },
-    {
-      "lane": 2,
-      "beat": 381.75
-    },
-    {
-      "lane": 2,
-      "beat": 382.0
+      "beat": 381.5,
+      "phase": true
     },
     {
       "lane": 3,
-      "beat": 382.0
+      "beat": 381.75,
+      "phase": true
     },
     {
       "lane": 2,
-      "beat": 382.5
+      "beat": 382,
+      "phase": true
     },
     {
-      "lane": 0,
+      "lane": 1,
+      "beat": 382.5,
+      "phase": true
+    },
+    {
+      "lane": 2,
       "beat": 382.75
     },
     {
-      "lane": 1,
+      "lane": 3,
       "beat": 382.75
     },
     {
+      "lane": 2,
+      "beat": 383,
+      "phase": true
+    },
+    {
       "lane": 1,
-      "beat": 383.0
+      "beat": 383.5,
+      "phase": true
     },
     {
       "lane": 0,
-      "beat": 383.5
-    },
-    {
-      "lane": 2,
-      "beat": 383.5
-    },
-    {
-      "lane": 3,
-      "beat": 383.5
+      "beat": 383.75,
+      "phase": true
     },
     {
       "lane": 1,
-      "beat": 383.75
+      "beat": 384
     },
     {
-      "lane": 2,
-      "beat": 383.75
+      "lane": 4,
+      "beat": 384
     },
     {
       "lane": 0,
-      "beat": 384.0
-    },
-    {
-      "lane": 1,
-      "beat": 384.0
-    },
-    {
-      "lane": 3,
       "beat": 384.5
     },
     {
-      "lane": 1,
-      "beat": 384.75
-    },
-    {
       "lane": 2,
       "beat": 384.75
     },
@@ -6713,12 +4812,8 @@
       "beat": 384.75
     },
     {
-      "lane": 2,
-      "beat": 385.0
-    },
-    {
       "lane": 0,
-      "beat": 385.5
+      "beat": 385
     },
     {
       "lane": 1,
@@ -6729,36 +4824,24 @@
       "beat": 385.75
     },
     {
+      "lane": 1,
+      "beat": 386
+    },
+    {
       "lane": 0,
-      "beat": 386.0
-    },
-    {
-      "lane": 2,
-      "beat": 386.0
-    },
-    {
-      "lane": 3,
-      "beat": 386.0
-    },
-    {
-      "lane": 3,
       "beat": 386.5
     },
     {
-      "lane": 0,
-      "beat": 386.75
-    },
-    {
       "lane": 1,
       "beat": 386.75
     },
     {
-      "lane": 2,
-      "beat": 387.0
+      "lane": 3,
+      "beat": 386.75
     },
     {
-      "lane": 1,
-      "beat": 387.5
+      "lane": 3,
+      "beat": 387
     },
     {
       "lane": 2,
@@ -6766,30 +4849,18 @@
     },
     {
       "lane": 3,
-      "beat": 387.5
-    },
-    {
-      "lane": 1,
       "beat": 387.75
     },
     {
       "lane": 2,
-      "beat": 387.75
-    },
-    {
-      "lane": 0,
-      "beat": 388.0
+      "beat": 388
     },
     {
       "lane": 1,
-      "beat": 388.0
-    },
-    {
-      "lane": 0,
       "beat": 388.5
     },
     {
-      "lane": 1,
+      "lane": 0,
       "beat": 388.75
     },
     {
@@ -6797,23 +4868,11 @@
       "beat": 388.75
     },
     {
-      "lane": 3,
-      "beat": 388.75
-    },
-    {
-      "lane": 3,
-      "beat": 389.0
+      "lane": 1,
+      "beat": 389
     },
     {
       "lane": 0,
-      "beat": 389.5
-    },
-    {
-      "lane": 1,
-      "beat": 389.5
-    },
-    {
-      "lane": 2,
       "beat": 389.5
     },
     {
@@ -6822,18 +4881,10 @@
     },
     {
       "lane": 1,
-      "beat": 390.0
+      "beat": 390
     },
     {
       "lane": 2,
-      "beat": 390.0
-    },
-    {
-      "lane": 3,
-      "beat": 390.0
-    },
-    {
-      "lane": 0,
       "beat": 390.5
     },
     {
@@ -6845,39 +4896,23 @@
       "beat": 390.75
     },
     {
-      "lane": 3,
-      "beat": 391.0
-    },
-    {
-      "lane": 2,
-      "beat": 391.5
-    },
-    {
-      "lane": 3,
-      "beat": 391.5
-    },
-    {
       "lane": 1,
-      "beat": 391.75
+      "beat": 391
+    },
+    {
+      "lane": 3,
+      "beat": 391.5
     },
     {
       "lane": 2,
       "beat": 391.75
+    },
+    {
+      "lane": 3,
+      "beat": 392
     },
     {
       "lane": 0,
-      "beat": 392.0
-    },
-    {
-      "lane": 1,
-      "beat": 392.0
-    },
-    {
-      "lane": 2,
-      "beat": 392.0
-    },
-    {
-      "lane": 1,
       "beat": 392.5
     },
     {
@@ -6889,36 +4924,20 @@
       "beat": 392.75
     },
     {
-      "lane": 3,
-      "beat": 392.75
+      "lane": 0,
+      "beat": 393
     },
     {
-      "lane": 0,
-      "beat": 393.0
-    },
-    {
-      "lane": 0,
+      "lane": 2,
       "beat": 393.5
     },
     {
       "lane": 1,
-      "beat": 393.5
-    },
-    {
-      "lane": 3,
-      "beat": 393.5
-    },
-    {
-      "lane": 2,
       "beat": 393.75
     },
     {
       "lane": 2,
-      "beat": 394.0
-    },
-    {
-      "lane": 3,
-      "beat": 394.0
+      "beat": 394
     },
     {
       "lane": 1,
@@ -6929,51 +4948,31 @@
       "beat": 394.75
     },
     {
-      "lane": 1,
+      "lane": 3,
       "beat": 394.75
     },
     {
-      "lane": 0,
-      "beat": 395.0
-    },
-    {
       "lane": 2,
-      "beat": 395.5
-    },
-    {
-      "lane": 3,
-      "beat": 395.5
+      "beat": 395
     },
     {
       "lane": 1,
-      "beat": 395.75
-    },
-    {
-      "lane": 2,
-      "beat": 395.75
+      "beat": 395.5
     },
     {
       "lane": 0,
-      "beat": 396.0
+      "beat": 395.75
     },
     {
       "lane": 1,
-      "beat": 396.0
-    },
-    {
-      "lane": 3,
-      "beat": 396.0
+      "beat": 396
     },
     {
       "lane": 2,
       "beat": 396.5
     },
     {
-      "lane": 1,
-      "beat": 396.75
-    },
-    {
-      "lane": 2,
+      "lane": 0,
       "beat": 396.75
     },
     {
@@ -6981,12 +4980,8 @@
       "beat": 396.75
     },
     {
-      "lane": 1,
-      "beat": 397.0
-    },
-    {
-      "lane": 0,
-      "beat": 397.5
+      "lane": 2,
+      "beat": 397
     },
     {
       "lane": 1,
@@ -6997,39 +4992,27 @@
       "beat": 397.75
     },
     {
-      "lane": 2,
-      "beat": 398.0
-    },
-    {
       "lane": 3,
-      "beat": 398.0
+      "beat": 398
     },
     {
-      "lane": 2,
+      "lane": 0,
       "beat": 398.5
     },
     {
-      "lane": 0,
-      "beat": 398.75
-    },
-    {
-      "lane": 1,
-      "beat": 398.75
-    },
-    {
-      "lane": 1,
-      "beat": 399.0
-    },
-    {
-      "lane": 0,
-      "beat": 399.5
-    },
-    {
       "lane": 2,
-      "beat": 399.5
+      "beat": 398.75
     },
     {
       "lane": 3,
+      "beat": 398.75
+    },
+    {
+      "lane": 3,
+      "beat": 399
+    },
+    {
+      "lane": 2,
       "beat": 399.5
     },
     {
@@ -7037,150 +5020,120 @@
       "beat": 399.75
     },
     {
-      "lane": 2,
-      "beat": 399.75
+      "lane": 0,
+      "beat": 400
     },
     {
-      "lane": 0,
-      "beat": 400.0,
-      "len": 3.0
+      "lane": 5,
+      "beat": 400
+    },
+    {
+      "lane": 3,
+      "beat": 400.75
+    },
+    {
+      "lane": 2,
+      "beat": 401
     },
     {
       "lane": 1,
-      "beat": 400.75
-    },
-    {
-      "lane": 3,
-      "beat": 400.75
-    },
-    {
-      "lane": 3,
-      "beat": 401.0
+      "beat": 401.5
     },
     {
       "lane": 2,
       "beat": 401.75
     },
     {
-      "lane": 2,
-      "beat": 402.0
+      "lane": 0,
+      "beat": 402
     },
     {
       "lane": 3,
-      "beat": 402.0
+      "beat": 402
     },
     {
-      "lane": 1,
+      "lane": 2,
       "beat": 402.75
     },
     {
-      "lane": 1,
-      "beat": 403.0
+      "lane": 0,
+      "beat": 403
     },
     {
-      "lane": 3,
+      "lane": 1,
       "beat": 403.5
     },
     {
-      "lane": 1,
+      "lane": 0,
       "beat": 403.75
+    },
+    {
+      "lane": 1,
+      "beat": 404
     },
     {
       "lane": 2,
-      "beat": 403.75
-    },
-    {
-      "lane": 0,
-      "beat": 404.0
-    },
-    {
-      "lane": 1,
-      "beat": 404.0
-    },
-    {
-      "lane": 1,
-      "beat": 404.75
-    },
-    {
-      "lane": 3,
       "beat": 404.75
     },
     {
       "lane": 0,
-      "beat": 405.0
+      "beat": 405
     },
     {
-      "lane": 0,
+      "lane": 1,
       "beat": 405.5
     },
     {
-      "lane": 2,
+      "lane": 0,
       "beat": 405.75
     },
     {
+      "lane": 2,
+      "beat": 406
+    },
+    {
       "lane": 3,
-      "beat": 406.0
-    },
-    {
-      "lane": 0,
-      "beat": 406.75
-    },
-    {
-      "lane": 1,
       "beat": 406.75
     },
     {
       "lane": 2,
-      "beat": 407.0
+      "beat": 407
     },
     {
-      "lane": 3,
+      "lane": 1,
       "beat": 407.5
     },
     {
+      "lane": 2,
+      "beat": 407.75
+    },
+    {
       "lane": 1,
-      "beat": 407.75
-    },
-    {
-      "lane": 2,
-      "beat": 407.75
-    },
-    {
-      "lane": 0,
-      "beat": 408.0
-    },
-    {
-      "lane": 2,
-      "beat": 408.0
+      "beat": 408
     },
     {
       "lane": 3,
-      "beat": 408.0,
-      "len": 3.0
+      "beat": 408
     },
     {
-      "lane": 1,
+      "lane": 0,
       "beat": 408.75
     },
     {
-      "lane": 1,
-      "beat": 409.0
+      "lane": 2,
+      "beat": 409
     },
     {
-      "lane": 0,
+      "lane": 1,
       "beat": 409.5
     },
     {
-      "lane": 2,
+      "lane": 0,
       "beat": 409.75
     },
     {
-      "lane": 0,
-      "beat": 410.0
-    },
-    {
-      "lane": 0,
-      "beat": 410.75
+      "lane": 3,
+      "beat": 410
     },
     {
       "lane": 1,
@@ -7188,160 +5141,131 @@
     },
     {
       "lane": 3,
+      "beat": 411
+    },
+    {
+      "lane": 1,
       "beat": 411.5
     },
     {
-      "lane": 1,
+      "lane": 0,
       "beat": 411.75
     },
     {
-      "lane": 2,
-      "beat": 411.75
-    },
-    {
-      "lane": 0,
-      "beat": 412.0
-    },
-    {
       "lane": 3,
-      "beat": 412.0
+      "beat": 412
+    },
+    {
+      "lane": 2,
+      "beat": 412.75
     },
     {
       "lane": 1,
-      "beat": 412.75
-    },
-    {
-      "lane": 3,
-      "beat": 412.75
+      "beat": 413
     },
     {
       "lane": 2,
-      "beat": 413.0
-    },
-    {
-      "lane": 0,
       "beat": 413.5
     },
     {
-      "lane": 2,
+      "lane": 0,
       "beat": 413.75
     },
     {
-      "lane": 1,
-      "beat": 414.0
+      "lane": 2,
+      "beat": 414
     },
     {
       "lane": 3,
-      "beat": 414.0
+      "beat": 414
     },
     {
-      "lane": 0,
+      "lane": 2,
       "beat": 414.75
-    },
-    {
-      "lane": 1,
-      "beat": 414.75
-    },
-    {
-      "lane": 0,
-      "beat": 415.0
     },
     {
       "lane": 3,
+      "beat": 415
+    },
+    {
+      "lane": 2,
       "beat": 415.5
     },
     {
-      "lane": 1,
+      "lane": 3,
       "beat": 415.75
     },
     {
       "lane": 2,
-      "beat": 415.75
+      "beat": 416
     },
     {
-      "lane": 0,
-      "beat": 416.0,
-      "len": 3.0
+      "lane": 4,
+      "beat": 416
     },
     {
       "lane": 1,
       "beat": 416.75
     },
     {
-      "lane": 3,
-      "beat": 416.75
+      "lane": 2,
+      "beat": 417
     },
     {
       "lane": 3,
-      "beat": 417.0
+      "beat": 417.5
     },
     {
       "lane": 2,
       "beat": 417.75
     },
     {
-      "lane": 2,
-      "beat": 418.0
-    },
-    {
-      "lane": 3,
-      "beat": 418.0
+      "lane": 0,
+      "beat": 418
     },
     {
       "lane": 1,
       "beat": 418.75
     },
     {
-      "lane": 1,
-      "beat": 419.0
+      "lane": 3,
+      "beat": 419
     },
     {
-      "lane": 3,
+      "lane": 1,
       "beat": 419.5
     },
     {
-      "lane": 1,
+      "lane": 0,
       "beat": 419.75
+    },
+    {
+      "lane": 1,
+      "beat": 420
     },
     {
       "lane": 2,
-      "beat": 419.75
-    },
-    {
-      "lane": 0,
-      "beat": 420.0
-    },
-    {
-      "lane": 1,
-      "beat": 420.0
-    },
-    {
-      "lane": 1,
-      "beat": 420.75
+      "beat": 420
     },
     {
       "lane": 3,
       "beat": 420.75
     },
     {
-      "lane": 0,
-      "beat": 421.0
+      "lane": 1,
+      "beat": 421
     },
     {
-      "lane": 0,
+      "lane": 3,
       "beat": 421.5
     },
     {
-      "lane": 2,
+      "lane": 1,
       "beat": 421.75
     },
     {
-      "lane": 3,
-      "beat": 422.0
-    },
-    {
       "lane": 0,
-      "beat": 422.75
+      "beat": 422
     },
     {
       "lane": 1,
@@ -7349,132 +5273,311 @@
     },
     {
       "lane": 2,
-      "beat": 423.0
+      "beat": 423
     },
     {
-      "lane": 3,
+      "lane": 1,
       "beat": 423.5
     },
     {
-      "lane": 1,
-      "beat": 423.75
-    },
-    {
-      "lane": 2,
+      "lane": 3,
       "beat": 423.75
     },
     {
       "lane": 0,
-      "beat": 424.0
+      "beat": 424
     },
     {
       "lane": 2,
-      "beat": 424.0
-    },
-    {
-      "lane": 3,
-      "beat": 424.0,
-      "len": 3.0
-    },
-    {
-      "lane": 1,
       "beat": 424.75
     },
     {
       "lane": 1,
-      "beat": 425.0
+      "beat": 425
     },
     {
-      "lane": 0,
+      "lane": 2,
       "beat": 425.5
     },
     {
-      "lane": 2,
+      "lane": 3,
       "beat": 425.75
     },
     {
-      "lane": 0,
-      "beat": 426.0
-    },
-    {
-      "lane": 0,
-      "beat": 426.75
-    },
-    {
       "lane": 1,
+      "beat": 426
+    },
+    {
+      "lane": 2,
+      "beat": 426
+    },
+    {
+      "lane": 0,
       "beat": 426.75
     },
     {
       "lane": 3,
+      "beat": 427
+    },
+    {
+      "lane": 1,
       "beat": 427.5
     },
     {
-      "lane": 1,
-      "beat": 427.75
-    },
-    {
       "lane": 2,
       "beat": 427.75
     },
     {
-      "lane": 0,
-      "beat": 428.0
-    },
-    {
-      "lane": 3,
-      "beat": 428.0
-    },
-    {
       "lane": 1,
-      "beat": 428.75
-    },
-    {
-      "lane": 3,
-      "beat": 428.75
+      "beat": 428
     },
     {
       "lane": 2,
-      "beat": 429.0
+      "beat": 428.75
+    },
+    {
+      "lane": 3,
+      "beat": 429
     },
     {
       "lane": 0,
       "beat": 429.5
     },
     {
-      "lane": 2,
+      "lane": 1,
       "beat": 429.75
     },
     {
-      "lane": 1,
-      "beat": 430.0
-    },
-    {
       "lane": 3,
-      "beat": 430.0
-    },
-    {
-      "lane": 0,
-      "beat": 430.75
-    },
-    {
-      "lane": 1,
-      "beat": 430.75
-    },
-    {
-      "lane": 0,
-      "beat": 431.0
-    },
-    {
-      "lane": 3,
-      "beat": 431.5
-    },
-    {
-      "lane": 1,
-      "beat": 431.75
+      "beat": 430
     },
     {
       "lane": 2,
+      "beat": 430.75
+    },
+    {
+      "lane": 1,
+      "beat": 431
+    },
+    {
+      "lane": 0,
+      "beat": 431.5
+    },
+    {
+      "lane": 3,
       "beat": 431.75
+    }
+  ],
+  "track": [
+    {
+      "beat": 0,
+      "type": "pitch",
+      "value": 0.35,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 0,
+      "type": "zoom",
+      "value": 0.96,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 32,
+      "type": "curve",
+      "value": 0.35,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 32,
+      "type": "pitch",
+      "value": 0,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 32,
+      "type": "zoom",
+      "value": 1,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 48,
+      "type": "curve",
+      "value": -0.35,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 64,
+      "type": "curve",
+      "value": 0.35,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 80,
+      "type": "curve",
+      "value": -0.35,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 96,
+      "type": "curve",
+      "value": 0.35,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 112,
+      "type": "curve",
+      "value": -0.35,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 128,
+      "type": "curve",
+      "value": 0.35,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 144,
+      "type": "curve",
+      "value": -0.35,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 160,
+      "type": "curve",
+      "value": 0.35,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 176,
+      "type": "curve",
+      "value": -0.35,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 192,
+      "type": "curve",
+      "value": 0.35,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 208,
+      "type": "curve",
+      "value": -0.35,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 224,
+      "type": "curve",
+      "value": 0.35,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 240,
+      "type": "curve",
+      "value": -0.35,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 256,
+      "type": "curve",
+      "value": 0.35,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 272,
+      "type": "curve",
+      "value": -0.35,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 288,
+      "type": "curve",
+      "value": 0.35,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 304,
+      "type": "curve",
+      "value": -0.35,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 320,
+      "type": "curve",
+      "value": 0.35,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 336,
+      "type": "curve",
+      "value": -0.35,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 352,
+      "type": "curve",
+      "value": 0.35,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 368,
+      "type": "curve",
+      "value": -0.35,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 384,
+      "type": "curve",
+      "value": 0.35,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 400,
+      "type": "curve",
+      "value": -0.35,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 416,
+      "type": "curve",
+      "value": 0.35,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 428,
+      "type": "curve",
+      "value": 0,
+      "dur": 4,
+      "ease": "inout"
     }
   ],
   "events": [
@@ -7494,6 +5597,5 @@
       "type": "flash",
       "power": 0.4
     }
-  ],
-  "flux": []
+  ]
 }

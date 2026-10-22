@@ -1,344 +1,624 @@
 {
-  "format": 2,
+  "format": 3,
   "meta": {
     "title": "첫 박자",
     "artist": "RED REMAKE",
-    "charter": "auto",
+    "charter": "RED REMAKE",
     "difficulty": "TUTORIAL",
     "level": 1,
     "color": "#8fd9ff"
   },
   "audio": {
     "file": "audio.wav",
-    "offset_ms": 0.0,
+    "offset_ms": 0,
     "preview_ms": 24000
   },
   "timing": {
     "bpm": [
       {
-        "beat": 0.0,
-        "bpm": 100.0
+        "beat": 0,
+        "bpm": 100
       }
     ]
   },
   "scroll": [
     {
-      "beat": 0.0,
-      "speed": 0.85
+      "beat": 0,
+      "speed": 1
     }
   ],
   "notes": [
     {
       "lane": 0,
-      "beat": 2.0,
-      "spin": true
+      "beat": 12
     },
     {
       "lane": 0,
-      "beat": 8.0
-    },
-    {
-      "lane": 0,
-      "beat": 10.0
-    },
-    {
-      "lane": 0,
-      "beat": 12.0
-    },
-    {
-      "lane": 0,
-      "beat": 14.0
+      "beat": 13
     },
     {
       "lane": 1,
-      "beat": 16.0
+      "beat": 14
     },
     {
       "lane": 1,
-      "beat": 18.0
-    },
-    {
-      "lane": 1,
-      "beat": 20.0
-    },
-    {
-      "lane": 1,
-      "beat": 22.0
+      "beat": 15
     },
     {
       "lane": 2,
-      "beat": 24.0
+      "beat": 16
     },
     {
       "lane": 2,
-      "beat": 26.0
-    },
-    {
-      "lane": 2,
-      "beat": 28.0
-    },
-    {
-      "lane": 2,
-      "beat": 30.0
+      "beat": 17
     },
     {
       "lane": 3,
-      "beat": 32.0
+      "beat": 18
     },
     {
       "lane": 3,
-      "beat": 34.0
-    },
-    {
-      "lane": 3,
-      "beat": 36.0
-    },
-    {
-      "lane": 3,
-      "beat": 38.0
+      "beat": 19
     },
     {
       "lane": 0,
-      "beat": 40.0
+      "beat": 22
     },
     {
       "lane": 1,
-      "beat": 41.0
+      "beat": 23
     },
     {
-      "lane": 0,
-      "beat": 42.0
+      "lane": 2,
+      "beat": 24
+    },
+    {
+      "lane": 3,
+      "beat": 25
+    },
+    {
+      "lane": 3,
+      "beat": 26
+    },
+    {
+      "lane": 2,
+      "beat": 27
     },
     {
       "lane": 1,
-      "beat": 43.0
+      "beat": 28
     },
     {
       "lane": 0,
-      "beat": 44.0
+      "beat": 29
+    },
+    {
+      "lane": 0,
+      "beat": 34
+    },
+    {
+      "lane": 3,
+      "beat": 34
     },
     {
       "lane": 1,
-      "beat": 45.0
+      "beat": 36
+    },
+    {
+      "lane": 2,
+      "beat": 36
     },
     {
       "lane": 0,
-      "beat": 46.0
+      "beat": 38
+    },
+    {
+      "lane": 2,
+      "beat": 38
     },
     {
       "lane": 1,
-      "beat": 47.0
-    },
-    {
-      "lane": 2,
-      "beat": 48.0
+      "beat": 40
     },
     {
       "lane": 3,
-      "beat": 49.0
-    },
-    {
-      "lane": 2,
-      "beat": 50.0
-    },
-    {
-      "lane": 3,
-      "beat": 51.0
-    },
-    {
-      "lane": 2,
-      "beat": 52.0
-    },
-    {
-      "lane": 3,
-      "beat": 53.0
-    },
-    {
-      "lane": 2,
-      "beat": 54.0
-    },
-    {
-      "lane": 3,
-      "beat": 55.0
-    },
-    {
-      "lane": 0,
-      "beat": 56.0
+      "beat": 40
     },
     {
       "lane": 1,
-      "beat": 57.0
+      "beat": 46,
+      "len": 2
     },
     {
       "lane": 2,
-      "beat": 58.0
-    },
-    {
-      "lane": 3,
-      "beat": 59.0
+      "beat": 49,
+      "len": 2
     },
     {
       "lane": 0,
-      "beat": 60.0
+      "beat": 52,
+      "len": 3
+    },
+    {
+      "lane": 3,
+      "beat": 52,
+      "len": 3
+    },
+    {
+      "lane": 4,
+      "beat": 60
+    },
+    {
+      "lane": 5,
+      "beat": 62
+    },
+    {
+      "lane": 4,
+      "beat": 64
+    },
+    {
+      "lane": 5,
+      "beat": 65
+    },
+    {
+      "lane": 4,
+      "beat": 68,
+      "len": 3
     },
     {
       "lane": 1,
-      "beat": 61.0
+      "beat": 68
     },
     {
       "lane": 2,
-      "beat": 62.0
-    },
-    {
-      "lane": 3,
-      "beat": 63.0
-    },
-    {
-      "lane": 0,
-      "beat": 64.0,
-      "len": 1.8
-    },
-    {
-      "lane": 3,
-      "beat": 66.0,
-      "len": 1.8
-    },
-    {
-      "lane": 0,
-      "beat": 72.0
-    },
-    {
-      "lane": 3,
-      "beat": 72.0
-    },
-    {
-      "lane": 0,
-      "beat": 74.0
-    },
-    {
-      "lane": 3,
-      "beat": 74.0
+      "beat": 69
     },
     {
       "lane": 1,
-      "beat": 76.0
+      "beat": 70
+    },
+    {
+      "lane": 5,
+      "beat": 72,
+      "len": 3
     },
     {
       "lane": 2,
-      "beat": 76.0
+      "beat": 72
     },
     {
       "lane": 1,
-      "beat": 78.0
+      "beat": 73
     },
     {
       "lane": 2,
-      "beat": 78.0
+      "beat": 74
+    },
+    {
+      "lane": 1,
+      "beat": 80,
+      "surge": true
+    },
+    {
+      "lane": 2,
+      "beat": 81,
+      "surge": true
     },
     {
       "lane": 0,
-      "beat": 80.0
-    },
-    {
-      "lane": 1,
-      "beat": 80.5
-    },
-    {
-      "lane": 2,
-      "beat": 81.0
+      "beat": 82,
+      "surge": true
     },
     {
       "lane": 3,
-      "beat": 81.5
+      "beat": 83,
+      "surge": true
     },
     {
       "lane": 1,
-      "beat": 82.0
+      "beat": 84,
+      "surge": true
     },
     {
       "lane": 2,
-      "beat": 82.5
+      "beat": 85,
+      "surge": true
     },
     {
       "lane": 0,
-      "beat": 83.0
+      "beat": 90,
+      "shift": 3
     },
     {
       "lane": 3,
-      "beat": 83.5
-    },
-    {
-      "lane": 0,
-      "beat": 88.0
+      "beat": 92,
+      "shift": 0
     },
     {
       "lane": 1,
-      "beat": 88.0
+      "beat": 94,
+      "shift": 2
     },
     {
       "lane": 2,
-      "beat": 88.0
+      "beat": 95,
+      "shift": 1
+    },
+    {
+      "lane": 0,
+      "beat": 100,
+      "stealth": true
+    },
+    {
+      "lane": 1,
+      "beat": 101,
+      "stealth": true
+    },
+    {
+      "lane": 2,
+      "beat": 102,
+      "stealth": true
     },
     {
       "lane": 3,
-      "beat": 88.0
+      "beat": 103,
+      "stealth": true
+    },
+    {
+      "lane": 2,
+      "beat": 104,
+      "stealth": true
+    },
+    {
+      "lane": 1,
+      "beat": 105,
+      "stealth": true
+    },
+    {
+      "lane": 1,
+      "beat": 110
+    },
+    {
+      "lane": 2,
+      "beat": 110,
+      "mine": true
+    },
+    {
+      "lane": 2,
+      "beat": 111
+    },
+    {
+      "lane": 1,
+      "beat": 111,
+      "mine": true
+    },
+    {
+      "lane": 0,
+      "beat": 112
+    },
+    {
+      "lane": 3,
+      "beat": 112,
+      "mine": true
+    },
+    {
+      "lane": 3,
+      "beat": 113
+    },
+    {
+      "lane": 0,
+      "beat": 113,
+      "mine": true
+    },
+    {
+      "lane": 1,
+      "beat": 118,
+      "burst": 3
+    },
+    {
+      "lane": 2,
+      "beat": 121,
+      "burst": 4
+    },
+    {
+      "lane": 3,
+      "beat": 128,
+      "phase": true
+    },
+    {
+      "lane": 2,
+      "beat": 129,
+      "phase": true
+    },
+    {
+      "lane": 1,
+      "beat": 130,
+      "phase": true
+    },
+    {
+      "lane": 0,
+      "beat": 131,
+      "phase": true
+    },
+    {
+      "lane": 1,
+      "beat": 132,
+      "phase": true
+    },
+    {
+      "lane": 2,
+      "beat": 133,
+      "phase": true
+    },
+    {
+      "lane": 0,
+      "beat": 140
+    },
+    {
+      "lane": 1,
+      "beat": 141
+    },
+    {
+      "lane": 2,
+      "beat": 142
+    },
+    {
+      "lane": 3,
+      "beat": 143
+    },
+    {
+      "lane": 0,
+      "beat": 144
+    },
+    {
+      "lane": 1,
+      "beat": 145
+    },
+    {
+      "lane": 2,
+      "beat": 146
+    },
+    {
+      "lane": 3,
+      "beat": 147
+    },
+    {
+      "lane": 0,
+      "beat": 148
+    },
+    {
+      "lane": 1,
+      "beat": 149
+    },
+    {
+      "lane": 2,
+      "beat": 150
+    },
+    {
+      "lane": 3,
+      "beat": 151
+    },
+    {
+      "lane": 0,
+      "beat": 152
+    },
+    {
+      "lane": 1,
+      "beat": 153
+    },
+    {
+      "lane": 2,
+      "beat": 154
+    },
+    {
+      "lane": 3,
+      "beat": 155
+    },
+    {
+      "lane": 4,
+      "beat": 148
+    },
+    {
+      "lane": 5,
+      "beat": 150
+    },
+    {
+      "lane": 4,
+      "beat": 152
+    },
+    {
+      "lane": 5,
+      "beat": 154
+    },
+    {
+      "lane": 0,
+      "beat": 164
+    },
+    {
+      "lane": 3,
+      "beat": 164
+    },
+    {
+      "lane": 4,
+      "beat": 166,
+      "len": 2
+    },
+    {
+      "lane": 5,
+      "beat": 166,
+      "len": 2
+    },
+    {
+      "lane": 1,
+      "beat": 168
+    },
+    {
+      "lane": 2,
+      "beat": 168
+    }
+  ],
+  "track": [
+    {
+      "beat": 136,
+      "type": "curve",
+      "value": 0.6,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 144,
+      "type": "curve",
+      "value": -0.6,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 148,
+      "type": "split",
+      "value": 0.7,
+      "dur": 2,
+      "ease": "inout"
+    },
+    {
+      "beat": 152,
+      "type": "roll",
+      "value": 6,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 156,
+      "type": "curve",
+      "value": 0,
+      "dur": 4,
+      "ease": "inout"
+    },
+    {
+      "beat": 156,
+      "type": "split",
+      "value": 0,
+      "dur": 2,
+      "ease": "inout"
+    },
+    {
+      "beat": 156,
+      "type": "roll",
+      "value": 0,
+      "dur": 4,
+      "ease": "inout"
     }
   ],
   "events": [
     {
-      "beat": 6.0,
+      "beat": 0,
+      "type": "text",
+      "text": "회로 하이웨이에 오신 걸 환영합니다!\n노트가 아래 판정 게이트에 닿을 때 키를 누르세요",
+      "dur": 8
+    },
+    {
+      "beat": 8,
+      "type": "text",
+      "text": "메인 레인 4개: D  F  J  K",
+      "dur": 6
+    },
+    {
+      "beat": 20,
+      "type": "text",
+      "text": "왼쪽부터 오른쪽으로 번갈아",
+      "dur": 4
+    },
+    {
+      "beat": 30,
+      "type": "text",
+      "text": "동시치기: 두 레인을 같이 누르세요",
+      "dur": 6
+    },
+    {
+      "beat": 42,
+      "type": "text",
+      "text": "홀드(긴 노트): 끝날 때까지 누르고 있기",
+      "dur": 6
+    },
+    {
+      "beat": 56,
+      "type": "text",
+      "text": "사이드 레인: 왼쪽 C(또는 왼쪽 Shift)\n오른쪽 M(또는 오른쪽 Shift)",
+      "dur": 7
+    },
+    {
+      "beat": 66,
+      "type": "text",
+      "text": "사이드 홀드 + 메인 노트 같이",
+      "dur": 5
+    },
+    {
+      "beat": 76,
+      "type": "text",
+      "text": "기믹 ① 서지 — 멀리선 느리다가\n판정선 앞에서 갑자기 빨라집니다",
+      "dur": 6
+    },
+    {
+      "beat": 86,
+      "type": "text",
+      "text": "기믹 ② 시프트 — 다른 레인에서 출발해\n진짜 레인으로 미끄러져 들어옵니다",
+      "dur": 6
+    },
+    {
+      "beat": 96,
+      "type": "text",
+      "text": "기믹 ③ 은신 — 판정선 가까이 와서야 보입니다",
+      "dur": 6
+    },
+    {
+      "beat": 106,
+      "type": "text",
+      "text": "지뢰(빨간 X 칩) — 누르면 안 됩니다!\n그냥 지나가게 두세요",
+      "dur": 7
+    },
+    {
+      "beat": 114,
+      "type": "text",
+      "text": "버스트 — 겹쳐진 칩 수만큼 빠르게 연타!",
+      "dur": 6
+    },
+    {
+      "beat": 124,
+      "type": "text",
+      "text": "페이즈 — 박자에 맞춰 깜빡입니다\n보일 때 위치를 기억하세요",
+      "dur": 6
+    },
+    {
+      "beat": 134,
+      "type": "text",
+      "text": "트랙이 휘고, 기울고, 갈라져도\n레인 순서는 그대로입니다",
+      "dur": 8
+    },
+    {
+      "beat": 160,
+      "type": "text",
+      "text": "모든 기본기를 익혔습니다!\n이제 곡 선택에서 마음껏 플레이하세요",
+      "dur": 10
+    },
+    {
+      "beat": 12,
       "type": "flash",
       "power": 0.3
     },
     {
-      "beat": 64.0,
+      "beat": 60,
       "type": "flash",
-      "power": 0.5,
-      "color": [
-        0.6,
-        1.0,
-        0.9
-      ]
+      "power": 0.4
     },
     {
-      "beat": 72.0,
+      "beat": 136,
       "type": "flash",
-      "power": 0.5,
-      "color": [
-        1.0,
-        0.9,
-        0.5
-      ]
+      "power": 0.5
     },
     {
-      "beat": 88.0,
-      "type": "flash",
-      "power": 0.8,
-      "color": [
-        1.0,
-        1.0,
-        1.0
-      ]
-    },
-    {
-      "beat": 88.0,
+      "beat": 168,
       "type": "shake",
       "power": 0.5,
       "duration": 0.3
-    }
-  ],
-  "flux": [
-    {
-      "points": [
-        {
-          "beat": 92.0,
-          "x": 0.0
-        },
-        {
-          "beat": 96.0,
-          "x": 1.0
-        }
-      ]
     }
   ]
 }
