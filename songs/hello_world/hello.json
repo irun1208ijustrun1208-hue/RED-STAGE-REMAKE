@@ -979,14 +979,14 @@
       "ease": "inout"
     },
     {
-      "beat": 252,
+      "beat": 248,
       "type": "pitch",
       "value": 0,
       "dur": 4,
       "ease": "inout"
     },
     {
-      "beat": 252,
+      "beat": 248,
       "type": "zoom",
       "value": 1,
       "dur": 4,

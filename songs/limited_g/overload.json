@@ -154,8 +154,7 @@
     },
     {
       "lane": 0,
-      "beat": 32.75,
-      "shift": 2
+      "beat": 32.75
     },
     {
       "lane": 1,
@@ -163,8 +162,7 @@
     },
     {
       "lane": 3,
-      "beat": 33.5,
-      "shift": 1
+      "beat": 33.5
     },
     {
       "lane": 2,
@@ -204,8 +202,7 @@
     },
     {
       "lane": 1,
-      "beat": 38.75,
-      "shift": 2
+      "beat": 38.75
     },
     {
       "lane": 0,
@@ -233,8 +230,7 @@
     },
     {
       "lane": 2,
-      "beat": 42,
-      "shift": 1
+      "beat": 42
     },
     {
       "lane": 0,
@@ -258,8 +254,7 @@
     },
     {
       "lane": 1,
-      "beat": 45,
-      "shift": 3
+      "beat": 45
     },
     {
       "lane": 0,
@@ -279,8 +274,7 @@
     },
     {
       "lane": 2,
-      "beat": 47,
-      "shift": 3
+      "beat": 47
     },
     {
       "lane": 3,
@@ -1260,8 +1254,7 @@
     },
     {
       "lane": 3,
-      "beat": 161.5,
-      "surge": true
+      "beat": 161.5
     },
     {
       "lane": 0,
@@ -1294,13 +1287,11 @@
     },
     {
       "lane": 0,
-      "beat": 164.75,
-      "surge": true
+      "beat": 164.75
     },
     {
       "lane": 2,
-      "beat": 165,
-      "surge": true
+      "beat": 165
     },
     {
       "lane": 1,
@@ -1320,8 +1311,7 @@
     },
     {
       "lane": 3,
-      "beat": 167,
-      "surge": true
+      "beat": 167
     },
     {
       "lane": 1,
@@ -1337,8 +1327,7 @@
     },
     {
       "lane": 2,
-      "beat": 168.5,
-      "surge": true
+      "beat": 168.5
     },
     {
       "lane": 0,
@@ -1346,8 +1335,7 @@
     },
     {
       "lane": 3,
-      "beat": 169,
-      "surge": true
+      "beat": 169
     },
     {
       "lane": 1,
@@ -1387,18 +1375,15 @@
     },
     {
       "lane": 2,
-      "beat": 173,
-      "surge": true
+      "beat": 173
     },
     {
       "lane": 3,
-      "beat": 173.5,
-      "surge": true
+      "beat": 173.5
     },
     {
       "lane": 1,
-      "beat": 174,
-      "surge": true
+      "beat": 174
     },
     {
       "lane": 0,
@@ -3258,8 +3243,7 @@
     },
     {
       "lane": 0,
-      "beat": 353,
-      "shift": 2
+      "beat": 353
     },
     {
       "lane": 1,
@@ -3267,18 +3251,15 @@
     },
     {
       "lane": 2,
-      "beat": 354,
-      "shift": 3
+      "beat": 354
     },
     {
       "lane": 1,
-      "beat": 354.5,
-      "shift": 3
+      "beat": 354.5
     },
     {
       "lane": 2,
-      "beat": 354.75,
-      "shift": 3
+      "beat": 354.75
     },
     {
       "lane": 1,
@@ -3314,8 +3295,7 @@
     },
     {
       "lane": 3,
-      "beat": 358.5,
-      "shift": 1
+      "beat": 358.5
     },
     {
       "lane": 2,
@@ -3356,8 +3336,7 @@
     },
     {
       "lane": 3,
-      "beat": 362,
-      "shift": 1
+      "beat": 362
     },
     {
       "lane": 2,
@@ -3381,8 +3360,7 @@
     },
     {
       "lane": 3,
-      "beat": 364.5,
-      "shift": 1
+      "beat": 364.5
     },
     {
       "lane": 2,
@@ -3614,8 +3592,7 @@
     },
     {
       "lane": 1,
-      "beat": 385.5,
-      "surge": true
+      "beat": 385.5
     },
     {
       "lane": 0,
@@ -3631,8 +3608,7 @@
     },
     {
       "lane": 1,
-      "beat": 387,
-      "surge": true
+      "beat": 387
     },
     {
       "lane": 0,
@@ -3661,13 +3637,11 @@
     },
     {
       "lane": 0,
-      "beat": 390,
-      "surge": true
+      "beat": 390
     },
     {
       "lane": 2,
-      "beat": 390.5,
-      "surge": true
+      "beat": 390.5
     },
     {
       "lane": 0,
@@ -3687,8 +3661,7 @@
     },
     {
       "lane": 3,
-      "beat": 392,
-      "surge": true
+      "beat": 392
     },
     {
       "lane": 0,
@@ -3728,8 +3701,7 @@
     },
     {
       "lane": 0,
-      "beat": 396,
-      "surge": true
+      "beat": 396
     },
     {
       "lane": 1,
@@ -3741,13 +3713,11 @@
     },
     {
       "lane": 2,
-      "beat": 397,
-      "surge": true
+      "beat": 397
     },
     {
       "lane": 3,
-      "beat": 397.5,
-      "surge": true
+      "beat": 397.5
     },
     {
       "lane": 2,
@@ -3755,8 +3725,7 @@
     },
     {
       "lane": 3,
-      "beat": 398.5,
-      "surge": true
+      "beat": 398.5
     },
     {
       "lane": 0,

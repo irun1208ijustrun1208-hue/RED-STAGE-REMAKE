@@ -3187,14 +3187,14 @@
       "ease": "inout"
     },
     {
-      "beat": 552,
+      "beat": 548,
       "type": "pitch",
       "value": 0,
       "dur": 4,
       "ease": "inout"
     },
     {
-      "beat": 552,
+      "beat": 548,
       "type": "zoom",
       "value": 1,
       "dur": 4,

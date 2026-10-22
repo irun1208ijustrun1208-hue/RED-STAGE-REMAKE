@@ -3829,8 +3829,7 @@
     },
     {
       "lane": 1,
-      "beat": 548.5,
-      "surge": true
+      "beat": 548.5
     },
     {
       "lane": 0,
@@ -3878,8 +3877,7 @@
     },
     {
       "lane": 1,
-      "beat": 552.5,
-      "surge": true
+      "beat": 552.5
     },
     {
       "lane": 0,
@@ -3891,8 +3889,7 @@
     },
     {
       "lane": 2,
-      "beat": 553.5,
-      "surge": true
+      "beat": 553.5
     },
     {
       "lane": 0,
@@ -3904,8 +3901,7 @@
     },
     {
       "lane": 2,
-      "beat": 554.5,
-      "surge": true
+      "beat": 554.5
     },
     {
       "lane": 0,
@@ -3929,8 +3925,7 @@
     },
     {
       "lane": 2,
-      "beat": 556.5,
-      "surge": true
+      "beat": 556.5
     },
     {
       "lane": 0,
@@ -4202,8 +4197,7 @@
     },
     {
       "lane": 1,
-      "beat": 578.5,
-      "shift": 0
+      "beat": 578.5
     },
     {
       "lane": 0,
@@ -4263,8 +4257,7 @@
     },
     {
       "lane": 3,
-      "beat": 583.5,
-      "shift": 2
+      "beat": 583.5
     },
     {
       "lane": 0,
@@ -4336,8 +4329,7 @@
     },
     {
       "lane": 1,
-      "beat": 589.5,
-      "shift": 3
+      "beat": 589.5
     },
     {
       "lane": 2,
@@ -4349,8 +4341,7 @@
     },
     {
       "lane": 0,
-      "beat": 590.5,
-      "shift": 1
+      "beat": 590.5
     },
     {
       "lane": 1,
@@ -4626,8 +4617,7 @@
     },
     {
       "lane": 1,
-      "beat": 611.5,
-      "surge": true
+      "beat": 611.5
     },
     {
       "lane": 0,
@@ -4639,8 +4629,7 @@
     },
     {
       "lane": 3,
-      "beat": 612.5,
-      "surge": true
+      "beat": 612.5
     },
     {
       "lane": 0,
@@ -4664,8 +4653,7 @@
     },
     {
       "lane": 3,
-      "beat": 614.5,
-      "surge": true
+      "beat": 614.5
     },
     {
       "lane": 0,
@@ -4689,8 +4677,7 @@
     },
     {
       "lane": 1,
-      "beat": 616.5,
-      "surge": true
+      "beat": 616.5
     },
     {
       "lane": 2,
@@ -4751,8 +4738,7 @@
     },
     {
       "lane": 2,
-      "beat": 621.5,
-      "surge": true
+      "beat": 621.5
     },
     {
       "lane": 0,
@@ -4776,8 +4762,7 @@
     },
     {
       "lane": 2,
-      "beat": 623.5,
-      "surge": true
+      "beat": 623.5
     },
     {
       "lane": 0,
@@ -5433,14 +5418,14 @@
       "ease": "inout"
     },
     {
-      "beat": 672,
+      "beat": 664,
       "type": "roll",
       "value": 0,
       "dur": 2,
       "ease": "inout"
     },
     {
-      "beat": 672,
+      "beat": 664,
       "type": "wobble",
       "value": 0,
       "dur": 2,

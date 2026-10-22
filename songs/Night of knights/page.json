@@ -2487,14 +2487,14 @@
       "ease": "inout"
     },
     {
-      "beat": 572,
+      "beat": 568,
       "type": "pitch",
       "value": 0,
       "dur": 4,
       "ease": "inout"
     },
     {
-      "beat": 572,
+      "beat": 568,
       "type": "zoom",
       "value": 1,
       "dur": 4,
