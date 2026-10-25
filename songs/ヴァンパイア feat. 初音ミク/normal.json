@@ -2,7 +2,7 @@
   "format": 3,
   "meta": {
     "title": "ヴァンパイア feat. 初音ミク",
-    "artist": "",
+    "artist": "DECO*27",
     "charter": "auto",
     "difficulty": "NORMAL",
     "level": 8,
@@ -262,7 +262,8 @@
     },
     {
       "lane": 3,
-      "beat": 33.5
+      "beat": 33.5,
+      "surge": true
     },
     {
       "lane": 0,
@@ -1404,7 +1405,8 @@
     },
     {
       "lane": 2,
-      "beat": 180
+      "beat": 180,
+      "surge": true
     },
     {
       "lane": 1,
@@ -2340,7 +2342,8 @@
     },
     {
       "lane": 2,
-      "beat": 305
+      "beat": 305,
+      "surge": true
     },
     {
       "lane": 0,
@@ -3025,19 +3028,23 @@
     },
     {
       "lane": 2,
-      "beat": 400.5
+      "beat": 400.5,
+      "phase": true
     },
     {
       "lane": 0,
-      "beat": 401
+      "beat": 401,
+      "phase": true
     },
     {
       "lane": 1,
-      "beat": 401.5
+      "beat": 401.5,
+      "phase": true
     },
     {
       "lane": 0,
-      "beat": 402
+      "beat": 402,
+      "phase": true
     },
     {
       "lane": 3,
@@ -3254,7 +3261,8 @@
     },
     {
       "lane": 2,
-      "beat": 429
+      "beat": 429,
+      "surge": true
     },
     {
       "lane": 0,

@@ -1,0 +1,616 @@
+{
+ "format": 3,
+ "meta": {
+  "title": "기초 연습 3: 길게, 자유롭게",
+  "artist": "RED REMAKE",
+  "charter": "RED REMAKE",
+  "difficulty": "PLUS",
+  "level": 4,
+  "color": "#ff9a5c"
+ },
+ "audio": {
+  "file": "audio.ogg",
+  "offset_ms": 0,
+  "preview_ms": 8571
+ },
+ "timing": {
+  "bpm": [
+   {
+    "beat": 0,
+    "bpm": 112
+   }
+  ]
+ },
+ "scroll": [
+  {
+   "beat": 0,
+   "speed": 1
+  }
+ ],
+ "notes": [
+  {
+   "lane": 2,
+   "beat": 8,
+   "len": 2.0
+  },
+  {
+   "lane": 1,
+   "beat": 11
+  },
+  {
+   "lane": 3,
+   "beat": 12,
+   "len": 2.0
+  },
+  {
+   "lane": 0,
+   "beat": 15
+  },
+  {
+   "lane": 0,
+   "beat": 16,
+   "len": 2.0
+  },
+  {
+   "lane": 3,
+   "beat": 19
+  },
+  {
+   "lane": 1,
+   "beat": 20,
+   "len": 2.0
+  },
+  {
+   "lane": 2,
+   "beat": 23
+  },
+  {
+   "lane": 2,
+   "beat": 24,
+   "len": 2.0
+  },
+  {
+   "lane": 1,
+   "beat": 27
+  },
+  {
+   "lane": 3,
+   "beat": 28,
+   "len": 2.0
+  },
+  {
+   "lane": 0,
+   "beat": 31
+  },
+  {
+   "lane": 0,
+   "beat": 32,
+   "len": 2.0
+  },
+  {
+   "lane": 3,
+   "beat": 35
+  },
+  {
+   "lane": 1,
+   "beat": 36,
+   "len": 2.0
+  },
+  {
+   "lane": 2,
+   "beat": 39
+  },
+  {
+   "lane": 0,
+   "beat": 40,
+   "len": 3.0
+  },
+  {
+   "lane": 2,
+   "beat": 41
+  },
+  {
+   "lane": 3,
+   "beat": 42
+  },
+  {
+   "lane": 2,
+   "beat": 43
+  },
+  {
+   "lane": 3,
+   "beat": 44,
+   "len": 3.0
+  },
+  {
+   "lane": 1,
+   "beat": 45
+  },
+  {
+   "lane": 0,
+   "beat": 46
+  },
+  {
+   "lane": 1,
+   "beat": 47
+  },
+  {
+   "lane": 0,
+   "beat": 48,
+   "len": 3.0
+  },
+  {
+   "lane": 2,
+   "beat": 49
+  },
+  {
+   "lane": 3,
+   "beat": 50
+  },
+  {
+   "lane": 2,
+   "beat": 51
+  },
+  {
+   "lane": 3,
+   "beat": 52,
+   "len": 3.0
+  },
+  {
+   "lane": 1,
+   "beat": 53
+  },
+  {
+   "lane": 0,
+   "beat": 54
+  },
+  {
+   "lane": 1,
+   "beat": 55
+  },
+  {
+   "lane": 0,
+   "beat": 56,
+   "len": 3.0
+  },
+  {
+   "lane": 2,
+   "beat": 57
+  },
+  {
+   "lane": 3,
+   "beat": 58
+  },
+  {
+   "lane": 2,
+   "beat": 59
+  },
+  {
+   "lane": 3,
+   "beat": 60,
+   "len": 3.0
+  },
+  {
+   "lane": 1,
+   "beat": 61
+  },
+  {
+   "lane": 0,
+   "beat": 62
+  },
+  {
+   "lane": 1,
+   "beat": 63
+  },
+  {
+   "lane": 0,
+   "beat": 64,
+   "len": 3.0
+  },
+  {
+   "lane": 2,
+   "beat": 65
+  },
+  {
+   "lane": 3,
+   "beat": 66
+  },
+  {
+   "lane": 2,
+   "beat": 67
+  },
+  {
+   "lane": 3,
+   "beat": 68,
+   "len": 3.0
+  },
+  {
+   "lane": 1,
+   "beat": 69
+  },
+  {
+   "lane": 0,
+   "beat": 70
+  },
+  {
+   "lane": 1,
+   "beat": 71
+  },
+  {
+   "lane": 2,
+   "beat": 72,
+   "burst": 4
+  },
+  {
+   "lane": 0,
+   "beat": 75
+  },
+  {
+   "lane": 3,
+   "beat": 76
+  },
+  {
+   "lane": 0,
+   "beat": 77
+  },
+  {
+   "lane": 1,
+   "beat": 78
+  },
+  {
+   "lane": 2,
+   "beat": 79
+  },
+  {
+   "lane": 1,
+   "beat": 80,
+   "burst": 4
+  },
+  {
+   "lane": 3,
+   "beat": 83
+  },
+  {
+   "lane": 1,
+   "beat": 84
+  },
+  {
+   "lane": 2,
+   "beat": 85
+  },
+  {
+   "lane": 3,
+   "beat": 86
+  },
+  {
+   "lane": 0,
+   "beat": 87
+  },
+  {
+   "lane": 2,
+   "beat": 88,
+   "burst": 4
+  },
+  {
+   "lane": 0,
+   "beat": 91
+  },
+  {
+   "lane": 3,
+   "beat": 92
+  },
+  {
+   "lane": 0,
+   "beat": 93
+  },
+  {
+   "lane": 1,
+   "beat": 94
+  },
+  {
+   "lane": 2,
+   "beat": 95
+  },
+  {
+   "lane": 1,
+   "beat": 96,
+   "burst": 4
+  },
+  {
+   "lane": 3,
+   "beat": 99
+  },
+  {
+   "lane": 1,
+   "beat": 100
+  },
+  {
+   "lane": 2,
+   "beat": 101
+  },
+  {
+   "lane": 3,
+   "beat": 102
+  },
+  {
+   "lane": 0,
+   "beat": 103
+  },
+  {
+   "lane": 0,
+   "beat": 104,
+   "surge": true
+  },
+  {
+   "lane": 3,
+   "beat": 105
+  },
+  {
+   "lane": 1,
+   "beat": 106
+  },
+  {
+   "lane": 3,
+   "beat": 106.5
+  },
+  {
+   "lane": 2,
+   "beat": 107
+  },
+  {
+   "lane": 3,
+   "beat": 108,
+   "surge": true
+  },
+  {
+   "lane": 1,
+   "beat": 109
+  },
+  {
+   "lane": 2,
+   "beat": 110
+  },
+  {
+   "lane": 0,
+   "beat": 110.5
+  },
+  {
+   "lane": 0,
+   "beat": 111
+  },
+  {
+   "lane": 1,
+   "beat": 112,
+   "surge": true
+  },
+  {
+   "lane": 2,
+   "beat": 113
+  },
+  {
+   "lane": 0,
+   "beat": 114
+  },
+  {
+   "lane": 2,
+   "beat": 114.5
+  },
+  {
+   "lane": 3,
+   "beat": 115
+  },
+  {
+   "lane": 2,
+   "beat": 116,
+   "surge": true
+  },
+  {
+   "lane": 0,
+   "beat": 117
+  },
+  {
+   "lane": 3,
+   "beat": 118
+  },
+  {
+   "lane": 1,
+   "beat": 118.5
+  },
+  {
+   "lane": 1,
+   "beat": 119
+  },
+  {
+   "lane": 0,
+   "beat": 120
+  },
+  {
+   "lane": 3,
+   "beat": 121
+  },
+  {
+   "lane": 1,
+   "beat": 122
+  },
+  {
+   "lane": 3,
+   "beat": 122.5
+  },
+  {
+   "lane": 2,
+   "beat": 123
+  },
+  {
+   "lane": 3,
+   "beat": 124
+  },
+  {
+   "lane": 1,
+   "beat": 125
+  },
+  {
+   "lane": 2,
+   "beat": 126
+  },
+  {
+   "lane": 0,
+   "beat": 126.5
+  },
+  {
+   "lane": 0,
+   "beat": 127
+  },
+  {
+   "lane": 1,
+   "beat": 128
+  },
+  {
+   "lane": 2,
+   "beat": 129
+  },
+  {
+   "lane": 0,
+   "beat": 130
+  },
+  {
+   "lane": 2,
+   "beat": 130.5
+  },
+  {
+   "lane": 3,
+   "beat": 131
+  },
+  {
+   "lane": 2,
+   "beat": 132
+  },
+  {
+   "lane": 0,
+   "beat": 133
+  },
+  {
+   "lane": 3,
+   "beat": 134
+  },
+  {
+   "lane": 1,
+   "beat": 134.5
+  },
+  {
+   "lane": 1,
+   "beat": 135
+  },
+  {
+   "lane": 1,
+   "beat": 136,
+   "len": 1.5
+  },
+  {
+   "lane": 2,
+   "beat": 138,
+   "len": 1.5
+  },
+  {
+   "lane": 1,
+   "beat": 140,
+   "len": 1.5
+  },
+  {
+   "lane": 2,
+   "beat": 142,
+   "len": 1.5
+  },
+  {
+   "lane": 1,
+   "beat": 144,
+   "len": 1.5
+  },
+  {
+   "lane": 2,
+   "beat": 146,
+   "len": 1.5
+  },
+  {
+   "lane": 0,
+   "beat": 148,
+   "len": 3.0
+  },
+  {
+   "lane": 3,
+   "beat": 148,
+   "len": 3.0
+  }
+ ],
+ "track": [
+  {
+   "beat": 116,
+   "type": "curve",
+   "value": 0.45,
+   "dur": 4,
+   "ease": "inout"
+  },
+  {
+   "beat": 124,
+   "type": "curve",
+   "value": -0.45,
+   "dur": 4,
+   "ease": "inout"
+  },
+  {
+   "beat": 132,
+   "type": "curve",
+   "value": 0,
+   "dur": 4,
+   "ease": "inout"
+  }
+ ],
+ "events": [
+  {
+   "beat": 0,
+   "type": "text",
+   "text": "이번엔 긴 노트(롱노트)와 연타 바를 배워요",
+   "dur": 6
+  },
+  {
+   "beat": 8,
+   "type": "text",
+   "text": "긴 노트: 머리에서 누르고\n끝날 때까지 떼지 마세요",
+   "dur": 7
+  },
+  {
+   "beat": 38,
+   "type": "text",
+   "text": "한 손으로 누른 채, 다른 손으로 치기",
+   "dur": 6
+  },
+  {
+   "beat": 70,
+   "type": "text",
+   "text": "연타 바: 지나가는 동안 마구 치세요!\n한 번만 쳐도 통과, 많이 치면 보너스",
+   "dur": 7
+  },
+  {
+   "beat": 102,
+   "type": "text",
+   "text": "통통 튀는 노트(서지)는 내려오는 모양만 달라요\n판정선에 닿을 때 치면 돼요",
+   "dur": 7
+  },
+  {
+   "beat": 118,
+   "type": "text",
+   "text": "트랙이 휘어도 레인 순서는 그대로!",
+   "dur": 5
+  },
+  {
+   "beat": 134,
+   "type": "text",
+   "text": "마지막! 양손 롱노트",
+   "dur": 5
+  },
+  {
+   "beat": 148,
+   "type": "flash",
+   "power": 0.5
+  }
+ ]
+}

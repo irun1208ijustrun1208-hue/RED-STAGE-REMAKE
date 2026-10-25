@@ -46,7 +46,8 @@
     },
     {
       "lane": 2,
-      "beat": 24
+      "beat": 24,
+      "surge": true
     },
     {
       "lane": 1,
@@ -82,7 +83,8 @@
     },
     {
       "lane": 0,
-      "beat": 36
+      "beat": 36,
+      "surge": true
     },
     {
       "lane": 2,
@@ -118,7 +120,8 @@
     },
     {
       "lane": 2,
-      "beat": 44
+      "beat": 44,
+      "surge": true
     },
     {
       "lane": 1,
@@ -182,7 +185,8 @@
     },
     {
       "lane": 0,
-      "beat": 57
+      "beat": 57,
+      "surge": true
     },
     {
       "lane": 1,
@@ -226,7 +230,8 @@
     },
     {
       "lane": 1,
-      "beat": 66
+      "beat": 66,
+      "surge": true
     },
     {
       "lane": 3,
@@ -298,7 +303,8 @@
     },
     {
       "lane": 2,
-      "beat": 81
+      "beat": 81,
+      "surge": true
     },
     {
       "lane": 1,
@@ -334,7 +340,8 @@
     },
     {
       "lane": 1,
-      "beat": 89
+      "beat": 89,
+      "surge": true
     },
     {
       "lane": 0,
@@ -518,7 +525,8 @@
     },
     {
       "lane": 0,
-      "beat": 113.5
+      "beat": 113.5,
+      "surge": true
     },
     {
       "lane": 1,
@@ -674,7 +682,8 @@
     },
     {
       "lane": 3,
-      "beat": 132
+      "beat": 132,
+      "surge": true
     },
     {
       "lane": 2,
@@ -878,7 +887,8 @@
     },
     {
       "lane": 2,
-      "beat": 155.5
+      "beat": 155.5,
+      "surge": true
     },
     {
       "lane": 1,

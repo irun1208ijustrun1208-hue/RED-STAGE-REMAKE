@@ -1,0 +1,974 @@
+{
+ "format": 3,
+ "meta": {
+  "title": "기초 연습 2: 두 손 리듬",
+  "artist": "RED REMAKE",
+  "charter": "RED REMAKE",
+  "difficulty": "NORMAL",
+  "level": 3,
+  "color": "#ffd36b"
+ },
+ "audio": {
+  "file": "audio.ogg",
+  "offset_ms": 0,
+  "preview_ms": 9600
+ },
+ "timing": {
+  "bpm": [
+   {
+    "beat": 0,
+    "bpm": 100
+   }
+  ]
+ },
+ "scroll": [
+  {
+   "beat": 0,
+   "speed": 1
+  }
+ ],
+ "notes": [
+  {
+   "lane": 0,
+   "beat": 8
+  },
+  {
+   "lane": 2,
+   "beat": 9
+  },
+  {
+   "lane": 1,
+   "beat": 10
+  },
+  {
+   "lane": 3,
+   "beat": 11
+  },
+  {
+   "lane": 0,
+   "beat": 12
+  },
+  {
+   "lane": 2,
+   "beat": 13
+  },
+  {
+   "lane": 1,
+   "beat": 14
+  },
+  {
+   "lane": 3,
+   "beat": 15
+  },
+  {
+   "lane": 0,
+   "beat": 16
+  },
+  {
+   "lane": 2,
+   "beat": 17
+  },
+  {
+   "lane": 1,
+   "beat": 18
+  },
+  {
+   "lane": 3,
+   "beat": 19
+  },
+  {
+   "lane": 0,
+   "beat": 20
+  },
+  {
+   "lane": 2,
+   "beat": 21
+  },
+  {
+   "lane": 1,
+   "beat": 22
+  },
+  {
+   "lane": 3,
+   "beat": 23
+  },
+  {
+   "lane": 0,
+   "beat": 24
+  },
+  {
+   "lane": 2,
+   "beat": 25
+  },
+  {
+   "lane": 1,
+   "beat": 26
+  },
+  {
+   "lane": 3,
+   "beat": 27
+  },
+  {
+   "lane": 0,
+   "beat": 28
+  },
+  {
+   "lane": 2,
+   "beat": 29
+  },
+  {
+   "lane": 1,
+   "beat": 30
+  },
+  {
+   "lane": 3,
+   "beat": 31
+  },
+  {
+   "lane": 0,
+   "beat": 32
+  },
+  {
+   "lane": 2,
+   "beat": 33
+  },
+  {
+   "lane": 1,
+   "beat": 34
+  },
+  {
+   "lane": 3,
+   "beat": 35
+  },
+  {
+   "lane": 0,
+   "beat": 36
+  },
+  {
+   "lane": 2,
+   "beat": 37
+  },
+  {
+   "lane": 1,
+   "beat": 38
+  },
+  {
+   "lane": 3,
+   "beat": 39
+  },
+  {
+   "lane": 1,
+   "beat": 40.0
+  },
+  {
+   "lane": 3,
+   "beat": 40.5
+  },
+  {
+   "lane": 1,
+   "beat": 41.0
+  },
+  {
+   "lane": 3,
+   "beat": 41.5
+  },
+  {
+   "lane": 1,
+   "beat": 42.0
+  },
+  {
+   "lane": 3,
+   "beat": 42.5
+  },
+  {
+   "lane": 1,
+   "beat": 43.0
+  },
+  {
+   "lane": 3,
+   "beat": 43.5
+  },
+  {
+   "lane": 0,
+   "beat": 44.0
+  },
+  {
+   "lane": 2,
+   "beat": 44.5
+  },
+  {
+   "lane": 0,
+   "beat": 45.0
+  },
+  {
+   "lane": 2,
+   "beat": 45.5
+  },
+  {
+   "lane": 0,
+   "beat": 46.0
+  },
+  {
+   "lane": 2,
+   "beat": 46.5
+  },
+  {
+   "lane": 0,
+   "beat": 47.0
+  },
+  {
+   "lane": 2,
+   "beat": 47.5
+  },
+  {
+   "lane": 1,
+   "beat": 48.0
+  },
+  {
+   "lane": 2,
+   "beat": 48.5
+  },
+  {
+   "lane": 1,
+   "beat": 49.0
+  },
+  {
+   "lane": 2,
+   "beat": 49.5
+  },
+  {
+   "lane": 1,
+   "beat": 50.0
+  },
+  {
+   "lane": 2,
+   "beat": 50.5
+  },
+  {
+   "lane": 1,
+   "beat": 51.0
+  },
+  {
+   "lane": 2,
+   "beat": 51.5
+  },
+  {
+   "lane": 0,
+   "beat": 52.0
+  },
+  {
+   "lane": 3,
+   "beat": 52.5
+  },
+  {
+   "lane": 0,
+   "beat": 53.0
+  },
+  {
+   "lane": 3,
+   "beat": 53.5
+  },
+  {
+   "lane": 0,
+   "beat": 54.0
+  },
+  {
+   "lane": 3,
+   "beat": 54.5
+  },
+  {
+   "lane": 0,
+   "beat": 55.0
+  },
+  {
+   "lane": 3,
+   "beat": 55.5
+  },
+  {
+   "lane": 1,
+   "beat": 56.0
+  },
+  {
+   "lane": 3,
+   "beat": 56.5
+  },
+  {
+   "lane": 1,
+   "beat": 57.0
+  },
+  {
+   "lane": 3,
+   "beat": 57.5
+  },
+  {
+   "lane": 1,
+   "beat": 58.0
+  },
+  {
+   "lane": 3,
+   "beat": 58.5
+  },
+  {
+   "lane": 1,
+   "beat": 59.0
+  },
+  {
+   "lane": 3,
+   "beat": 59.5
+  },
+  {
+   "lane": 0,
+   "beat": 60.0
+  },
+  {
+   "lane": 2,
+   "beat": 60.5
+  },
+  {
+   "lane": 0,
+   "beat": 61.0
+  },
+  {
+   "lane": 2,
+   "beat": 61.5
+  },
+  {
+   "lane": 0,
+   "beat": 62.0
+  },
+  {
+   "lane": 2,
+   "beat": 62.5
+  },
+  {
+   "lane": 0,
+   "beat": 63.0
+  },
+  {
+   "lane": 2,
+   "beat": 63.5
+  },
+  {
+   "lane": 1,
+   "beat": 64.0
+  },
+  {
+   "lane": 2,
+   "beat": 64.5
+  },
+  {
+   "lane": 1,
+   "beat": 65.0
+  },
+  {
+   "lane": 2,
+   "beat": 65.5
+  },
+  {
+   "lane": 1,
+   "beat": 66.0
+  },
+  {
+   "lane": 2,
+   "beat": 66.5
+  },
+  {
+   "lane": 1,
+   "beat": 67.0
+  },
+  {
+   "lane": 2,
+   "beat": 67.5
+  },
+  {
+   "lane": 0,
+   "beat": 68.0
+  },
+  {
+   "lane": 3,
+   "beat": 68.5
+  },
+  {
+   "lane": 0,
+   "beat": 69.0
+  },
+  {
+   "lane": 3,
+   "beat": 69.5
+  },
+  {
+   "lane": 0,
+   "beat": 70.0
+  },
+  {
+   "lane": 3,
+   "beat": 70.5
+  },
+  {
+   "lane": 0,
+   "beat": 71.0
+  },
+  {
+   "lane": 3,
+   "beat": 71.5
+  },
+  {
+   "lane": 0,
+   "beat": 72
+  },
+  {
+   "lane": 2,
+   "beat": 72
+  },
+  {
+   "lane": 1,
+   "beat": 73
+  },
+  {
+   "lane": 3,
+   "beat": 74
+  },
+  {
+   "lane": 1,
+   "beat": 74.5
+  },
+  {
+   "lane": 1,
+   "beat": 75
+  },
+  {
+   "lane": 0,
+   "beat": 75.5
+  },
+  {
+   "lane": 1,
+   "beat": 76
+  },
+  {
+   "lane": 3,
+   "beat": 76
+  },
+  {
+   "lane": 0,
+   "beat": 77
+  },
+  {
+   "lane": 2,
+   "beat": 78
+  },
+  {
+   "lane": 1,
+   "beat": 78.5
+  },
+  {
+   "lane": 2,
+   "beat": 79
+  },
+  {
+   "lane": 3,
+   "beat": 79.5
+  },
+  {
+   "lane": 0,
+   "beat": 80
+  },
+  {
+   "lane": 3,
+   "beat": 80
+  },
+  {
+   "lane": 1,
+   "beat": 81
+  },
+  {
+   "lane": 2,
+   "beat": 82
+  },
+  {
+   "lane": 1,
+   "beat": 82.5
+  },
+  {
+   "lane": 1,
+   "beat": 83
+  },
+  {
+   "lane": 0,
+   "beat": 83.5
+  },
+  {
+   "lane": 1,
+   "beat": 84
+  },
+  {
+   "lane": 2,
+   "beat": 84
+  },
+  {
+   "lane": 0,
+   "beat": 85
+  },
+  {
+   "lane": 3,
+   "beat": 86
+  },
+  {
+   "lane": 1,
+   "beat": 86.5
+  },
+  {
+   "lane": 2,
+   "beat": 87
+  },
+  {
+   "lane": 3,
+   "beat": 87.5
+  },
+  {
+   "lane": 0,
+   "beat": 88
+  },
+  {
+   "lane": 2,
+   "beat": 88
+  },
+  {
+   "lane": 1,
+   "beat": 89
+  },
+  {
+   "lane": 3,
+   "beat": 90
+  },
+  {
+   "lane": 1,
+   "beat": 90.5
+  },
+  {
+   "lane": 1,
+   "beat": 91
+  },
+  {
+   "lane": 0,
+   "beat": 91.5
+  },
+  {
+   "lane": 1,
+   "beat": 92
+  },
+  {
+   "lane": 3,
+   "beat": 92
+  },
+  {
+   "lane": 0,
+   "beat": 93
+  },
+  {
+   "lane": 2,
+   "beat": 94
+  },
+  {
+   "lane": 1,
+   "beat": 94.5
+  },
+  {
+   "lane": 2,
+   "beat": 95
+  },
+  {
+   "lane": 3,
+   "beat": 95.5
+  },
+  {
+   "lane": 0,
+   "beat": 96
+  },
+  {
+   "lane": 3,
+   "beat": 96
+  },
+  {
+   "lane": 1,
+   "beat": 97
+  },
+  {
+   "lane": 2,
+   "beat": 98
+  },
+  {
+   "lane": 1,
+   "beat": 98.5
+  },
+  {
+   "lane": 1,
+   "beat": 99
+  },
+  {
+   "lane": 0,
+   "beat": 99.5
+  },
+  {
+   "lane": 1,
+   "beat": 100
+  },
+  {
+   "lane": 2,
+   "beat": 100
+  },
+  {
+   "lane": 0,
+   "beat": 101
+  },
+  {
+   "lane": 3,
+   "beat": 102
+  },
+  {
+   "lane": 1,
+   "beat": 102.5
+  },
+  {
+   "lane": 2,
+   "beat": 103
+  },
+  {
+   "lane": 3,
+   "beat": 103.5
+  },
+  {
+   "lane": 4,
+   "beat": 104
+  },
+  {
+   "lane": 3,
+   "beat": 105
+  },
+  {
+   "lane": 2,
+   "beat": 105.5
+  },
+  {
+   "lane": 0,
+   "beat": 106
+  },
+  {
+   "lane": 2,
+   "beat": 107
+  },
+  {
+   "lane": 5,
+   "beat": 108
+  },
+  {
+   "lane": 0,
+   "beat": 109
+  },
+  {
+   "lane": 1,
+   "beat": 109.5
+  },
+  {
+   "lane": 2,
+   "beat": 110
+  },
+  {
+   "lane": 1,
+   "beat": 111
+  },
+  {
+   "lane": 4,
+   "beat": 112
+  },
+  {
+   "lane": 2,
+   "beat": 113
+  },
+  {
+   "lane": 3,
+   "beat": 113.5
+  },
+  {
+   "lane": 1,
+   "beat": 114
+  },
+  {
+   "lane": 3,
+   "beat": 115
+  },
+  {
+   "lane": 5,
+   "beat": 116
+  },
+  {
+   "lane": 1,
+   "beat": 117
+  },
+  {
+   "lane": 0,
+   "beat": 117.5
+  },
+  {
+   "lane": 3,
+   "beat": 118
+  },
+  {
+   "lane": 0,
+   "beat": 119
+  },
+  {
+   "lane": 4,
+   "beat": 120
+  },
+  {
+   "lane": 3,
+   "beat": 121
+  },
+  {
+   "lane": 2,
+   "beat": 121.5
+  },
+  {
+   "lane": 0,
+   "beat": 122
+  },
+  {
+   "lane": 2,
+   "beat": 123
+  },
+  {
+   "lane": 5,
+   "beat": 124
+  },
+  {
+   "lane": 0,
+   "beat": 125
+  },
+  {
+   "lane": 1,
+   "beat": 125.5
+  },
+  {
+   "lane": 2,
+   "beat": 126
+  },
+  {
+   "lane": 1,
+   "beat": 127
+  },
+  {
+   "lane": 4,
+   "beat": 128
+  },
+  {
+   "lane": 2,
+   "beat": 129
+  },
+  {
+   "lane": 3,
+   "beat": 129.5
+  },
+  {
+   "lane": 1,
+   "beat": 130
+  },
+  {
+   "lane": 3,
+   "beat": 131
+  },
+  {
+   "lane": 5,
+   "beat": 132
+  },
+  {
+   "lane": 1,
+   "beat": 133
+  },
+  {
+   "lane": 0,
+   "beat": 133.5
+  },
+  {
+   "lane": 3,
+   "beat": 134
+  },
+  {
+   "lane": 0,
+   "beat": 135
+  },
+  {
+   "lane": 0,
+   "beat": 136
+  },
+  {
+   "lane": 2,
+   "beat": 136
+  },
+  {
+   "lane": 1,
+   "beat": 137.0
+  },
+  {
+   "lane": 3,
+   "beat": 137.5
+  },
+  {
+   "lane": 0,
+   "beat": 138.0
+  },
+  {
+   "lane": 2,
+   "beat": 138.5
+  },
+  {
+   "lane": 1,
+   "beat": 139.0
+  },
+  {
+   "lane": 3,
+   "beat": 139.5
+  },
+  {
+   "lane": 1,
+   "beat": 140
+  },
+  {
+   "lane": 3,
+   "beat": 140
+  },
+  {
+   "lane": 1,
+   "beat": 141.0
+  },
+  {
+   "lane": 3,
+   "beat": 141.5
+  },
+  {
+   "lane": 0,
+   "beat": 142.0
+  },
+  {
+   "lane": 2,
+   "beat": 142.5
+  },
+  {
+   "lane": 1,
+   "beat": 143.0
+  },
+  {
+   "lane": 3,
+   "beat": 143.5
+  },
+  {
+   "lane": 0,
+   "beat": 144
+  },
+  {
+   "lane": 3,
+   "beat": 144
+  },
+  {
+   "lane": 1,
+   "beat": 145.0
+  },
+  {
+   "lane": 3,
+   "beat": 145.5
+  },
+  {
+   "lane": 0,
+   "beat": 146.0
+  },
+  {
+   "lane": 2,
+   "beat": 146.5
+  },
+  {
+   "lane": 1,
+   "beat": 147.0
+  },
+  {
+   "lane": 3,
+   "beat": 147.5
+  },
+  {
+   "lane": 1,
+   "beat": 148
+  },
+  {
+   "lane": 2,
+   "beat": 148
+  },
+  {
+   "lane": 1,
+   "beat": 149.0
+  },
+  {
+   "lane": 3,
+   "beat": 149.5
+  },
+  {
+   "lane": 0,
+   "beat": 150.0
+  },
+  {
+   "lane": 2,
+   "beat": 150.5
+  },
+  {
+   "lane": 1,
+   "beat": 151.0
+  },
+  {
+   "lane": 3,
+   "beat": 151.5
+  },
+  {
+   "lane": 4,
+   "beat": 152
+  },
+  {
+   "lane": 5,
+   "beat": 152
+  }
+ ],
+ "track": [],
+ "events": [
+  {
+   "beat": 0,
+   "type": "text",
+   "text": "왼손은 D F, 오른손은 J K\n두 손을 번갈아 써 봐요",
+   "dur": 7
+  },
+  {
+   "beat": 38,
+   "type": "text",
+   "text": "박자 사이에도 노트가 와요(8분음표)\n왼-오-왼-오 번갈아 치면 편해요",
+   "dur": 7
+  },
+  {
+   "beat": 70,
+   "type": "text",
+   "text": "두 노트가 나란히 오면 동시에!\n(동시치기)",
+   "dur": 6
+  },
+  {
+   "beat": 102,
+   "type": "text",
+   "text": "양옆 큰 레인(사이드): 왼쪽 C 또는 왼 Shift\n오른쪽 M 또는 오른 Shift",
+   "dur": 7
+  },
+  {
+   "beat": 134,
+   "type": "text",
+   "text": "지금까지 배운 것 전부! 힘내세요",
+   "dur": 5
+  },
+  {
+   "beat": 152,
+   "type": "flash",
+   "power": 0.5
+  }
+ ]
+}
