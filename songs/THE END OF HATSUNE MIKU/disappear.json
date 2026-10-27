@@ -4601,8 +4601,7 @@
     },
     {
       "lane": 2,
-      "beat": 429.5,
-      "surge": true
+      "beat": 429.5
     },
     {
       "lane": 1,
@@ -6828,8 +6827,7 @@
     },
     {
       "lane": 0,
-      "beat": 601,
-      "surge": true
+      "beat": 601
     },
     {
       "lane": 2,
