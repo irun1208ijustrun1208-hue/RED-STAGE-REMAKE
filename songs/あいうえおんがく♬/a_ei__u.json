@@ -592,11 +592,6 @@
       "stealth": true
     },
     {
-      "lane": 3,
-      "beat": 43.25,
-      "stealth": true
-    },
-    {
       "lane": 0,
       "beat": 43.3333
     },
@@ -615,7 +610,7 @@
       "stealth": true
     },
     {
-      "lane": 2,
+      "lane": 0,
       "beat": 43.5,
       "stealth": true
     },
@@ -3551,7 +3546,7 @@
       "beat": 203
     },
     {
-      "lane": 2,
+      "lane": 1,
       "beat": 203
     },
     {
