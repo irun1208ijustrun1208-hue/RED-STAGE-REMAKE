@@ -1,0 +1,249 @@
+{
+ "format": 3,
+ "meta": {
+  "title": "기믹 체험",
+  "artist": "RED REMAKE",
+  "charter": "RED REMAKE",
+  "difficulty": "고스트",
+  "level": 4,
+  "color": "#9aa8b8"
+ },
+ "audio": {
+  "file": "audio.mp3",
+  "offset_ms": 0,
+  "preview_ms": 8000
+ },
+ "timing": {
+  "bpm": [
+   {
+    "beat": 0,
+    "bpm": 120
+   }
+  ]
+ },
+ "scroll": [
+  {
+   "beat": 0,
+   "speed": 1
+  }
+ ],
+ "notes": [
+  {
+   "lane": 1,
+   "beat": 4
+  },
+  {
+   "lane": 2,
+   "beat": 5
+  },
+  {
+   "lane": 0,
+   "beat": 6
+  },
+  {
+   "lane": 3,
+   "beat": 7
+  },
+  {
+   "lane": 1,
+   "beat": 8
+  },
+  {
+   "lane": 2,
+   "beat": 9
+  },
+  {
+   "lane": 0,
+   "beat": 10
+  },
+  {
+   "lane": 3,
+   "beat": 11
+  },
+  {
+   "lane": 1,
+   "beat": 12
+  },
+  {
+   "lane": 2,
+   "beat": 13
+  },
+  {
+   "lane": 0,
+   "beat": 14
+  },
+  {
+   "lane": 3,
+   "beat": 15
+  },
+  {
+   "lane": 1,
+   "beat": 24,
+   "ghost": true
+  },
+  {
+   "lane": 2,
+   "beat": 25,
+   "ghost": true
+  },
+  {
+   "lane": 0,
+   "beat": 26,
+   "ghost": true
+  },
+  {
+   "lane": 3,
+   "beat": 27,
+   "ghost": true
+  },
+  {
+   "lane": 2,
+   "beat": 28,
+   "ghost": true
+  },
+  {
+   "lane": 1,
+   "beat": 29,
+   "ghost": true
+  },
+  {
+   "lane": 3,
+   "beat": 30,
+   "ghost": true
+  },
+  {
+   "lane": 0,
+   "beat": 31,
+   "ghost": true
+  },
+  {
+   "lane": 1,
+   "beat": 32,
+   "ghost": true
+  },
+  {
+   "lane": 2,
+   "beat": 33,
+   "ghost": true
+  },
+  {
+   "lane": 0,
+   "beat": 34,
+   "ghost": true
+  },
+  {
+   "lane": 3,
+   "beat": 35,
+   "ghost": true
+  },
+  {
+   "lane": 2,
+   "beat": 36,
+   "ghost": true
+  },
+  {
+   "lane": 1,
+   "beat": 37,
+   "ghost": true
+  },
+  {
+   "lane": 3,
+   "beat": 38,
+   "ghost": true
+  },
+  {
+   "lane": 0,
+   "beat": 39,
+   "ghost": true
+  },
+  {
+   "lane": 1,
+   "beat": 40,
+   "ghost": true
+  },
+  {
+   "lane": 2,
+   "beat": 41,
+   "ghost": true
+  },
+  {
+   "lane": 0,
+   "beat": 42,
+   "ghost": true
+  },
+  {
+   "lane": 3,
+   "beat": 43,
+   "ghost": true
+  },
+  {
+   "lane": 2,
+   "beat": 44,
+   "ghost": true
+  },
+  {
+   "lane": 1,
+   "beat": 45,
+   "ghost": true
+  },
+  {
+   "lane": 3,
+   "beat": 46,
+   "ghost": true
+  },
+  {
+   "lane": 0,
+   "beat": 47,
+   "ghost": true
+  },
+  {
+   "lane": 1,
+   "beat": 48,
+   "ghost": true
+  },
+  {
+   "lane": 2,
+   "beat": 49,
+   "ghost": true
+  },
+  {
+   "lane": 0,
+   "beat": 50,
+   "ghost": true
+  },
+  {
+   "lane": 3,
+   "beat": 51,
+   "ghost": true
+  },
+  {
+   "lane": 2,
+   "beat": 52,
+   "ghost": true
+  },
+  {
+   "lane": 1,
+   "beat": 53,
+   "ghost": true
+  },
+  {
+   "lane": 3,
+   "beat": 54,
+   "ghost": true
+  },
+  {
+   "lane": 0,
+   "beat": 55,
+   "ghost": true
+  }
+ ],
+ "track": [],
+ "events": [
+  {
+   "beat": 16,
+   "type": "text",
+   "text": "고스트: 흐릿하게 내려옵니다\n잘 안 보여도 진짜 노트라 쳐야 합니다",
+   "dur": 7
+  }
+ ]
+}

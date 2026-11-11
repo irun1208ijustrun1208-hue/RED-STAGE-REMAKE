@@ -1,0 +1,109 @@
+{
+ "format": 3,
+ "meta": {
+  "title": "기믹 체험",
+  "artist": "RED REMAKE",
+  "charter": "RED REMAKE",
+  "difficulty": "연타",
+  "level": 8,
+  "color": "#ffe066"
+ },
+ "audio": {
+  "file": "audio.mp3",
+  "offset_ms": 0,
+  "preview_ms": 8000
+ },
+ "timing": {
+  "bpm": [
+   {
+    "beat": 0,
+    "bpm": 120
+   }
+  ]
+ },
+ "scroll": [
+  {
+   "beat": 0,
+   "speed": 1
+  }
+ ],
+ "notes": [
+  {
+   "lane": 1,
+   "beat": 4
+  },
+  {
+   "lane": 2,
+   "beat": 5
+  },
+  {
+   "lane": 0,
+   "beat": 6
+  },
+  {
+   "lane": 3,
+   "beat": 7
+  },
+  {
+   "lane": 1,
+   "beat": 8
+  },
+  {
+   "lane": 2,
+   "beat": 9
+  },
+  {
+   "lane": 0,
+   "beat": 10
+  },
+  {
+   "lane": 3,
+   "beat": 11
+  },
+  {
+   "lane": 1,
+   "beat": 12
+  },
+  {
+   "lane": 2,
+   "beat": 13
+  },
+  {
+   "lane": 0,
+   "beat": 14
+  },
+  {
+   "lane": 3,
+   "beat": 15
+  },
+  {
+   "lane": 1,
+   "beat": 24,
+   "burst": 6
+  },
+  {
+   "lane": 2,
+   "beat": 32,
+   "burst": 8
+  },
+  {
+   "lane": 0,
+   "beat": 40,
+   "burst": 10
+  },
+  {
+   "lane": 3,
+   "beat": 48,
+   "burst": 12
+  }
+ ],
+ "track": [],
+ "events": [
+  {
+   "beat": 16,
+   "type": "text",
+   "text": "연타: 노란 바가 지나는 동안 그 레인 키를 마구 치세요\n한 번만 쳐도 통과, 숫자까지 치면 보너스",
+   "dur": 7
+  }
+ ]
+}

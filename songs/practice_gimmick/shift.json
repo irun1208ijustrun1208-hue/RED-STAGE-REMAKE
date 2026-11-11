@@ -1,0 +1,169 @@
+{
+ "format": 3,
+ "meta": {
+  "title": "기믹 체험",
+  "artist": "RED REMAKE",
+  "charter": "RED REMAKE",
+  "difficulty": "시프트",
+  "level": 6,
+  "color": "#ff9a3c"
+ },
+ "audio": {
+  "file": "audio.mp3",
+  "offset_ms": 0,
+  "preview_ms": 8000
+ },
+ "timing": {
+  "bpm": [
+   {
+    "beat": 0,
+    "bpm": 120
+   }
+  ]
+ },
+ "scroll": [
+  {
+   "beat": 0,
+   "speed": 1
+  }
+ ],
+ "notes": [
+  {
+   "lane": 1,
+   "beat": 4
+  },
+  {
+   "lane": 2,
+   "beat": 5
+  },
+  {
+   "lane": 0,
+   "beat": 6
+  },
+  {
+   "lane": 3,
+   "beat": 7
+  },
+  {
+   "lane": 1,
+   "beat": 8
+  },
+  {
+   "lane": 2,
+   "beat": 9
+  },
+  {
+   "lane": 0,
+   "beat": 10
+  },
+  {
+   "lane": 3,
+   "beat": 11
+  },
+  {
+   "lane": 1,
+   "beat": 12
+  },
+  {
+   "lane": 2,
+   "beat": 13
+  },
+  {
+   "lane": 0,
+   "beat": 14
+  },
+  {
+   "lane": 3,
+   "beat": 15
+  },
+  {
+   "lane": 1,
+   "beat": 24,
+   "shift": 2
+  },
+  {
+   "lane": 0,
+   "beat": 26,
+   "shift": 1
+  },
+  {
+   "lane": 2,
+   "beat": 28,
+   "shift": 3
+  },
+  {
+   "lane": 3,
+   "beat": 30,
+   "shift": 2
+  },
+  {
+   "lane": 1,
+   "beat": 32,
+   "shift": 2
+  },
+  {
+   "lane": 0,
+   "beat": 34,
+   "shift": 1
+  },
+  {
+   "lane": 2,
+   "beat": 36,
+   "shift": 3
+  },
+  {
+   "lane": 3,
+   "beat": 38,
+   "shift": 2
+  },
+  {
+   "lane": 1,
+   "beat": 40,
+   "shift": 2
+  },
+  {
+   "lane": 0,
+   "beat": 42,
+   "shift": 1
+  },
+  {
+   "lane": 2,
+   "beat": 44,
+   "shift": 3
+  },
+  {
+   "lane": 3,
+   "beat": 46,
+   "shift": 2
+  },
+  {
+   "lane": 1,
+   "beat": 48,
+   "shift": 2
+  },
+  {
+   "lane": 0,
+   "beat": 50,
+   "shift": 1
+  },
+  {
+   "lane": 2,
+   "beat": 52,
+   "shift": 3
+  },
+  {
+   "lane": 3,
+   "beat": 54,
+   "shift": 2
+  }
+ ],
+ "track": [],
+ "events": [
+  {
+   "beat": 16,
+   "type": "text",
+   "text": "시프트: 다른 레인에서 미끄러져 들어옵니다\n바닥 점선이 도착 레인을 알려 줍니다",
+   "dur": 7
+  }
+ ]
+}

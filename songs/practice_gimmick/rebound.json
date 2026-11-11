@@ -1,0 +1,185 @@
+{
+ "format": 3,
+ "meta": {
+  "title": "기믹 체험",
+  "artist": "RED REMAKE",
+  "charter": "RED REMAKE",
+  "difficulty": "바운스",
+  "level": 11,
+  "color": "#ffb84a"
+ },
+ "audio": {
+  "file": "audio.mp3",
+  "offset_ms": 0,
+  "preview_ms": 8000
+ },
+ "timing": {
+  "bpm": [
+   {
+    "beat": 0,
+    "bpm": 120
+   }
+  ]
+ },
+ "scroll": [
+  {
+   "beat": 0,
+   "speed": 1
+  }
+ ],
+ "notes": [
+  {
+   "lane": 1,
+   "beat": 4
+  },
+  {
+   "lane": 2,
+   "beat": 5
+  },
+  {
+   "lane": 0,
+   "beat": 6
+  },
+  {
+   "lane": 3,
+   "beat": 7
+  },
+  {
+   "lane": 1,
+   "beat": 8
+  },
+  {
+   "lane": 2,
+   "beat": 9
+  },
+  {
+   "lane": 0,
+   "beat": 10
+  },
+  {
+   "lane": 3,
+   "beat": 11
+  },
+  {
+   "lane": 1,
+   "beat": 12
+  },
+  {
+   "lane": 2,
+   "beat": 13
+  },
+  {
+   "lane": 0,
+   "beat": 14
+  },
+  {
+   "lane": 3,
+   "beat": 15
+  },
+  {
+   "lane": 1,
+   "beat": 24,
+   "rebound": [
+    1,
+    2
+   ]
+  },
+  {
+   "lane": 2,
+   "beat": 28,
+   "rebound": [
+    1,
+    1
+   ]
+  },
+  {
+   "lane": 0,
+   "beat": 32,
+   "rebound": [
+    1,
+    3
+   ]
+  },
+  {
+   "lane": 3,
+   "beat": 36,
+   "rebound": [
+    1,
+    0
+   ]
+  },
+  {
+   "lane": 2,
+   "beat": 40,
+   "rebound": [
+    1,
+    1
+   ]
+  },
+  {
+   "lane": 1,
+   "beat": 44,
+   "rebound": [
+    1,
+    2
+   ]
+  },
+  {
+   "lane": 3,
+   "beat": 48,
+   "rebound": [
+    1,
+    0
+   ]
+  },
+  {
+   "lane": 0,
+   "beat": 52,
+   "rebound": [
+    1,
+    3
+   ]
+  },
+  {
+   "lane": 1,
+   "beat": 56,
+   "rebound": [
+    0.5,
+    2
+   ]
+  },
+  {
+   "lane": 2,
+   "beat": 60,
+   "rebound": [
+    0.5,
+    1
+   ]
+  },
+  {
+   "lane": 0,
+   "beat": 64,
+   "rebound": [
+    0.5,
+    3
+   ]
+  },
+  {
+   "lane": 3,
+   "beat": 68,
+   "rebound": [
+    0.5,
+    0
+   ]
+  }
+ ],
+ "track": [],
+ "events": [
+  {
+   "beat": 16,
+   "type": "text",
+   "text": "바운스: 치면 튕겨 올랐다가 다시 떨어집니다\n떨어지는 레인에서 한 번 더 치세요",
+   "dur": 7
+  }
+ ]
+}

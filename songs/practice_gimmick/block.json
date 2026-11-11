@@ -1,0 +1,241 @@
+{
+ "format": 3,
+ "meta": {
+  "title": "기믹 체험",
+  "artist": "RED REMAKE",
+  "charter": "RED REMAKE",
+  "difficulty": "레인 봉쇄",
+  "level": 14,
+  "color": "#9aa4b2"
+ },
+ "audio": {
+  "file": "audio.mp3",
+  "offset_ms": 0,
+  "preview_ms": 8000
+ },
+ "timing": {
+  "bpm": [
+   {
+    "beat": 0,
+    "bpm": 120
+   }
+  ]
+ },
+ "scroll": [
+  {
+   "beat": 0,
+   "speed": 1
+  }
+ ],
+ "notes": [
+  {
+   "lane": 1,
+   "beat": 4
+  },
+  {
+   "lane": 2,
+   "beat": 5
+  },
+  {
+   "lane": 0,
+   "beat": 6
+  },
+  {
+   "lane": 3,
+   "beat": 7
+  },
+  {
+   "lane": 1,
+   "beat": 8
+  },
+  {
+   "lane": 2,
+   "beat": 9
+  },
+  {
+   "lane": 0,
+   "beat": 10
+  },
+  {
+   "lane": 3,
+   "beat": 11
+  },
+  {
+   "lane": 1,
+   "beat": 12
+  },
+  {
+   "lane": 2,
+   "beat": 13
+  },
+  {
+   "lane": 0,
+   "beat": 14
+  },
+  {
+   "lane": 3,
+   "beat": 15
+  },
+  {
+   "lane": 1,
+   "beat": 24
+  },
+  {
+   "lane": 2,
+   "beat": 25
+  },
+  {
+   "lane": 3,
+   "beat": 26
+  },
+  {
+   "lane": 1,
+   "beat": 27
+  },
+  {
+   "lane": 2,
+   "beat": 28
+  },
+  {
+   "lane": 3,
+   "beat": 29
+  },
+  {
+   "lane": 1,
+   "beat": 30
+  },
+  {
+   "lane": 2,
+   "beat": 31
+  },
+  {
+   "lane": 2,
+   "beat": 32
+  },
+  {
+   "lane": 1,
+   "beat": 33
+  },
+  {
+   "lane": 2,
+   "beat": 34
+  },
+  {
+   "lane": 0,
+   "beat": 35
+  },
+  {
+   "lane": 1,
+   "beat": 36
+  },
+  {
+   "lane": 2,
+   "beat": 37
+  },
+  {
+   "lane": 0,
+   "beat": 38
+  },
+  {
+   "lane": 1,
+   "beat": 39
+  },
+  {
+   "lane": 0,
+   "beat": 40
+  },
+  {
+   "lane": 3,
+   "beat": 41
+  },
+  {
+   "lane": 2,
+   "beat": 42
+  },
+  {
+   "lane": 0,
+   "beat": 43
+  },
+  {
+   "lane": 3,
+   "beat": 44
+  },
+  {
+   "lane": 2,
+   "beat": 45
+  },
+  {
+   "lane": 0,
+   "beat": 46
+  },
+  {
+   "lane": 3,
+   "beat": 47
+  },
+  {
+   "lane": 0,
+   "beat": 48
+  },
+  {
+   "lane": 0,
+   "beat": 49
+  },
+  {
+   "lane": 3,
+   "beat": 50
+  },
+  {
+   "lane": 1,
+   "beat": 51
+  },
+  {
+   "lane": 0,
+   "beat": 52
+  },
+  {
+   "lane": 3,
+   "beat": 53
+  },
+  {
+   "lane": 1,
+   "beat": 54
+  },
+  {
+   "lane": 0,
+   "beat": 55
+  }
+ ],
+ "track": [],
+ "events": [
+  {
+   "beat": 16,
+   "type": "text",
+   "text": "레인 봉쇄: 셔터가 내려온 레인은 잠시 닫힙니다\n남은 레인으로 손을 바꿔 치세요",
+   "dur": 7
+  },
+  {
+   "beat": 24,
+   "type": "block",
+   "lane": 0,
+   "dur": 8
+  },
+  {
+   "beat": 32,
+   "type": "block",
+   "lane": 3,
+   "dur": 8
+  },
+  {
+   "beat": 40,
+   "type": "block",
+   "lane": 1,
+   "dur": 8
+  },
+  {
+   "beat": 48,
+   "type": "block",
+   "lane": 2,
+   "dur": 8
+  }
+ ]
+}

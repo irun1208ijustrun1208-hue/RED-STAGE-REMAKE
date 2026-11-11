@@ -1,0 +1,249 @@
+{
+ "format": 3,
+ "meta": {
+  "title": "기믹 체험",
+  "artist": "RED REMAKE",
+  "charter": "RED REMAKE",
+  "difficulty": "페이즈",
+  "level": 3,
+  "color": "#7fe3ff"
+ },
+ "audio": {
+  "file": "audio.mp3",
+  "offset_ms": 0,
+  "preview_ms": 8000
+ },
+ "timing": {
+  "bpm": [
+   {
+    "beat": 0,
+    "bpm": 120
+   }
+  ]
+ },
+ "scroll": [
+  {
+   "beat": 0,
+   "speed": 1
+  }
+ ],
+ "notes": [
+  {
+   "lane": 1,
+   "beat": 4
+  },
+  {
+   "lane": 2,
+   "beat": 5
+  },
+  {
+   "lane": 0,
+   "beat": 6
+  },
+  {
+   "lane": 3,
+   "beat": 7
+  },
+  {
+   "lane": 1,
+   "beat": 8
+  },
+  {
+   "lane": 2,
+   "beat": 9
+  },
+  {
+   "lane": 0,
+   "beat": 10
+  },
+  {
+   "lane": 3,
+   "beat": 11
+  },
+  {
+   "lane": 1,
+   "beat": 12
+  },
+  {
+   "lane": 2,
+   "beat": 13
+  },
+  {
+   "lane": 0,
+   "beat": 14
+  },
+  {
+   "lane": 3,
+   "beat": 15
+  },
+  {
+   "lane": 1,
+   "beat": 24,
+   "phase": true
+  },
+  {
+   "lane": 2,
+   "beat": 25,
+   "phase": true
+  },
+  {
+   "lane": 0,
+   "beat": 26,
+   "phase": true
+  },
+  {
+   "lane": 3,
+   "beat": 27,
+   "phase": true
+  },
+  {
+   "lane": 2,
+   "beat": 28,
+   "phase": true
+  },
+  {
+   "lane": 1,
+   "beat": 29,
+   "phase": true
+  },
+  {
+   "lane": 3,
+   "beat": 30,
+   "phase": true
+  },
+  {
+   "lane": 0,
+   "beat": 31,
+   "phase": true
+  },
+  {
+   "lane": 1,
+   "beat": 32,
+   "phase": true
+  },
+  {
+   "lane": 2,
+   "beat": 33,
+   "phase": true
+  },
+  {
+   "lane": 0,
+   "beat": 34,
+   "phase": true
+  },
+  {
+   "lane": 3,
+   "beat": 35,
+   "phase": true
+  },
+  {
+   "lane": 2,
+   "beat": 36,
+   "phase": true
+  },
+  {
+   "lane": 1,
+   "beat": 37,
+   "phase": true
+  },
+  {
+   "lane": 3,
+   "beat": 38,
+   "phase": true
+  },
+  {
+   "lane": 0,
+   "beat": 39,
+   "phase": true
+  },
+  {
+   "lane": 1,
+   "beat": 40,
+   "phase": true
+  },
+  {
+   "lane": 2,
+   "beat": 41,
+   "phase": true
+  },
+  {
+   "lane": 0,
+   "beat": 42,
+   "phase": true
+  },
+  {
+   "lane": 3,
+   "beat": 43,
+   "phase": true
+  },
+  {
+   "lane": 2,
+   "beat": 44,
+   "phase": true
+  },
+  {
+   "lane": 1,
+   "beat": 45,
+   "phase": true
+  },
+  {
+   "lane": 3,
+   "beat": 46,
+   "phase": true
+  },
+  {
+   "lane": 0,
+   "beat": 47,
+   "phase": true
+  },
+  {
+   "lane": 1,
+   "beat": 48,
+   "phase": true
+  },
+  {
+   "lane": 2,
+   "beat": 49,
+   "phase": true
+  },
+  {
+   "lane": 0,
+   "beat": 50,
+   "phase": true
+  },
+  {
+   "lane": 3,
+   "beat": 51,
+   "phase": true
+  },
+  {
+   "lane": 2,
+   "beat": 52,
+   "phase": true
+  },
+  {
+   "lane": 1,
+   "beat": 53,
+   "phase": true
+  },
+  {
+   "lane": 3,
+   "beat": 54,
+   "phase": true
+  },
+  {
+   "lane": 0,
+   "beat": 55,
+   "phase": true
+  }
+ ],
+ "track": [],
+ "events": [
+  {
+   "beat": 16,
+   "type": "text",
+   "text": "페이즈: 박자에 맞춰 사라졌다 나타납니다\n사라져도 하늘색 윤곽이 자리를 알려 줍니다",
+   "dur": 7
+  }
+ ]
+}

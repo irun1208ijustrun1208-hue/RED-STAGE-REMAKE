@@ -1,0 +1,233 @@
+{
+ "format": 3,
+ "meta": {
+  "title": "기믹 체험",
+  "artist": "RED REMAKE",
+  "charter": "RED REMAKE",
+  "difficulty": "개별 속도",
+  "level": 15,
+  "color": "#fff07a"
+ },
+ "audio": {
+  "file": "audio.mp3",
+  "offset_ms": 0,
+  "preview_ms": 8000
+ },
+ "timing": {
+  "bpm": [
+   {
+    "beat": 0,
+    "bpm": 120
+   }
+  ]
+ },
+ "scroll": [
+  {
+   "beat": 0,
+   "speed": 1
+  }
+ ],
+ "notes": [
+  {
+   "lane": 1,
+   "beat": 4
+  },
+  {
+   "lane": 2,
+   "beat": 5
+  },
+  {
+   "lane": 0,
+   "beat": 6
+  },
+  {
+   "lane": 3,
+   "beat": 7
+  },
+  {
+   "lane": 1,
+   "beat": 8
+  },
+  {
+   "lane": 2,
+   "beat": 9
+  },
+  {
+   "lane": 0,
+   "beat": 10
+  },
+  {
+   "lane": 3,
+   "beat": 11
+  },
+  {
+   "lane": 1,
+   "beat": 12
+  },
+  {
+   "lane": 2,
+   "beat": 13
+  },
+  {
+   "lane": 0,
+   "beat": 14
+  },
+  {
+   "lane": 3,
+   "beat": 15
+  },
+  {
+   "lane": 1,
+   "beat": 24,
+   "speed": 1.5
+  },
+  {
+   "lane": 2,
+   "beat": 25
+  },
+  {
+   "lane": 0,
+   "beat": 26,
+   "speed": 2.0
+  },
+  {
+   "lane": 3,
+   "beat": 27
+  },
+  {
+   "lane": 2,
+   "beat": 28,
+   "speed": 0.6
+  },
+  {
+   "lane": 1,
+   "beat": 29
+  },
+  {
+   "lane": 3,
+   "beat": 30,
+   "speed": 2.5
+  },
+  {
+   "lane": 0,
+   "beat": 31
+  },
+  {
+   "lane": 1,
+   "beat": 32,
+   "speed": 0.5
+  },
+  {
+   "lane": 2,
+   "beat": 33
+  },
+  {
+   "lane": 0,
+   "beat": 34,
+   "speed": 3.0
+  },
+  {
+   "lane": 3,
+   "beat": 35
+  },
+  {
+   "lane": 2,
+   "beat": 36,
+   "speed": 0.75
+  },
+  {
+   "lane": 1,
+   "beat": 37
+  },
+  {
+   "lane": 3,
+   "beat": 38,
+   "speed": 1.75
+  },
+  {
+   "lane": 0,
+   "beat": 39
+  },
+  {
+   "lane": 1,
+   "beat": 40,
+   "speed": 1.5
+  },
+  {
+   "lane": 2,
+   "beat": 41
+  },
+  {
+   "lane": 0,
+   "beat": 42,
+   "speed": 2.0
+  },
+  {
+   "lane": 3,
+   "beat": 43
+  },
+  {
+   "lane": 2,
+   "beat": 44,
+   "speed": 0.6
+  },
+  {
+   "lane": 1,
+   "beat": 45
+  },
+  {
+   "lane": 3,
+   "beat": 46,
+   "speed": 2.5
+  },
+  {
+   "lane": 0,
+   "beat": 47
+  },
+  {
+   "lane": 1,
+   "beat": 48,
+   "speed": 0.5
+  },
+  {
+   "lane": 2,
+   "beat": 49
+  },
+  {
+   "lane": 0,
+   "beat": 50,
+   "speed": 3.0
+  },
+  {
+   "lane": 3,
+   "beat": 51
+  },
+  {
+   "lane": 2,
+   "beat": 52,
+   "speed": 0.75
+  },
+  {
+   "lane": 1,
+   "beat": 53
+  },
+  {
+   "lane": 3,
+   "beat": 54,
+   "speed": 1.75
+  },
+  {
+   "lane": 0,
+   "beat": 55
+  }
+ ],
+ "track": [],
+ "events": [
+  {
+   "beat": 16,
+   "type": "text",
+   "text": "개별 속도: 테두리가 주황이면 빠르게, 파랑이면 느리게 옵니다\n도착하는 박은 같아요",
+   "dur": 7
+  }
+ ]
+}

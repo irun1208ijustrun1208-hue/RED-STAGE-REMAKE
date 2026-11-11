@@ -1,0 +1,249 @@
+{
+ "format": 3,
+ "meta": {
+  "title": "기믹 체험",
+  "artist": "RED REMAKE",
+  "charter": "RED REMAKE",
+  "difficulty": "스핀",
+  "level": 5,
+  "color": "#ffd23f"
+ },
+ "audio": {
+  "file": "audio.mp3",
+  "offset_ms": 0,
+  "preview_ms": 8000
+ },
+ "timing": {
+  "bpm": [
+   {
+    "beat": 0,
+    "bpm": 120
+   }
+  ]
+ },
+ "scroll": [
+  {
+   "beat": 0,
+   "speed": 1
+  }
+ ],
+ "notes": [
+  {
+   "lane": 1,
+   "beat": 4
+  },
+  {
+   "lane": 2,
+   "beat": 5
+  },
+  {
+   "lane": 0,
+   "beat": 6
+  },
+  {
+   "lane": 3,
+   "beat": 7
+  },
+  {
+   "lane": 1,
+   "beat": 8
+  },
+  {
+   "lane": 2,
+   "beat": 9
+  },
+  {
+   "lane": 0,
+   "beat": 10
+  },
+  {
+   "lane": 3,
+   "beat": 11
+  },
+  {
+   "lane": 1,
+   "beat": 12
+  },
+  {
+   "lane": 2,
+   "beat": 13
+  },
+  {
+   "lane": 0,
+   "beat": 14
+  },
+  {
+   "lane": 3,
+   "beat": 15
+  },
+  {
+   "lane": 1,
+   "beat": 24,
+   "spin": true
+  },
+  {
+   "lane": 2,
+   "beat": 25,
+   "spin": true
+  },
+  {
+   "lane": 0,
+   "beat": 26,
+   "spin": true
+  },
+  {
+   "lane": 3,
+   "beat": 27,
+   "spin": true
+  },
+  {
+   "lane": 2,
+   "beat": 28,
+   "spin": true
+  },
+  {
+   "lane": 1,
+   "beat": 29,
+   "spin": true
+  },
+  {
+   "lane": 3,
+   "beat": 30,
+   "spin": true
+  },
+  {
+   "lane": 0,
+   "beat": 31,
+   "spin": true
+  },
+  {
+   "lane": 1,
+   "beat": 32,
+   "spin": true
+  },
+  {
+   "lane": 2,
+   "beat": 33,
+   "spin": true
+  },
+  {
+   "lane": 0,
+   "beat": 34,
+   "spin": true
+  },
+  {
+   "lane": 3,
+   "beat": 35,
+   "spin": true
+  },
+  {
+   "lane": 2,
+   "beat": 36,
+   "spin": true
+  },
+  {
+   "lane": 1,
+   "beat": 37,
+   "spin": true
+  },
+  {
+   "lane": 3,
+   "beat": 38,
+   "spin": true
+  },
+  {
+   "lane": 0,
+   "beat": 39,
+   "spin": true
+  },
+  {
+   "lane": 1,
+   "beat": 40,
+   "spin": true
+  },
+  {
+   "lane": 2,
+   "beat": 41,
+   "spin": true
+  },
+  {
+   "lane": 0,
+   "beat": 42,
+   "spin": true
+  },
+  {
+   "lane": 3,
+   "beat": 43,
+   "spin": true
+  },
+  {
+   "lane": 2,
+   "beat": 44,
+   "spin": true
+  },
+  {
+   "lane": 1,
+   "beat": 45,
+   "spin": true
+  },
+  {
+   "lane": 3,
+   "beat": 46,
+   "spin": true
+  },
+  {
+   "lane": 0,
+   "beat": 47,
+   "spin": true
+  },
+  {
+   "lane": 1,
+   "beat": 48,
+   "spin": true
+  },
+  {
+   "lane": 2,
+   "beat": 49,
+   "spin": true
+  },
+  {
+   "lane": 0,
+   "beat": 50,
+   "spin": true
+  },
+  {
+   "lane": 3,
+   "beat": 51,
+   "spin": true
+  },
+  {
+   "lane": 2,
+   "beat": 52,
+   "spin": true
+  },
+  {
+   "lane": 1,
+   "beat": 53,
+   "spin": true
+  },
+  {
+   "lane": 3,
+   "beat": 54,
+   "spin": true
+  },
+  {
+   "lane": 0,
+   "beat": 55,
+   "spin": true
+  }
+ ],
+ "track": [],
+ "events": [
+  {
+   "beat": 16,
+   "type": "text",
+   "text": "스핀: 치면 화면이 출렁입니다\n판정은 그대로니 흔들려도 박자를 지키세요",
+   "dur": 7
+  }
+ ]
+}

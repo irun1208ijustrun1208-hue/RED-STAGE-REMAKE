@@ -1,0 +1,249 @@
+{
+ "format": 3,
+ "meta": {
+  "title": "기믹 체험",
+  "artist": "RED REMAKE",
+  "charter": "RED REMAKE",
+  "difficulty": "은신",
+  "level": 2,
+  "color": "#c86bff"
+ },
+ "audio": {
+  "file": "audio.mp3",
+  "offset_ms": 0,
+  "preview_ms": 8000
+ },
+ "timing": {
+  "bpm": [
+   {
+    "beat": 0,
+    "bpm": 120
+   }
+  ]
+ },
+ "scroll": [
+  {
+   "beat": 0,
+   "speed": 1
+  }
+ ],
+ "notes": [
+  {
+   "lane": 1,
+   "beat": 4
+  },
+  {
+   "lane": 2,
+   "beat": 5
+  },
+  {
+   "lane": 0,
+   "beat": 6
+  },
+  {
+   "lane": 3,
+   "beat": 7
+  },
+  {
+   "lane": 1,
+   "beat": 8
+  },
+  {
+   "lane": 2,
+   "beat": 9
+  },
+  {
+   "lane": 0,
+   "beat": 10
+  },
+  {
+   "lane": 3,
+   "beat": 11
+  },
+  {
+   "lane": 1,
+   "beat": 12
+  },
+  {
+   "lane": 2,
+   "beat": 13
+  },
+  {
+   "lane": 0,
+   "beat": 14
+  },
+  {
+   "lane": 3,
+   "beat": 15
+  },
+  {
+   "lane": 1,
+   "beat": 24,
+   "stealth": true
+  },
+  {
+   "lane": 2,
+   "beat": 25,
+   "stealth": true
+  },
+  {
+   "lane": 0,
+   "beat": 26,
+   "stealth": true
+  },
+  {
+   "lane": 3,
+   "beat": 27,
+   "stealth": true
+  },
+  {
+   "lane": 2,
+   "beat": 28,
+   "stealth": true
+  },
+  {
+   "lane": 1,
+   "beat": 29,
+   "stealth": true
+  },
+  {
+   "lane": 3,
+   "beat": 30,
+   "stealth": true
+  },
+  {
+   "lane": 0,
+   "beat": 31,
+   "stealth": true
+  },
+  {
+   "lane": 1,
+   "beat": 32,
+   "stealth": true
+  },
+  {
+   "lane": 2,
+   "beat": 33,
+   "stealth": true
+  },
+  {
+   "lane": 0,
+   "beat": 34,
+   "stealth": true
+  },
+  {
+   "lane": 3,
+   "beat": 35,
+   "stealth": true
+  },
+  {
+   "lane": 2,
+   "beat": 36,
+   "stealth": true
+  },
+  {
+   "lane": 1,
+   "beat": 37,
+   "stealth": true
+  },
+  {
+   "lane": 3,
+   "beat": 38,
+   "stealth": true
+  },
+  {
+   "lane": 0,
+   "beat": 39,
+   "stealth": true
+  },
+  {
+   "lane": 1,
+   "beat": 40,
+   "stealth": true
+  },
+  {
+   "lane": 2,
+   "beat": 41,
+   "stealth": true
+  },
+  {
+   "lane": 0,
+   "beat": 42,
+   "stealth": true
+  },
+  {
+   "lane": 3,
+   "beat": 43,
+   "stealth": true
+  },
+  {
+   "lane": 2,
+   "beat": 44,
+   "stealth": true
+  },
+  {
+   "lane": 1,
+   "beat": 45,
+   "stealth": true
+  },
+  {
+   "lane": 3,
+   "beat": 46,
+   "stealth": true
+  },
+  {
+   "lane": 0,
+   "beat": 47,
+   "stealth": true
+  },
+  {
+   "lane": 1,
+   "beat": 48,
+   "stealth": true
+  },
+  {
+   "lane": 2,
+   "beat": 49,
+   "stealth": true
+  },
+  {
+   "lane": 0,
+   "beat": 50,
+   "stealth": true
+  },
+  {
+   "lane": 3,
+   "beat": 51,
+   "stealth": true
+  },
+  {
+   "lane": 2,
+   "beat": 52,
+   "stealth": true
+  },
+  {
+   "lane": 1,
+   "beat": 53,
+   "stealth": true
+  },
+  {
+   "lane": 3,
+   "beat": 54,
+   "stealth": true
+  },
+  {
+   "lane": 0,
+   "beat": 55,
+   "stealth": true
+  }
+ ],
+ "track": [],
+ "events": [
+  {
+   "beat": 16,
+   "type": "text",
+   "text": "은신: 판정 0.55초 전에야 깜빡이며 나타납니다\n박자로 미리 준비하세요",
+   "dur": 7
+  }
+ ]
+}

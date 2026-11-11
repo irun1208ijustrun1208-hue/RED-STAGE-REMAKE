@@ -1,0 +1,297 @@
+{
+ "format": 3,
+ "meta": {
+  "title": "기믹 체험",
+  "artist": "RED REMAKE",
+  "charter": "RED REMAKE",
+  "difficulty": "지뢰",
+  "level": 7,
+  "color": "#ff4a66"
+ },
+ "audio": {
+  "file": "audio.mp3",
+  "offset_ms": 0,
+  "preview_ms": 8000
+ },
+ "timing": {
+  "bpm": [
+   {
+    "beat": 0,
+    "bpm": 120
+   }
+  ]
+ },
+ "scroll": [
+  {
+   "beat": 0,
+   "speed": 1
+  }
+ ],
+ "notes": [
+  {
+   "lane": 1,
+   "beat": 4
+  },
+  {
+   "lane": 2,
+   "beat": 5
+  },
+  {
+   "lane": 0,
+   "beat": 6
+  },
+  {
+   "lane": 3,
+   "beat": 7
+  },
+  {
+   "lane": 1,
+   "beat": 8
+  },
+  {
+   "lane": 2,
+   "beat": 9
+  },
+  {
+   "lane": 0,
+   "beat": 10
+  },
+  {
+   "lane": 3,
+   "beat": 11
+  },
+  {
+   "lane": 1,
+   "beat": 12
+  },
+  {
+   "lane": 2,
+   "beat": 13
+  },
+  {
+   "lane": 0,
+   "beat": 14
+  },
+  {
+   "lane": 3,
+   "beat": 15
+  },
+  {
+   "lane": 1,
+   "beat": 24
+  },
+  {
+   "lane": 2,
+   "beat": 24.5,
+   "mine": true
+  },
+  {
+   "lane": 2,
+   "beat": 25
+  },
+  {
+   "lane": 0,
+   "beat": 26
+  },
+  {
+   "lane": 3,
+   "beat": 26.5,
+   "mine": true
+  },
+  {
+   "lane": 3,
+   "beat": 27
+  },
+  {
+   "lane": 2,
+   "beat": 28
+  },
+  {
+   "lane": 1,
+   "beat": 28.5,
+   "mine": true
+  },
+  {
+   "lane": 1,
+   "beat": 29
+  },
+  {
+   "lane": 3,
+   "beat": 30
+  },
+  {
+   "lane": 0,
+   "beat": 30.5,
+   "mine": true
+  },
+  {
+   "lane": 0,
+   "beat": 31
+  },
+  {
+   "lane": 1,
+   "beat": 32
+  },
+  {
+   "lane": 2,
+   "beat": 32.5,
+   "mine": true
+  },
+  {
+   "lane": 2,
+   "beat": 33
+  },
+  {
+   "lane": 0,
+   "beat": 34
+  },
+  {
+   "lane": 3,
+   "beat": 34.5,
+   "mine": true
+  },
+  {
+   "lane": 3,
+   "beat": 35
+  },
+  {
+   "lane": 2,
+   "beat": 36
+  },
+  {
+   "lane": 1,
+   "beat": 36.5,
+   "mine": true
+  },
+  {
+   "lane": 1,
+   "beat": 37
+  },
+  {
+   "lane": 3,
+   "beat": 38
+  },
+  {
+   "lane": 0,
+   "beat": 38.5,
+   "mine": true
+  },
+  {
+   "lane": 0,
+   "beat": 39
+  },
+  {
+   "lane": 1,
+   "beat": 40
+  },
+  {
+   "lane": 2,
+   "beat": 40.5,
+   "mine": true
+  },
+  {
+   "lane": 2,
+   "beat": 41
+  },
+  {
+   "lane": 0,
+   "beat": 42
+  },
+  {
+   "lane": 3,
+   "beat": 42.5,
+   "mine": true
+  },
+  {
+   "lane": 3,
+   "beat": 43
+  },
+  {
+   "lane": 2,
+   "beat": 44
+  },
+  {
+   "lane": 1,
+   "beat": 44.5,
+   "mine": true
+  },
+  {
+   "lane": 1,
+   "beat": 45
+  },
+  {
+   "lane": 3,
+   "beat": 46
+  },
+  {
+   "lane": 0,
+   "beat": 46.5,
+   "mine": true
+  },
+  {
+   "lane": 0,
+   "beat": 47
+  },
+  {
+   "lane": 1,
+   "beat": 48
+  },
+  {
+   "lane": 2,
+   "beat": 48.5,
+   "mine": true
+  },
+  {
+   "lane": 2,
+   "beat": 49
+  },
+  {
+   "lane": 0,
+   "beat": 50
+  },
+  {
+   "lane": 3,
+   "beat": 50.5,
+   "mine": true
+  },
+  {
+   "lane": 3,
+   "beat": 51
+  },
+  {
+   "lane": 2,
+   "beat": 52
+  },
+  {
+   "lane": 1,
+   "beat": 52.5,
+   "mine": true
+  },
+  {
+   "lane": 1,
+   "beat": 53
+  },
+  {
+   "lane": 3,
+   "beat": 54
+  },
+  {
+   "lane": 0,
+   "beat": 54.5,
+   "mine": true
+  },
+  {
+   "lane": 0,
+   "beat": 55
+  }
+ ],
+ "track": [],
+ "events": [
+  {
+   "beat": 16,
+   "type": "text",
+   "text": "지뢰: 누르면 BREAK, 그냥 보내면 SYNC\n가시 달린 검은 노트는 치지 마세요",
+   "dur": 7
+  }
+ ]
+}

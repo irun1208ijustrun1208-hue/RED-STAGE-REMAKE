@@ -1,0 +1,137 @@
+{
+ "format": 3,
+ "meta": {
+  "title": "기믹 체험",
+  "artist": "RED REMAKE",
+  "charter": "RED REMAKE",
+  "difficulty": "맥박",
+  "level": 12,
+  "color": "#ff6fa8"
+ },
+ "audio": {
+  "file": "audio.mp3",
+  "offset_ms": 0,
+  "preview_ms": 8000
+ },
+ "timing": {
+  "bpm": [
+   {
+    "beat": 0,
+    "bpm": 120
+   }
+  ]
+ },
+ "scroll": [
+  {
+   "beat": 0,
+   "speed": 1
+  }
+ ],
+ "notes": [
+  {
+   "lane": 1,
+   "beat": 4
+  },
+  {
+   "lane": 2,
+   "beat": 5
+  },
+  {
+   "lane": 0,
+   "beat": 6
+  },
+  {
+   "lane": 3,
+   "beat": 7
+  },
+  {
+   "lane": 1,
+   "beat": 8
+  },
+  {
+   "lane": 2,
+   "beat": 9
+  },
+  {
+   "lane": 0,
+   "beat": 10
+  },
+  {
+   "lane": 3,
+   "beat": 11
+  },
+  {
+   "lane": 1,
+   "beat": 12
+  },
+  {
+   "lane": 2,
+   "beat": 13
+  },
+  {
+   "lane": 0,
+   "beat": 14
+  },
+  {
+   "lane": 3,
+   "beat": 15
+  },
+  {
+   "lane": 1,
+   "beat": 24,
+   "len": 4,
+   "pulse": 1
+  },
+  {
+   "lane": 2,
+   "beat": 30,
+   "len": 4,
+   "pulse": 1
+  },
+  {
+   "lane": 0,
+   "beat": 36,
+   "len": 4,
+   "pulse": 1
+  },
+  {
+   "lane": 3,
+   "beat": 42,
+   "len": 4,
+   "pulse": 1
+  },
+  {
+   "lane": 2,
+   "beat": 48,
+   "len": 4,
+   "pulse": 1
+  },
+  {
+   "lane": 1,
+   "beat": 54,
+   "len": 4,
+   "pulse": 1
+  },
+  {
+   "lane": 3,
+   "beat": 60,
+   "len": 4,
+   "pulse": 1
+  },
+  {
+   "lane": 0,
+   "beat": 66,
+   "len": 4,
+   "pulse": 1
+  }
+ ],
+ "track": [],
+ "events": [
+  {
+   "beat": 16,
+   "type": "text",
+   "text": "맥박 홀드: 홀드를 누른 채 분홍 눈금마다\n떼었다 다시 누르면 보너스(놓쳐도 괜찮아요)",
+   "dur": 7
+  }
+ ]
+}

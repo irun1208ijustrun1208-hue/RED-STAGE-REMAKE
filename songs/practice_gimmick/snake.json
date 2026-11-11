@@ -1,0 +1,193 @@
+{
+ "format": 3,
+ "meta": {
+  "title": "기믹 체험",
+  "artist": "RED REMAKE",
+  "charter": "RED REMAKE",
+  "difficulty": "스네이크",
+  "level": 9,
+  "color": "#3cffb4"
+ },
+ "audio": {
+  "file": "audio.mp3",
+  "offset_ms": 0,
+  "preview_ms": 8000
+ },
+ "timing": {
+  "bpm": [
+   {
+    "beat": 0,
+    "bpm": 120
+   }
+  ]
+ },
+ "scroll": [
+  {
+   "beat": 0,
+   "speed": 1
+  }
+ ],
+ "notes": [
+  {
+   "lane": 1,
+   "beat": 4
+  },
+  {
+   "lane": 2,
+   "beat": 5
+  },
+  {
+   "lane": 0,
+   "beat": 6
+  },
+  {
+   "lane": 3,
+   "beat": 7
+  },
+  {
+   "lane": 1,
+   "beat": 8
+  },
+  {
+   "lane": 2,
+   "beat": 9
+  },
+  {
+   "lane": 0,
+   "beat": 10
+  },
+  {
+   "lane": 3,
+   "beat": 11
+  },
+  {
+   "lane": 1,
+   "beat": 12
+  },
+  {
+   "lane": 2,
+   "beat": 13
+  },
+  {
+   "lane": 0,
+   "beat": 14
+  },
+  {
+   "lane": 3,
+   "beat": 15
+  },
+  {
+   "lane": 1,
+   "beat": 24,
+   "len": 4,
+   "path": [
+    [
+     26,
+     2
+    ]
+   ]
+  },
+  {
+   "lane": 2,
+   "beat": 30,
+   "len": 4,
+   "path": [
+    [
+     32,
+     1
+    ]
+   ]
+  },
+  {
+   "lane": 0,
+   "beat": 36,
+   "len": 4,
+   "path": [
+    [
+     38,
+     1
+    ]
+   ]
+  },
+  {
+   "lane": 3,
+   "beat": 42,
+   "len": 4,
+   "path": [
+    [
+     44,
+     2
+    ]
+   ]
+  },
+  {
+   "lane": 1,
+   "beat": 48,
+   "len": 4,
+   "path": [
+    [
+     49.5,
+     2
+    ],
+    [
+     51,
+     1
+    ]
+   ]
+  },
+  {
+   "lane": 2,
+   "beat": 54,
+   "len": 4,
+   "path": [
+    [
+     55.5,
+     1
+    ],
+    [
+     57,
+     2
+    ]
+   ]
+  },
+  {
+   "lane": 0,
+   "beat": 60,
+   "len": 4,
+   "path": [
+    [
+     61.5,
+     1
+    ],
+    [
+     63,
+     0
+    ]
+   ]
+  },
+  {
+   "lane": 3,
+   "beat": 66,
+   "len": 4,
+   "path": [
+    [
+     67.5,
+     2
+    ],
+    [
+     69,
+     3
+    ]
+   ]
+  }
+ ],
+ "track": [],
+ "events": [
+  {
+   "beat": 16,
+   "type": "text",
+   "text": "스네이크: 홀드 몸통이 옆 레인으로 꺾입니다\n꺾이는 순간 새 키로 바꿔 짚으세요(순서는 상관없음)",
+   "dur": 7
+  }
+ ]
+}

@@ -1,0 +1,244 @@
+{
+ "format": 3,
+ "meta": {
+  "title": "기믹 체험",
+  "artist": "RED REMAKE",
+  "charter": "RED REMAKE",
+  "difficulty": "분열",
+  "level": 10,
+  "color": "#5ce1ff"
+ },
+ "audio": {
+  "file": "audio.mp3",
+  "offset_ms": 0,
+  "preview_ms": 8000
+ },
+ "timing": {
+  "bpm": [
+   {
+    "beat": 0,
+    "bpm": 120
+   }
+  ]
+ },
+ "scroll": [
+  {
+   "beat": 0,
+   "speed": 1
+  }
+ ],
+ "notes": [
+  {
+   "lane": 1,
+   "beat": 4
+  },
+  {
+   "lane": 2,
+   "beat": 5
+  },
+  {
+   "lane": 0,
+   "beat": 6
+  },
+  {
+   "lane": 3,
+   "beat": 7
+  },
+  {
+   "lane": 1,
+   "beat": 8
+  },
+  {
+   "lane": 2,
+   "beat": 9
+  },
+  {
+   "lane": 0,
+   "beat": 10
+  },
+  {
+   "lane": 3,
+   "beat": 11
+  },
+  {
+   "lane": 1,
+   "beat": 12
+  },
+  {
+   "lane": 2,
+   "beat": 13
+  },
+  {
+   "lane": 0,
+   "beat": 14
+  },
+  {
+   "lane": 3,
+   "beat": 15
+  },
+  {
+   "lane": 1,
+   "beat": 24,
+   "split": 1.5
+  },
+  {
+   "lane": 2,
+   "beat": 24,
+   "split": 1.5
+  },
+  {
+   "lane": 3,
+   "beat": 26
+  },
+  {
+   "lane": 0,
+   "beat": 28,
+   "split": 1.5
+  },
+  {
+   "lane": 3,
+   "beat": 28,
+   "split": 1.5
+  },
+  {
+   "lane": 0,
+   "beat": 30
+  },
+  {
+   "lane": 0,
+   "beat": 32,
+   "split": 0.5
+  },
+  {
+   "lane": 1,
+   "beat": 32,
+   "split": 0.5
+  },
+  {
+   "lane": 3,
+   "beat": 34
+  },
+  {
+   "lane": 2,
+   "beat": 36,
+   "split": 2.5
+  },
+  {
+   "lane": 3,
+   "beat": 36,
+   "split": 2.5
+  },
+  {
+   "lane": 0,
+   "beat": 38
+  },
+  {
+   "lane": 1,
+   "beat": 40,
+   "split": 2.0
+  },
+  {
+   "lane": 3,
+   "beat": 40,
+   "split": 2.0
+  },
+  {
+   "lane": 1,
+   "beat": 42
+  },
+  {
+   "lane": 1,
+   "beat": 44,
+   "split": 1.5
+  },
+  {
+   "lane": 2,
+   "beat": 44,
+   "split": 1.5
+  },
+  {
+   "lane": 3,
+   "beat": 46
+  },
+  {
+   "lane": 0,
+   "beat": 48,
+   "split": 1.5
+  },
+  {
+   "lane": 3,
+   "beat": 48,
+   "split": 1.5
+  },
+  {
+   "lane": 0,
+   "beat": 50
+  },
+  {
+   "lane": 0,
+   "beat": 52,
+   "split": 1.0
+  },
+  {
+   "lane": 1,
+   "beat": 52,
+   "split": 1.0
+  },
+  {
+   "lane": 2,
+   "beat": 52,
+   "split": 1.0
+  },
+  {
+   "lane": 3,
+   "beat": 54
+  },
+  {
+   "lane": 1,
+   "beat": 56,
+   "split": 2.0
+  },
+  {
+   "lane": 2,
+   "beat": 56,
+   "split": 2.0
+  },
+  {
+   "lane": 3,
+   "beat": 56,
+   "split": 2.0
+  },
+  {
+   "lane": 0,
+   "beat": 58
+  },
+  {
+   "lane": 0,
+   "beat": 60,
+   "split": 1.667
+  },
+  {
+   "lane": 2,
+   "beat": 60,
+   "split": 1.667
+  },
+  {
+   "lane": 3,
+   "beat": 60,
+   "split": 1.667
+  },
+  {
+   "lane": 1,
+   "beat": 62
+  }
+ ],
+ "track": [],
+ "events": [
+  {
+   "beat": 16,
+   "type": "text",
+   "text": "분열: 하나로 내려오다 판정선 앞에서 갈라집니다\n갈라진 노트를 동시에 치세요",
+   "dur": 7
+  }
+ ]
+}
